@@ -1,0 +1,242 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 4054
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 10
+	Country: Brazil ; Times: 11
+	Country: China ; Times: 1
+	Country: Czechia ; Times: 6
+	Country: Germany ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 140
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-10 ; Times: 3
+	Date: 2014-04-11 ; Times: 9
+	Date: 2014-04-12 ; Times: 3
+	Date: 2014-04-13 ; Times: 1
+	Date: 2014-04-14 ; Times: 7
+	Date: 2014-04-15 ; Times: 21
+	Date: 2014-04-16 ; Times: 6
+	Date: 2014-04-17 ; Times: 11
+	Date: 2014-04-18 ; Times: 5
+	Date: 2014-04-19 ; Times: 1
+	Date: 2014-04-20 ; Times: 10
+	Date: 2014-04-21 ; Times: 6
+	Date: 2014-04-22 ; Times: 14
+	Date: 2014-04-23 ; Times: 14
+	Date: 2014-04-24 ; Times: 10
+	Date: 2014-04-25 ; Times: 32
+	Date: 2014-04-26 ; Times: 4
+	Date: 2014-04-28 ; Times: 8
+	Date: 2014-04-29 ; Times: 12
+	Date: 2014-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia Furipterus horrens" ; Times: 4
+	Query: "Gerbillus pusillus" ; Times: 2
+	Query: "country:"Ecuador" genus:Noctilio year >= 1800 year <= 2014" ; Times: 1
+	Query: "Praomys daltoni" ; Times: 4
+	Query: "Bassariscus and Texas mappable:1" ; Times: 2
+	Query: "Panthera tigris (juvenile)" ; Times: 1
+	Query: "genus:choloepus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "carnivora smithsonian" ; Times: 2
+	Query: "sus scrofa" ; Times: 2
+	Query: "Marmosops invictus" ; Times: 1
+	Query: "Taurotragus oryx type:specimen" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "scalopus aquaticus illinois" ; Times: 2
+	Query: "mustela frenata county:"king" stateprovince:"washington"" ; Times: 1
+	Query: ""Tamias bulleri"" ; Times: 1
+	Query: "country:"Syria" class:Mammalia" ; Times: 2
+	Query: "Panthera tigris (fetus)" ; Times: 1
+	Query: "specificepithet:Axis axis" ; Times: 2
+	Query: "theropithecus" ; Times: 3
+	Query: "Loxodonta" ; Times: 1
+	Query: "acinonyx" ; Times: 2
+	Query: "Elephas" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 3
+	Query: "tachyglossus aculeatus" ; Times: 1
+	Query: "marmosops neblina" ; Times: 1
+	Query: "xenomys nelsoni" ; Times: 1
+	Query: "Ochotona princeps wasatch" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "sus scrofa stateprovince:"Texas" country:"United States"" ; Times: 4
+	Query: "callithrix aurita" ; Times: 2
+	Query: "Heterocephalus somalia" ; Times: 4
+	Query: "genus:Pithecia class:Mammalia media:1" ; Times: 2
+	Query: "type:specimen specificepithet:alstoni genus:sigmodon" ; Times: 3
+	Query: "stateprovince:"texas" genus:bassariscus mappable:1" ; Times: 3
+	Query: "Ochotona princeps stateprovince:"oregon"" ; Times: 2
+	Query: "stateprovince:"prince edward island"" ; Times: 3
+	Query: "stateprovince:"texas" genus:bassariscus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "Cynomys gunnisoni type:specimen year <= 1900" ; Times: 1
+	Query: "country:"Argentina" genus:Ctenomys" ; Times: 3
+	Query: "hydropotes" ; Times: 2
+	Query: "type:specimen specificepithet:alleni genus:Sigmodon" ; Times: 4
+	Query: "Ochotona princeps media:1" ; Times: 2
+	Query: "USNM 327384" ; Times: 2
+	Query: "type:specimen genus:isthmomys" ; Times: 3
+	Query: "type:specimen specificepithet:ochrognathus genus:sigmodon" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "rhinolophus trifoliatus" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus institutioncode:nmnh" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "Panthera leo (juvenile)" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "country:"United States" specificepithet:catus genus:felis" ; Times: 1
+	Query: "Heterocephalus" ; Times: 6
+	Query: "catalognumber:490233.7368172 institutioncode:NMNH" ; Times: 1
+	Query: "mus sp" ; Times: 1
+	Query: "gerbillus henleyi" ; Times: 4
+	Query: "Bassariscus Texas" ; Times: 3
+	Query: "quia" ; Times: 2
+	Query: "cervus nippon country:"United States"" ; Times: 1
+	Query: "Bassariscus Texas mappable:1" ; Times: 1
+	Query: "class:Mammalia institutioncode:NMNH year <= 1750" ; Times: 1
+	Query: "lepus europaeus" ; Times: 3
+	Query: "class:Mammalia institutioncode:NMNH" ; Times: 3
+	Query: "Thallomys" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "class:Mammalia institutioncode:NMNH year <= 1850" ; Times: 1
+	Query: "county:"inyo" stateprovince:"california" specificepithet:californicus genus:microtus institutioncode:nmnh" ; Times: 1
+	Query: "microtus californicus scirpensis" ; Times: 1
+	Query: "Cratogeomys neglectus" ; Times: 5
+	Query: "bighorn stateprovince:"Nevada"" ; Times: 1
+	Query: "country:"United States" specificepithet:mulatta genus:macaca" ; Times: 1
+	Query: "Cynomys gunnisoni year <= 1900" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "country:"United States" specificepithet:europaeus genus:lepus" ; Times: 3
+	Query: "USNM 200812" ; Times: 1
+	Query: "Atelocynus microtis" ; Times: 2
+	Query: "Bassariscus stateprovince:"Texas" mappable:1" ; Times: 2
+	Query: "Thamnomys" ; Times: 1
+	Query: "specificepithet:fischeri genus:Haplonycteris recordedby:L. Heaney" ; Times: 1
+	Query: "lutrogale" ; Times: 1
+	Query: "catalognumber:25979.7228618" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 3
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 7
+	Query: "type:specimen specificepithet:leucotis genus:sigmodon" ; Times: 1
+	Query: "Shoshone Inyo genus:Microtus" ; Times: 1
+	Query: "Panthera tigris (embryo)" ; Times: 1
+	Query: "type:specimen stateprovince:"Michigan" genus:Tamiasciurus" ; Times: 1
+	Query: "Kogia" ; Times: 1
+	Query: "bassariscus stateprovince:"texas" mappable:1" ; Times: 2
+	Query: "Chaetodipus rudinoris mesidios" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:europaeus genus:lepus" ; Times: 1
+	Query: "Lutreolina" ; Times: 1
+	Query: "texas bassariscus mappable:1" ; Times: 1
+	Query: "genus:microtus catalognumber:25979.7228618" ; Times: 3
+	Query: "pteropus hypomelanus" ; Times: 1
+	Query: "cavia tschudii" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 433 download events in this period)
+Total number of records downloaded: 82314 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 74402
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Czechia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-11 ; Times: 1
+	Date: 2014-04-12 ; Times: 2
+	Date: 2014-04-15 ; Times: 9
+	Date: 2014-04-16 ; Times: 2
+	Date: 2014-04-17 ; Times: 4
+	Date: 2014-04-18 ; Times: 5
+	Date: 2014-04-20 ; Times: 3
+	Date: 2014-04-21 ; Times: 2
+	Date: 2014-04-22 ; Times: 6
+	Date: 2014-04-23 ; Times: 6
+	Date: 2014-04-24 ; Times: 2
+	Date: 2014-04-25 ; Times: 2
+	Date: 2014-04-26 ; Times: 3
+	Date: 2014-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "habromys" ; Times: 1
+	Query: "country:"United States" specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "class:Mammalia Furipterus horrens" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"New York"" ; Times: 1
+	Query: "Cynomys gunnisoni type:specimen year <= 1900" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "country:"United States" specificepithet:europaeus genus:lepus" ; Times: 1
+	Query: "Procyon stateprovince:"New York"" ; Times: 1
+	Query: "Praomys daltoni" ; Times: 1
+	Query: "Bassariscus and Texas mappable:1" ; Times: 1
+	Query: "country:"Syria" class:Mammalia" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "country:"United States" specificepithet:catus genus:felis" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 2
+	Query: "peromyscus truei" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "akodon mollis" ; Times: 1
+	Query: "tachyglossus aculeatus" ; Times: 1
+	Query: "Zapus hudsonius stateprovince:"New York"" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "cervus nippon country:"United States"" ; Times: 1
+	Query: "carnivora smithsonian" ; Times: 1
+	Query: "specificepithet:fischeri genus:Haplonycteris" ; Times: 3
+	Query: "Odocoileus" ; Times: 1
+	Query: "country:"United States" specificepithet:rattus genus:rattus" ; Times: 1
+	Query: "country:"United States" specificepithet:mulatta genus:macaca" ; Times: 1
+	Query: "akodon orophilus" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "stateprovince:"prince edward island"" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "type:specimen specificepithet:fulviventer genus:sigmodon" ; Times: 1
+	Query: "Thallomys" ; Times: 1
+	Query: "country:"Argentina" genus:Ctenomys" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Chaetodipus" ; Times: 2
+	Query: "Microtus pennsylvanicus stateprovince:"New York"" ; Times: 1
+	Query: "Otopteropus cartilagonodus" ; Times: 1
+	Query: "microtus californicus scirpensis" ; Times: 1
+	Query: "type:specimen genus:isthmomys" ; Times: 1
+	Query: "Thamnomys" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Napaeozapus insignis stateprovince:"New York"" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 179
+Total number of records retrieved from searches: 4054
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 82314
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 179
+Total number of records retrieved from searches: 4054
+Number of download events that retrieved data from the resource: 49
+Total number of records downloaded: 82314
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
