@@ -1,0 +1,472 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 489
+Number of records retrieved in searches: 10201
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 18
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 65
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 3
+	Country: Mexico ; Times: 49
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 317
+	Country: Unknown ; Times: 11
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 3
+	Date: 2014-08-02 ; Times: 1
+	Date: 2014-08-04 ; Times: 5
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-06 ; Times: 27
+	Date: 2014-08-07 ; Times: 19
+	Date: 2014-08-08 ; Times: 24
+	Date: 2014-08-09 ; Times: 11
+	Date: 2014-08-10 ; Times: 7
+	Date: 2014-08-11 ; Times: 17
+	Date: 2014-08-12 ; Times: 14
+	Date: 2014-08-13 ; Times: 22
+	Date: 2014-08-14 ; Times: 10
+	Date: 2014-08-15 ; Times: 6
+	Date: 2014-08-16 ; Times: 5
+	Date: 2014-08-17 ; Times: 5
+	Date: 2014-08-18 ; Times: 37
+	Date: 2014-08-19 ; Times: 14
+	Date: 2014-08-20 ; Times: 23
+	Date: 2014-08-21 ; Times: 18
+	Date: 2014-08-22 ; Times: 16
+	Date: 2014-08-23 ; Times: 8
+	Date: 2014-08-24 ; Times: 13
+	Date: 2014-08-25 ; Times: 35
+	Date: 2014-08-26 ; Times: 20
+	Date: 2014-08-27 ; Times: 16
+	Date: 2014-08-28 ; Times: 18
+	Date: 2014-08-29 ; Times: 67
+	Date: 2014-08-30 ; Times: 8
+	Date: 2014-08-31 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"california" country:"united states" specificepithet:arizonae genus:sigmodon" ; Times: 1
+	Query: "myospalax" ; Times: 2
+	Query: "medioximus" ; Times: 1
+	Query: "Canis latrans distance(location,geopoint(15.615982874028395,-90.384521484375))<372338" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Mesoplodon" ; Times: 1
+	Query: "lepus callotis" ; Times: 3
+	Query: "181598 acinonyx" ; Times: 1
+	Query: "nutria" ; Times: 3
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "martes americana humboldtensis" ; Times: 1
+	Query: "galictis colombia" ; Times: 1
+	Query: "country:"Colombia" specificepithet:nigricollis genus:SAguinus class:Mammalia" ; Times: 1
+	Query: "Mungos mungo type:specimen" ; Times: 1
+	Query: "Chiroptera Abaco (Bahamas OR Bahama)" ; Times: 3
+	Query: "country:"Colombia" specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "Semnopithecus" ; Times: 2
+	Query: "Eptesicus fuscus institutioncode:USNM (Bahamas OR Bahama)" ; Times: 2
+	Query: "family:Elephantidae (skull)" ; Times: 5
+	Query: "Chaetophractus" ; Times: 2
+	Query: "specificepithet:prehensilis genus:coendou distance(location,geopoint(-4.470847172390763,-59.23828125))<1617866" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "country:"Canada" specificepithet:palustris genus:Sorex institutioncode:USNM" ; Times: 1
+	Query: "Chiroptera Acklins" ; Times: 1
+	Query: "Cerdocyon thous country:"Colombia"" ; Times: 4
+	Query: "stateprovince:"indiana" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "Chiroptera Long Bahamas" ; Times: 1
+	Query: "Abaco Chiroptera (Bahamas OR Bahama)" ; Times: 3
+	Query: "berylmys" ; Times: 3
+	Query: "Cyclopes didactylus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "class:Mammalia Diaemus youngi" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 3
+	Query: "loxodonta skull type:specimen" ; Times: 3
+	Query: "Phocoena sinus" ; Times: 4
+	Query: "coendou" ; Times: 10
+	Query: "country:"Colombia" genus:bassaricyon medius" ; Times: 1
+	Query: "stateprovince:"Oregon" specificepithet:latrans genus:Canis" ; Times: 1
+	Query: "pongo pygmaeus USNM" ; Times: 2
+	Query: "Great Abaco Chiroptera (Bahamas OR Bahama)" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica NOT States NOT Peru NOT Haiti)" ; Times: 5
+	Query: "Tadarida brasiliensis recordedby:Riley (Bahama OR Bahamas)" ; Times: 1
+	Query: "loxodonta africana" ; Times: 20
+	Query: "stateprovince:"Idaho" genus:Canis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Mustela nigripes type:specimen" ; Times: 2
+	Query: "country:"Colombia" specificepithet:apella genus:Cebus class:Mammalia" ; Times: 2
+	Query: "Conepatus semistriatus stateprovince:"Veracruz" country:"Mexico" year >= 1700 year <= 20144" ; Times: 3
+	Query: "stateprovince:"minnesota" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "genus:Ctenomys AND (NOT Bolivia) year >= 1971 year <= 1971" ; Times: 3
+	Query: "macrotus waterhousii country:"bahamas"" ; Times: 1
+	Query: "merced falls" ; Times: 1
+	Query: "Euneomys chinchilloides" ; Times: 1
+	Query: "suricata suricatta" ; Times: 2
+	Query: "country:"bahamas" specificepithet:waterhousii genus:macrotus" ; Times: 2
+	Query: "181596 acinonyx" ; Times: 2
+	Query: "stateprovince:"illinois" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 4
+	Query: "Chiroptera Mayaguana" ; Times: 2
+	Query: "dinomys country:"Colombia"" ; Times: 2
+	Query: ""balionycteris" mappable:1" ; Times: 1
+	Query: "Rhynchogale melleri" ; Times: 1
+	Query: "Tadarida brasiliensis recordedby:Riley institutioncode:USNM (Bahama OR Bahamas)" ; Times: 1
+	Query: "country:"Colombia" specificepithet:seniculus genus:Alouatta class:Mammalia" ; Times: 3
+	Query: "suncus lixus" ; Times: 1
+	Query: "stateprovince:"iowa" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia institutioncode:USNM" ; Times: 8
+	Query: "Chiroptera San Salvador (Bahamas OR Bahama)" ; Times: 1
+	Query: "(quindio)" ; Times: 1
+	Query: "Herpestes ichneumon type:specimen" ; Times: 1
+	Query: "Nutria" ; Times: 1
+	Query: "berylmys berdmorei" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1888 year <= 1940" ; Times: 2
+	Query: "type:specimen genus:myosorex" ; Times: 1
+	Query: "country:"Colombia" specificepithet:hybridus genus:Ateles class:Mammalia" ; Times: 2
+	Query: "Sorex tenellus" ; Times: 2
+	Query: "country:"Colombia" specificepithet:sciureus genus:Saimiri class:Mammalia" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Myotis" ; Times: 1
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 5
+	Query: "specificepithet:prehensilis genus:Coendou mappable:1" ; Times: 2
+	Query: "Suncus etruscus" ; Times: 5
+	Query: "gunnisoni county:"Socorro"" ; Times: 1
+	Query: "mammalia norte de santander colombia" ; Times: 2
+	Query: "dinomys" ; Times: 1
+	Query: "stateprovince:"illinois" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "country:"Colombia" genus:procyon" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 1965" ; Times: 2
+	Query: "Sciurillus pusillus" ; Times: 2
+	Query: "Chiroptera Long Island (Bahama OR Bahamas)" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 1960" ; Times: 2
+	Query: "hepburn year >= 1850 year <= 1870" ; Times: 1
+	Query: "type:specimen stateprovince:"california" specificepithet:peruvianus genus:Mesoplodon" ; Times: 1
+	Query: "country:"Colombia" genus:Bassaricyon alleni" ; Times: 1
+	Query: "specificepithet:bicornis genus:diceros" ; Times: 2
+	Query: "specificepithet:prehensilis genus:coendou mappable:1" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 25
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Elephantidae" ; Times: 1
+	Query: "country:"Colombia" specificepithet:oedipus genus:SAguinus class:Mammalia" ; Times: 1
+	Query: "181596 nmnh" ; Times: 2
+	Query: "Chiroptera Abaco" ; Times: 3
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "stateprovince:"iowa" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 14
+	Query: "coendou year >= 1530 year <= 2014" ; Times: 2
+	Query: "sphiggurus country:"mexico" year >= 1000 year <= 2014" ; Times: 1
+	Query: "eligmodontia typus country:"chile"" ; Times: 1
+	Query: "specificepithet:prehensilis genus:coendou" ; Times: 5
+	Query: "distance(location,geopoint(-0.23437345230246998,2.548828125))<100000" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen stateprovince:"North Carolina"" ; Times: 1
+	Query: "country:"Colombia" genus:Lagothrix class:Mammalia" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "stateprovince:"Oregon" genus:Canis" ; Times: 1
+	Query: "Nasuella olivacea" ; Times: 7
+	Query: "coypus country:"chile"" ; Times: 1
+	Query: "class:Mammalia genus:Notomys" ; Times: 3
+	Query: "stateprovince:"Washington" genus:Canis" ; Times: 1
+	Query: "ammospermophilus leucurus type:specimen institutioncode:USNM year >= 1980 year <= 1980" ; Times: 2
+	Query: "sa pa" ; Times: 1
+	Query: "country:"Colombia" specificepithet:palliata genus:Alouatta class:Mammalia" ; Times: 1
+	Query: "genus:Coendou prehensilis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Nandinia binotata type:specimen" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 4
+	Query: "country:"Colombia" genus:bassaricyon neblina" ; Times: 1
+	Query: ""tamias merriami" country:"Mexico"" ; Times: 1
+	Query: "country:"Colombia" genus:Ateles class:Mammalia" ; Times: 2
+	Query: "recordedby:Hansen year >= 1983 year <= 1983" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Casuarina Chiroptera (Bahamas OR Bahama)" ; Times: 1
+	Query: "stateprovince:"illinois" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "hepburn year >= 1800 year <= 1870" ; Times: 1
+	Query: "country:"Colombia" genus:Nasuella" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "matinicus rock" ; Times: 1
+	Query: "mustela nigripes" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "country:"Colombia" genus:Nasuella olivacea" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:parvus genus:Cryptotis" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Macrotus waterhousii USNM Bahamas" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "conepatus semistriatus colombia" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "181598 nmnh" ; Times: 2
+	Query: "Chrotopterus" ; Times: 1
+	Query: "cryptotis parvus floridanus" ; Times: 1
+	Query: "Macrotus waterhousii country:"Bahamas"" ; Times: 2
+	Query: "Ziphiidae" ; Times: 1
+	Query: "gunnisoni stateprovince:"New Mexico"" ; Times: 3
+	Query: "cyclopes didactylus colombia" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 3
+	Query: "stateprovince:"south dakota" specificepithet:lupus genus:canis" ; Times: 2
+	Query: "specificepithet:prehensilis genus:Coendou" ; Times: 13
+	Query: "Coendou prehensilis mappable:1" ; Times: 1
+	Query: "Crossarchus alexandri" ; Times: 1
+	Query: "type:specimen specificepithet:prehensilis genus:Coendou" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "loxodonta skull" ; Times: 4
+	Query: "country:"Colombia" specificepithet:albifrons genus:Cebus class:Mammalia" ; Times: 2
+	Query: "Chironectes minimus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" genus:neurotrichus AND (NOT HSU)" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia institutioncode:USNM AND (NOT West Virginia)" ; Times: 1
+	Query: "grayson year >= 1850 year <= 1870" ; Times: 1
+	Query: "stateprovince:"Oregon" genus:Vulpes" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "country:"Colombia" genus:Bassaricyon" ; Times: 1
+	Query: "murcielagos" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "Odobenus rosmarus skeleton" ; Times: 2
+	Query: "stateprovince:"minnesota" specificepithet:canadensis genus:lynx" ; Times: 1
+	Query: "entellus" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen year >= 1941 year <= 2014" ; Times: 2
+	Query: "viscacia country:"chile"" ; Times: 1
+	Query: "apodemus epimelas" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "sylvilagus brasiliensis type:specimen year >= 1961 year <= 2014" ; Times: 2
+	Query: "country:"Colombia" specificepithet:leucopus genus:SAguinus class:Mammalia" ; Times: 1
+	Query: "country:"Colombia" specificepithet:torquatus genus:Callicebus class:Mammalia" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "Xenomys" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "class:Mammalia cyclopes" ; Times: 1
+	Query: "viscacia" ; Times: 1
+	Query: "Crooked Chiroptera" ; Times: 1
+	Query: "country:"Colombia" specificepithet:ornatus genus:Callicebus class:Mammalia" ; Times: 1
+	Query: "cryptotis parvus stateprovince:"Florida" specificepithet:parvus genus:Cryptotis" ; Times: 2
+	Query: "country:"mexico" genus:sphiggurus" ; Times: 13
+	Query: "specificepithet:pyctoris genus:Rattus" ; Times: 8
+	Query: "ammospermophilus leucurus type:specimen institutioncode:USNM" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:peruvianus genus:Mesoplodon" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "country:"Pakistan" year >= 1910 year <= 1925" ; Times: 1
+	Query: "Sorex ornatus relictus" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Chiroptera Andros" ; Times: 1
+	Query: "country:"Colombia" specificepithet:capucinus genus:Cebus class:Mammalia" ; Times: 1
+	Query: ""Pteropus personatus"" ; Times: 5
+	Query: "Chiroptera Great Abaco (Bahamas OR Bahama)" ; Times: 1
+	Query: "Kogia" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "egeria" ; Times: 1
+	Query: "genus:Ctenomys year >= 1971 year <= 1971" ; Times: 1
+	Query: "grayson year >= 1860 year <= 1890" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "coendou year >= 1930 year <= 2014" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 4
+	Query: "Chiroptera Abaco ("8 mile cave" OR "eight mile cave")" ; Times: 1
+	Query: "recordedby:grayson year >= 1800 year <= 1870" ; Times: 1
+	Query: "panthera tigris" ; Times: 7
+	Query: "type:specimen genus:loxodonta" ; Times: 1
+	Query: "type:specimen genus:varecia" ; Times: 1
+	Query: "Alouatta" ; Times: 7
+	Query: "alouatta seniculus" ; Times: 4
+	Query: "vulpes gunnison" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "country:"Colombia" genus:mustela" ; Times: 9
+	Query: "Sigmodon alleni" ; Times: 2
+	Query: "genus:loxodonta" ; Times: 2
+	Query: "genus:peponocephala" ; Times: 1
+	Query: "primate type:specimen" ; Times: 1
+	Query: "stateprovince:"indiana" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "stateprovince:"nevada" specificepithet:panamintinus genus:tamias" ; Times: 1
+	Query: "sciurillus pusillus" ; Times: 2
+	Query: "usnm 91091" ; Times: 1
+	Query: "specificepithet:axis axis" ; Times: 2
+	Query: "Habromys simulatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 124 (out of 273 download events in this period)
+Total number of records downloaded: 126051 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 105961
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Guatemala ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: United States ; Times: 80
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-05 ; Times: 11
+	Date: 2014-08-06 ; Times: 9
+	Date: 2014-08-07 ; Times: 1
+	Date: 2014-08-08 ; Times: 4
+	Date: 2014-08-10 ; Times: 2
+	Date: 2014-08-11 ; Times: 3
+	Date: 2014-08-12 ; Times: 2
+	Date: 2014-08-13 ; Times: 3
+	Date: 2014-08-14 ; Times: 7
+	Date: 2014-08-15 ; Times: 1
+	Date: 2014-08-16 ; Times: 3
+	Date: 2014-08-17 ; Times: 4
+	Date: 2014-08-18 ; Times: 9
+	Date: 2014-08-19 ; Times: 2
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 3
+	Date: 2014-08-22 ; Times: 14
+	Date: 2014-08-25 ; Times: 4
+	Date: 2014-08-26 ; Times: 8
+	Date: 2014-08-27 ; Times: 9
+	Date: 2014-08-28 ; Times: 11
+	Date: 2014-08-29 ; Times: 2
+	Date: 2014-08-30 ; Times: 8
+	Date: 2014-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "Chiroptera Inagua" ; Times: 1
+	Query: "Pteronotus davyi distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Martes pennanti type:specimen AND (NOT Canada NOT Alaska NOT Michigan)" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: "Saccopteryx bilineata distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "country:"Colombia" specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "country:"Kenya" class:Mammalia" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "Chiroptera New Providence" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: ""Urocitellus parryii" OR "Spermophilus parryii"" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "scalopus aquaticus type:specimen" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 1
+	Query: "stateprovince:"Oregon" specificepithet:latrans genus:Canis" ; Times: 1
+	Query: "stateprovince:"Idaho" genus:Canis" ; Times: 1
+	Query: "eptesicus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Perognathus inornatus inornatus" ; Times: 4
+	Query: "urocitellus beldingi" ; Times: 1
+	Query: "stateprovince:"illinois" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "Noctilio leporinus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Baja California Sur mammals" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:myotis" ; Times: 2
+	Query: "Peromyscus boylii" ; Times: 1
+	Query: "stateprovince:"Washington" genus:Canis" ; Times: 1
+	Query: "Chiroptera (Bahamas OR Bahama)" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:parvus genus:Cryptotis" ; Times: 1
+	Query: "Lepus othus" ; Times: 2
+	Query: "Martes americana type:specimen" ; Times: 1
+	Query: "Chiroptera country:"Bahamas"" ; Times: 1
+	Query: "heteromys" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Mammalia" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 2
+	Query: "class:Mammalia Panthera leo" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "Chiroptera Long Island (Bahama OR Bahamas)" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Parascalops breweri type:specimen stateprovince:"New York"" ; Times: 2
+	Query: "Hodomys" ; Times: 1
+	Query: "Chiroptera Abaco" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "urocitellus" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Ochotona princeps country:"United States" year >= 1971 year <= 2014 mappable:1" ; Times: 1
+	Query: "Eumops perotis californicus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "stateprovince:"Oregon" genus:Canis" ; Times: 1
+	Query: "sorex hoyi type:specimen" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 1
+	Query: "desmodus rotundus country:"brazil" specificepithet:rotundus genus:Desmodus" ; Times: 1
+	Query: "condylura cristata type:specimen" ; Times: 1
+	Query: "Mustela nivalis type:specimen" ; Times: 1
+	Query: "Nandinia binotata type:specimen" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "stateprovince:"wisconsin" specificepithet:cinereoargenteus genus:urocyon" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:lupus genus:canis" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Ailurus fulgens type:specimen" ; Times: 1
+	Query: "Eleuthera Chiroptera" ; Times: 1
+	Query: "Spilogale putorius type:specimen" ; Times: 2
+	Query: "Coahuila mammals type:specimen" ; Times: 1
+	Query: "Herpestidae type:specimen" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Rhynchonycteris naso distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "berylmys" ; Times: 1
+	Query: "Chironectes minimus distance(location,geopoint(15.615982874028395,-90.384521484375))<450063" ; Times: 1
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "grayson year >= 1850 year <= 1870" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "gulo gulo type:specimen" ; Times: 1
+	Query: "specificepithet:pyctoris genus:Rattus" ; Times: 1
+	Query: "specificepithet:axis axis" ; Times: 1
+	Query: "Mephitis mephitis type:specimen" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "ammospermophilus leucurus type:specimen institutioncode:USNM" ; Times: 1
+	Query: "Acinonyx jubatus type:specimen" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "Chiroptera San Salvador (Bahamas OR Bahama)" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "country:"Colombia" class:Mammalia" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "recordedby:grayson year >= 1800 year <= 1870" ; Times: 1
+	Query: "Baja California Norte mammals" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen" ; Times: 1
+	Query: "Alouatta" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 1
+	Query: "Sigmodon alleni" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Geomys breviceps" ; Times: 1
+	Query: "Onychomys torridus tularensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3279
+Total number of records retrieved from searches: 76914
+Number of download events that retrieved data from the resource: 403
+Total number of records downloaded: 517380
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3279
+Total number of records retrieved from searches: 76914
+Number of download events that retrieved data from the resource: 403
+Total number of records downloaded: 517380
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
