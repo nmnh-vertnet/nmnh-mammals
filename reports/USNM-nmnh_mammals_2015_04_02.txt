@@ -1,0 +1,389 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 332
+Number of records retrieved in searches: 6724
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 11
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 5
+	Country: Ecuador ; Times: 1
+	Country: France ; Times: 25
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 12
+	Country: New Zealand ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Portugal ; Times: 9
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 211
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 16
+	Date: 2015-03-02 ; Times: 8
+	Date: 2015-03-03 ; Times: 20
+	Date: 2015-03-04 ; Times: 11
+	Date: 2015-03-05 ; Times: 19
+	Date: 2015-03-06 ; Times: 22
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-09 ; Times: 10
+	Date: 2015-03-10 ; Times: 13
+	Date: 2015-03-11 ; Times: 4
+	Date: 2015-03-12 ; Times: 25
+	Date: 2015-03-13 ; Times: 5
+	Date: 2015-03-15 ; Times: 14
+	Date: 2015-03-16 ; Times: 15
+	Date: 2015-03-17 ; Times: 15
+	Date: 2015-03-18 ; Times: 6
+	Date: 2015-03-19 ; Times: 19
+	Date: 2015-03-20 ; Times: 30
+	Date: 2015-03-21 ; Times: 6
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 2
+	Date: 2015-03-25 ; Times: 9
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 16
+	Date: 2015-03-28 ; Times: 34
+	Date: 2015-03-29 ; Times: 4
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Scalopus aquaticus stateprovince:"Wisconsin"" ; Times: 1
+	Query: "specificepithet:instans genus:chilomys" ; Times: 1
+	Query: "specificepithet:baeodon genus:Maxomys" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Nebraska"" ; Times: 2
+	Query: "specificepithet:abrasus" ; Times: 1
+	Query: "dasypus sabanicola" ; Times: 1
+	Query: "marmota baibacina" ; Times: 3
+	Query: "specificepithet:canus genus:Lenothrix" ; Times: 1
+	Query: "specificepithet:muriculus genus:Gerbillus" ; Times: 1
+	Query: "Antrozous pallidus county:"clark"" ; Times: 1
+	Query: "genus:cabassous tatouay" ; Times: 1
+	Query: "specificepithet:canus genus:Eropeplus" ; Times: 1
+	Query: "chiroptera mauritania" ; Times: 1
+	Query: "specificepithet:shortridgei genus:Mastomys" ; Times: 1
+	Query: "stateprovince:"IOWA" specificepithet:aquaticus genus:Scalopus" ; Times: 1
+	Query: "specificepithet:aroaensis genus:Mallomys" ; Times: 1
+	Query: "specificepithet:lowei genus:Dipodillus" ; Times: 1
+	Query: ""Pan troglodytes schweinfurthii" year <= 1960" ; Times: 1
+	Query: "specificepithet:hyrcanicus genus:Apodemus" ; Times: 2
+	Query: "specificepithet:luteogaster genus:Lophuromys" ; Times: 1
+	Query: "specificepithet:castaneus genus:Lasiurus" ; Times: 1
+	Query: "Philander opossum venezuela" ; Times: 2
+	Query: "country:"bolivia" genus:alouatta" ; Times: 1
+	Query: "specificepithet:stigmonyx genus:Dipodillus" ; Times: 1
+	Query: "gracilinanus marica" ; Times: 4
+	Query: "spermophilus pygmaeus" ; Times: 3
+	Query: "sphiggurus" ; Times: 1
+	Query: ""Gorilla beringei graueri" year <= 1960" ; Times: 1
+	Query: "deli" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "specificepithet:aquilus genus:Gerbillus" ; Times: 2
+	Query: "usnm 61186" ; Times: 1
+	Query: "canis simensis" ; Times: 5
+	Query: "Scalopus aquaticus stateprovince:"Massachusetts"" ; Times: 1
+	Query: "mammals of papantla" ; Times: 1
+	Query: "sphaeronycteris" ; Times: 1
+	Query: "CALUROMYS philander" ; Times: 7
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Mammalia AND (NOT MSB)" ; Times: 1
+	Query: "MICOUREUS DEMERARAE" ; Times: 1
+	Query: "Pteronotus parnellii country:"Cuba"" ; Times: 1
+	Query: "Mesoplodon hectori" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Marmosa xerophila" ; Times: 1
+	Query: "specificepithet:trivirgatus genus:Hybomys" ; Times: 1
+	Query: "341197" ; Times: 1
+	Query: "Reithrodontomys brevirostris" ; Times: 3
+	Query: ""Heteromys desmarestianus" stateprovince:"Oaxaca" country:"Mexico" institutioncode:USNM" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "chiroptera gabon" ; Times: 1
+	Query: "Palawanomys furvus" ; Times: 1
+	Query: "specificepithet:mauritaniae genus:Gerbillus" ; Times: 1
+	Query: "spermophilus pallidicauda" ; Times: 4
+	Query: "specificepithet:hindei genus:Aethomys" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "hyaena" ; Times: 1
+	Query: "sylvilagus dicei" ; Times: 1
+	Query: "specificepithet:caniceps genus:Grammomys" ; Times: 1
+	Query: "cynomops abrasus" ; Times: 1
+	Query: "Meles country:"China" year >= 1888 year <= 2015" ; Times: 1
+	Query: "CALUROMYS LANATUS" ; Times: 4
+	Query: ""Gorilla beringei beringei" year <= 1960" ; Times: 2
+	Query: "zuliae AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Vombatus ursinus (skeleton)" ; Times: 1
+	Query: "Microtus chrotorrhinus (Minnesota)" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "chiroptera chad" ; Times: 1
+	Query: "CRYPTOTIS MERIDENSIS" ; Times: 4
+	Query: "caenolestes" ; Times: 1
+	Query: "rhynchocyon" ; Times: 2
+	Query: "genus:dasypus institutioncode:usnm" ; Times: 17
+	Query: "queen charlotte Ursus americanus type:specimen" ; Times: 1
+	Query: "USNM 547977" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "specificepithet:dryas genus:Grammomys" ; Times: 2
+	Query: "Panthera onca United States" ; Times: 2
+	Query: "vulpes corsac" ; Times: 1
+	Query: "Tamias minimus stateprovince:"North Dakota"" ; Times: 1
+	Query: "Orcinus orca institutioncode:USNM" ; Times: 1
+	Query: "county:"Inyo" stateprovince:"California" class:Mammalia institutioncode:USNM year >= 1890 year <= 1895" ; Times: 1
+	Query: "specificepithet:famulus genus:Gerbillus" ; Times: 2
+	Query: "specificepithet:alstoni genus:sigmodon" ; Times: 1
+	Query: "Microtus lusitanicus" ; Times: 1
+	Query: "echimyidae stateprovince:"chiriqui" country:"panama"" ; Times: 1
+	Query: "Macaca sinica" ; Times: 2
+	Query: "macaregua country:"Colombia" specificepithet:megalophylla genus:Mormoops" ; Times: 1
+	Query: "bulla" ; Times: 1
+	Query: "specificepithet:latidens genus:Abditomys" ; Times: 3
+	Query: "racoon" ; Times: 2
+	Query: "specificepithet:lugens genus:aepeomys" ; Times: 1
+	Query: "specificepithet:alticola genus:Maxomys" ; Times: 2
+	Query: "chiroptera togo" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "whales" ; Times: 1
+	Query: "specificepithet:stannarius genus:Aethomys" ; Times: 2
+	Query: "genus:proteles" ; Times: 1
+	Query: "monodelphis adusta" ; Times: 1
+	Query: "dolichotis salinicola" ; Times: 1
+	Query: "specificepithet:inclusus genus:Gerbilliscus" ; Times: 2
+	Query: "specificepithet:hoogstraali genus:Lemniscomys" ; Times: 2
+	Query: "specificepithet:setzeri genus:Mus" ; Times: 1
+	Query: "specificepithet:agag genus:Gerbillus" ; Times: 1
+	Query: "usnm 202522" ; Times: 1
+	Query: "specificepithet:ernstmayri genus:Leptomys" ; Times: 1
+	Query: "marmosops impavidus" ; Times: 1
+	Query: "specificepithet:mackenziei genus:Berylmys" ; Times: 1
+	Query: "san camilo" ; Times: 1
+	Query: "specificepithet:hurrianae genus:Meriones" ; Times: 2
+	Query: "specificepithet:granti genus:Micaelamys" ; Times: 1
+	Query: "Buru" ; Times: 1
+	Query: "vulpes zerda" ; Times: 2
+	Query: "specificepithet:wetzeli genus:rhipidomys" ; Times: 1
+	Query: "Mussau Island" ; Times: 2
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "259450" ; Times: 1
+	Query: "Arctocephalus philippii" ; Times: 2
+	Query: "specificepithet:notatus genus:thomasomys" ; Times: 1
+	Query: "genus:wiedomys" ; Times: 1
+	Query: "Canis simensis" ; Times: 5
+	Query: "specificepithet:nudipes genus:Dasymys" ; Times: 2
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "chiroptera equatorial guinea" ; Times: 1
+	Query: "genus:Chlamyphorus" ; Times: 2
+	Query: "mustela nigripes" ; Times: 3
+	Query: "gracilinanus dryas" ; Times: 3
+	Query: "specificepithet:nudicaudus genus:Lophuromys" ; Times: 1
+	Query: "pseudois nayaur" ; Times: 1
+	Query: "panthera pardus" ; Times: 23
+	Query: "chiroptera mali" ; Times: 1
+	Query: "type:specimen country:"brazil" genus:alouatta AND (NOT caraya NOT belzebul NOT fusca NOT guariba)" ; Times: 1
+	Query: "Sigmodon arizonae plenus" ; Times: 1
+	Query: "collin county" ; Times: 1
+	Query: "Miniopterus Madagascar institutioncode:USNM" ; Times: 1
+	Query: "Puma yagouaroundi country:"mexico"" ; Times: 1
+	Query: "cavia aperea" ; Times: 3
+	Query: "Pteronotus parnellii country:"Puerto Rico"" ; Times: 1
+	Query: "year >= 1839 year <= 1839" ; Times: 1
+	Query: "USNM 523697" ; Times: 1
+	Query: "imatong mammalia country:"Sudan"" ; Times: 1
+	Query: "USNM 523694" ; Times: 1
+	Query: "genus:megaderma year >= 2000" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "specificepithet:grandis genus:Meriones" ; Times: 2
+	Query: "139120 type:specimen institutioncode:usnm" ; Times: 1
+	Query: "Euchoreutes" ; Times: 1
+	Query: "USNM 208734" ; Times: 1
+	Query: "USNM 23452" ; Times: 1
+	Query: "chiroptera libya" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Minnesota"" ; Times: 1
+	Query: "Piping Plover" ; Times: 2
+	Query: "specificepithet:boehmi genus:Gerbilliscus" ; Times: 2
+	Query: "panthera onca country:"mexico"" ; Times: 1
+	Query: "specificepithet:schadenbergi genus:Crateromys" ; Times: 1
+	Query: "Wyoming Odocoileus hemionus" ; Times: 1
+	Query: "Spermophilus fulvus" ; Times: 4
+	Query: "specificepithet:mesopotamiae genus:Gerbillus" ; Times: 2
+	Query: "Niviventer lepturus" ; Times: 1
+	Query: "Feinstein Cambodia" ; Times: 3
+	Query: "specificepithet:gymnonotus genus:Pteronotus" ; Times: 1
+	Query: "mus triton kenya" ; Times: 2
+	Query: "genus:Nycteris year >= 2000" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "bos sauveli" ; Times: 2
+	Query: "USNM 523689" ; Times: 1
+	Query: "specificepithet:paulus genus:Crateromys" ; Times: 1
+	Query: "USNM 523686" ; Times: 1
+	Query: "onychomys torridus ramona" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "USNM 523683" ; Times: 1
+	Query: ""Pan troglodytes" year <= 1960" ; Times: 2
+	Query: "rhinoceros sondaicus" ; Times: 2
+	Query: "227991" ; Times: 1
+	Query: "specificepithet:daphne genus:thomasomys" ; Times: 1
+	Query: "Miniopterus Madagascar 449306 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:melanurus genus:Carpomys" ; Times: 2
+	Query: "didelphis imperfecta" ; Times: 2
+	Query: "monodelphis brevicaudata" ; Times: 1
+	Query: "geomys county:"morehouse" stateprovince:"louisiana"" ; Times: 2
+	Query: "Myotis californicus stateprovince:"Nevada"" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Connecticut"" ; Times: 1
+	Query: "specificepithet:beccarii genus:Margaretamys" ; Times: 2
+	Query: "specificepithet:peruanus genus:sigmodon" ; Times: 1
+	Query: "Lasionycteris Montana" ; Times: 1
+	Query: "USNM 583125" ; Times: 1
+	Query: "specificepithet:pusillus genus:Gerbillus" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"South Dakota"" ; Times: 1
+	Query: "amphibians & Guadalajara" ; Times: 2
+	Query: "Scalopus aquaticus stateprovince:"Illinois"" ; Times: 1
+	Query: "460146" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Panthera onca arizona" ; Times: 1
+	Query: "Mormoops megalophylla country:"Colombia" specificepithet:megalophylla genus:Mormoops" ; Times: 1
+	Query: "Eupleridae" ; Times: 1
+	Query: "chiroptera azores" ; Times: 1
+	Query: "genus:Calyptophractus" ; Times: 1
+	Query: "specificepithet:gracilis genus:thomasomys" ; Times: 1
+	Query: "USNM 347843" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:maghrebi genus:Dipodillus" ; Times: 1
+	Query: ""Pan troglodytes troglodytes" year <= 1960" ; Times: 1
+	Query: "chiroptera algeria" ; Times: 1
+	Query: "specificepithet:pulvinatus genus:Gerbillus" ; Times: 1
+	Query: "country:"united states" specificepithet:europaeus genus:Lepus" ; Times: 1
+	Query: "specificepithet:mastacalis genus:rhipidomys" ; Times: 1
+	Query: "Odocoileus virginianus year >= 1990 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 298 download events in this period)
+Total number of records downloaded: 76218 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 71739
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Belgium ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 10
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 2
+	Date: 2015-03-11 ; Times: 1
+	Date: 2015-03-12 ; Times: 3
+	Date: 2015-03-15 ; Times: 6
+	Date: 2015-03-16 ; Times: 10
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 1
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 4
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "blarina stateprovince:"Kansas"" ; Times: 1
+	Query: "chiroptera uganda" ; Times: 1
+	Query: "chiroptera south Africa" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Corynorhinus townsendii pallescens" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"North Carolina"" ; Times: 1
+	Query: "chiroptera zambia" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "chiroptera madeira" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Tennessee"" ; Times: 1
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "genus:Alticola" ; Times: 1
+	Query: "puma concolor country:"mexico"" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "Myotis melanorhinus nevada" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "chiroptera equatorial guinea" ; Times: 1
+	Query: "chiroptera madagascar" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Ohio"" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "chiroptera Guinea africa" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "county:"Inyo" stateprovince:"California" class:Mammalia institutioncode:USNM year >= 1890 year <= 1895" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"New York"" ; Times: 1
+	Query: "chiroptera niger" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Peromyscus maniculatus AND (NOT Mexico) year >= 1950 year <= 2000 mappable:1" ; Times: 1
+	Query: "Oriximina" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"South Carolina"" ; Times: 1
+	Query: "chiroptera zimbabwe" ; Times: 1
+	Query: "specificepithet:gregalis genus:Microtus" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "Colima mammals" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Florida"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 5235
+Total number of records retrieved from searches: 128507
+Number of download events that retrieved data from the resource: 305
+Total number of records downloaded: 320957
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 6055
+Total number of records retrieved from searches: 141530
+Number of download events that retrieved data from the resource: 936
+Total number of records downloaded: 1240775
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
