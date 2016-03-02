@@ -1,0 +1,531 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 445
+Number of records retrieved in searches: 6969
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 313
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Czech Republic ; Times: 4
+	Country: Portugal ; Times: 31
+	Country: Mexico ; Times: 46
+	Country: Unknown ; Times: 15
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 4
+	Country: Colombia ; Times: 10
+	Country: Switzerland ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-08 ; Times: 11
+	Date: 2016-02-18 ; Times: 14
+	Date: 2016-02-19 ; Times: 9
+	Date: 2016-02-12 ; Times: 21
+	Date: 2016-02-13 ; Times: 10
+	Date: 2016-02-10 ; Times: 27
+	Date: 2016-02-11 ; Times: 6
+	Date: 2016-02-16 ; Times: 26
+	Date: 2016-02-17 ; Times: 26
+	Date: 2016-02-14 ; Times: 20
+	Date: 2016-02-15 ; Times: 20
+	Date: 2016-02-03 ; Times: 43
+	Date: 2016-02-02 ; Times: 10
+	Date: 2016-02-09 ; Times: 9
+	Date: 2016-02-22 ; Times: 8
+	Date: 2016-02-21 ; Times: 14
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 3
+	Date: 2016-02-25 ; Times: 11
+	Date: 2016-02-24 ; Times: 9
+	Date: 2016-02-01 ; Times: 8
+	Date: 2016-02-29 ; Times: 59
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 13
+	Date: 2016-02-04 ; Times: 47
+	Date: 2016-02-07 ; Times: 3
+	Date: 2016-02-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "USNM 486670 institutioncode:USNM" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus locality:nushagak stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Spilogale country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "county:&#34;Sioux&#34; stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34; institutioncode:USNM" ; Times: 1
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "genus:Bradypus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:blackmer stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Kamloops stateprovince:&#34;British Columbia&#34; institutioncode:USNM" ; Times: 1
+	Query: "felis catus type:specimen (United States skull)" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "urocitellus mollis stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "inia" ; Times: 1
+	Query: "(histology) institutioncode:USNM" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "usnm 357225 mammalia" ; Times: 1
+	Query: "Arvicola iran" ; Times: 1
+	Query: "usnm 325272 mammalia" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "crocidura russula iran" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 3
+	Query: "norte de santander Mammalia" ; Times: 1
+	Query: "usnm 299435 mammalia" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "Peromyscus sejugis" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis locality:Yellowstone" ; Times: 1
+	Query: "usnm 516084 mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:yakutat stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Myotis septentrionalis (Illinois)" ; Times: 1
+	Query: "Proechimys magdalenae" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:elk river stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "usnm 173518 mammalia" ; Times: 1
+	Query: "plecotus austriacus" ; Times: 2
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "583055 institutioncode:USNM" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 6
+	Query: "saguinus labiatus" ; Times: 2
+	Query: "80729" ; Times: 2
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "usnm 217807 mammalia" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "usnm 533365 mammalia" ; Times: 1
+	Query: "pontoporia institutioncode:USNM" ; Times: 1
+	Query: "USNM 356968" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:lake clark stateprovince:&#34;Alaska&#34; year &lt;= 1960" ; Times: 1
+	Query: "peromyscus sejugis" ; Times: 3
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;north dakota&#34; institutioncode:USNM" ; Times: 1
+	Query: "vespertilionidae baja california sur sierra la laguna" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "Asellia iran" ; Times: 1
+	Query: "usnm 162308 mammalia" ; Times: 1
+	Query: "usnm 404410 mammalia" ; Times: 1
+	Query: "usnm 533364 mammalia" ; Times: 1
+	Query: "peromyscus guardia" ; Times: 2
+	Query: "tamiasciurus mearnsi" ; Times: 1
+	Query: "usnm 328043 mammalia" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:springhill stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "usnm 472716 mammalia" ; Times: 1
+	Query: "phylloderma" ; Times: 4
+	Query: "Norte de Santander Mammalia" ; Times: 1
+	Query: "notiosorex baja sur" ; Times: 1
+	Query: "Gazella iran" ; Times: 1
+	Query: "usnm 173513 mammalia" ; Times: 1
+	Query: "usnm 326479 mammalia" ; Times: 1
+	Query: "specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale stateprovince:&#34;Nebraska&#34; year &lt;= 1920" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:kokwok stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "bucharest" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:Sundance stateprovince:&#34;Wyoming&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "genus:nyctomys country:&#34;honduras&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus country:&#34;mexico&#34;" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "peromyscus slevini" ; Times: 1
+	Query: "cricetulus iran" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:cook inlet stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "chiroptera baculum" ; Times: 19
+	Query: "unicorn" ; Times: 3
+	Query: "gazella iran" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:custer stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "rhinolophus iran" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "herpestes iran" ; Times: 1
+	Query: "specificepithet:glis genus:Glis country:&#34;Iran&#34;" ; Times: 1
+	Query: "ellobius iran" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "monster" ; Times: 5
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1952 year &lt;= 1952 month &gt;= 6 month &lt;= 6 institutioncode:USNM" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "usnm 102544 mammalia" ; Times: 1
+	Query: "hystrix iran" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "222222 institutioncode:USNM" ; Times: 1
+	Query: "Inia geoffrensis media:1" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:nushagak river stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "hyaena iran" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus davisi genus:geomys year &gt;= 1890 year &lt;= 2015" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "usnm 321226 mammalia" ; Times: 1
+	Query: "santa anitA MAMMALIA baja sur" ; Times: 1
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "calomyscus iran" ; Times: 1
+	Query: "idiurus" ; Times: 1
+	Query: "Conepatus type:specimen (texas) AND (NOT ASNHC)" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus institutioncode:USNM" ; Times: 2
+	Query: "55253" ; Times: 1
+	Query: "vulpes corsac" ; Times: 2
+	Query: "peromyscus polius" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 4
+	Query: "type:specimen specificepithet:hudsonius genus:Zapus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "usnm 420900" ; Times: 2
+	Query: "usnm 316846 mammalia" ; Times: 1
+	Query: "Heteromys nelsoni" ; Times: 1
+	Query: "usnm 279138 mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:izembek bay stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "usnm 165283 mammalia" ; Times: 1
+	Query: "584888 institutioncode:USNM" ; Times: 2
+	Query: "usnm 165284 mammalia" ; Times: 1
+	Query: "antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "usnm 217802 mammalia" ; Times: 1
+	Query: "dermoptera" ; Times: 8
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "586403 institutioncode:USNM" ; Times: 1
+	Query: "562775 institutioncode:USNM" ; Times: 2
+	Query: "coati" ; Times: 1
+	Query: "genus:ochotona stateprovince:Nevada" ; Times: 2
+	Query: "tamias obscurus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "usnm 485971 mammalia" ; Times: 1
+	Query: "Chaetodipus penicillatus sobrinus" ; Times: 1
+	Query: "Beamys country:&#34;Kenya&#34;" ; Times: 4
+	Query: "panthera pardus iran" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale year &gt;= 1850 year &lt;= 1875" ; Times: 1
+	Query: "Peromyscus caniceps" ; Times: 1
+	Query: "anomaluridae" ; Times: 3
+	Query: "usnm 401519 mammalia" ; Times: 1
+	Query: "callicebus" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "usnm 500960 mammalia" ; Times: 1
+	Query: "panthera iran" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:cannon ball stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "Myotis septentrionalis (Michigan)" ; Times: 2
+	Query: "Phloeomys" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "ruwenzorii" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 3
+	Query: "usnm 436240 mammalia" ; Times: 1
+	Query: "usnm 472713 mammalia" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Proechimys chrysaeolus" ; Times: 1
+	Query: "usnm 486005 mammalia" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:loveland stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 3
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:nushagak stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1951" ; Times: 1
+	Query: "usnm 357706 mammalia" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "Cryptotis thomasi (Colombia)" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "Proechimys oconnelli" ; Times: 1
+	Query: "rattus iran" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "peromyscus dickeyi" ; Times: 1
+	Query: "eptesicus iran" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus locality:lake clark stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:Sundance stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "&#34;Erinaceinae&#34; mappable:1" ; Times: 1
+	Query: "Anomaluridae" ; Times: 1
+	Query: "Borneo Rodentia" ; Times: 3
+	Query: "barbastella" ; Times: 1
+	Query: "paraechinus iran" ; Times: 2
+	Query: "usnm 321761 mammalia" ; Times: 1
+	Query: "Myotis septentrionalis (Indiana)" ; Times: 2
+	Query: "USNM 52829" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "usnm 316700 mammalia" ; Times: 1
+	Query: "genus:sorex (county:&#34;clear creek&#34; OR county:Douglas) (institutioncode:CHAS OR institutioncode:USNM)" ; Times: 2
+	Query: "urocitellus mollis stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "usnm 277420 mammalia" ; Times: 1
+	Query: "metatheria" ; Times: 2
+	Query: "type:specimen genus:Zapus locality:Yakutat Bay stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "274124" ; Times: 1
+	Query: "usnm 83901 mammalia" ; Times: 1
+	Query: "Lagenorhynchus acutus" ; Times: 3
+	Query: "suricata" ; Times: 3
+	Query: "oxymycterus inca" ; Times: 2
+	Query: "usnm 297495 mammalia" ; Times: 1
+	Query: "Caperea marginata" ; Times: 1
+	Query: "usnm 403708 mammalia" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Lake Clark stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus (65872)" ; Times: 1
+	Query: "Delphinus delphis media:1" ; Times: 1
+	Query: "(586402) institutioncode:USNM" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:yakutat stateprovince:&#34;alaska&#34; institutioncode:USNM" ; Times: 1
+	Query: "usnm 302075 mammalia" ; Times: 1
+	Query: "saguinus geoffroyi" ; Times: 2
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Peromyscus slevini" ; Times: 1
+	Query: "rhinopoma iran" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:couesi genus:oryzomys year &gt;= 1890 year &lt;= 2015" ; Times: 1
+	Query: "ochotona iran" ; Times: 1
+	Query: "plecotus auritus switzerland" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:kamloops stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "H. Collins USNM Alaska" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:izembek bay stateprovince:&#34;alaska&#34; recordedby:murie" ; Times: 1
+	Query: "genus:inia" ; Times: 4
+	Query: "usnm 240442 mammalia" ; Times: 1
+	Query: "92828" ; Times: 1
+	Query: "myotis muricola taiwan" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Conepatus leuconotus type:specimen (texas) AND (NOT asnhc)" ; Times: 1
+	Query: "Lycaon pictus institutioncode:USNM" ; Times: 2
+	Query: "genus:ototylomys stateprovince:&#34;cayo&#34; country:&#34;belize&#34;" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 3
+	Query: "82074" ; Times: 1
+	Query: "usnm 219606 mammalia" ; Times: 1
+	Query: "usnm 486003 mammalia" ; Times: 1
+	Query: "usnm 482665 mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "usnm 162269 mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "erinaceus iran" ; Times: 1
+	Query: "usnm 153368 mammalia" ; Times: 1
+	Query: "usnm 219605 mammalia" ; Times: 1
+	Query: "platanista gangetica" ; Times: 1
+	Query: "203090" ; Times: 1
+	Query: "genus:ototylomys country:&#34;belize&#34;" ; Times: 4
+	Query: "usnm 403663 mammalia" ; Times: 1
+	Query: "Callicebus ornatus" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "peromyscus caniceps" ; Times: 1
+	Query: "myrtle avenue" ; Times: 1
+	Query: "usnm 316843 mammalia" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "Rancho Frio type:specimen" ; Times: 1
+	Query: "urocitellus canus" ; Times: 1
+	Query: "usnm 533370 mammalia" ; Times: 1
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "usnm 540034 mammalia" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "USNM 260900" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:lake aleknagik stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Peromyscus polius" ; Times: 1
+	Query: "california antilocapra" ; Times: 2
+	Query: "(222222) institutioncode:USNM" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "Lama glama mappable:1" ; Times: 1
+	Query: "urocitellus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "usnm 162266 mammalia" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "recordedby:Robbins institutioncode:USNM" ; Times: 1
+	Query: "chiroptera baja california sur sierra la laguna" ; Times: 1
+	Query: "microtus pennsylvanicus south carolina" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "urocitellus washingtoni" ; Times: 1
+	Query: "Thomomys clusius" ; Times: 1
+	Query: "specificepithet:clusius genus:Thomomys" ; Times: 4
+	Query: "Orcinus orca" ; Times: 2
+	Query: "castor utah" ; Times: 1
+	Query: "Peromyscus guardia" ; Times: 1
+	Query: "Asellia tridens iran" ; Times: 1
+	Query: "Erinaceus iran" ; Times: 1
+	Query: "jaculus iran" ; Times: 1
+	Query: "usnm 297497 mammalia" ; Times: 1
+	Query: "Aegialomys" ; Times: 1
+	Query: "usnm 344928 mammalia" ; Times: 1
+	Query: "Crocidura suaveolens iran" ; Times: 1
+	Query: "Telok Besar" ; Times: 1
+	Query: "ovis iran" ; Times: 2
+	Query: "33903" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 1
+	Query: "usnm 485938 mammalia" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;Yukon&#34;" ; Times: 1
+	Query: "peromyscus bullatus" ; Times: 1
+	Query: "capra iran" ; Times: 1
+	Query: "Allactaga elater iran" ; Times: 1
+	Query: "peromyscus mekisturus" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:frosty peak stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Myotis septentrionalis (Wisconsin)" ; Times: 2
+	Query: "Lonchophylla cadenai" ; Times: 1
+	Query: "101225" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Tlacuatzin" ; Times: 1
+	Query: "95118" ; Times: 1
+	Query: "usnm 302072 mammalia" ; Times: 1
+	Query: "Phyllostomidae+Colombia institutioncode:USNM" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "fetus specificepithet:phocoena genus:phocoena" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;toledo&#34; country:&#34;belize&#34;" ; Times: 2
+	Query: "Conepatus leuconotus type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 171 (out of 512 download events in this period)
+Total number of records downloaded: 75838
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 15
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 17
+	Country: Mexico ; Times: 37
+	Country: United States ; Times: 91
+	Country: Colombia ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 8
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-12 ; Times: 7
+	Date: 2016-02-13 ; Times: 5
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 6
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-14 ; Times: 9
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-28 ; Times: 5
+	Date: 2016-02-09 ; Times: 6
+	Date: 2016-02-08 ; Times: 4
+	Date: 2016-02-21 ; Times: 13
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-27 ; Times: 4
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 4
+	Date: 2016-02-03 ; Times: 9
+	Date: 2016-02-02 ; Times: 5
+	Date: 2016-02-05 ; Times: 8
+	Date: 2016-02-04 ; Times: 39
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lestoros" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "county:&#34;Sioux&#34; stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Kamloops stateprovince:&#34;British Columbia&#34; institutioncode:USNM" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "tatera iran" ; Times: 1
+	Query: "county:&#34;Shannon&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Arvicola iran" ; Times: 1
+	Query: "Cynomys type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "rattus iran" ; Times: 1
+	Query: "crocidura russula iran" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "Tremarctos ornatus mappable:1" ; Times: 5
+	Query: "mesocricetus iran" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vespertilionidae baja california sur sierra la laguna" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "Gazella iran" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Delphinidae" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:izembek bay stateprovince:&#34;alaska&#34; recordedby:murie" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "ellobius iran" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:nushagak river stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "meriones iran" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:Lake Clark stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "pipistrellus iran" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "saguinus midas" ; Times: 1
+	Query: "spermophilus iran" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "panthera pardus iran" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Heteromys nelsoni" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "perognathus inornatus" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "Cryptotis thomasi (Colombia)" ; Times: 1
+	Query: "Proechimys oconnelli" ; Times: 1
+	Query: "Proechimys magdalenae" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:palustris genus:Oryzomys year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus locality:lake clark stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Borneo Muridae" ; Times: 1
+	Query: "Soricidae (Colombia) mappable:1" ; Times: 1
+	Query: "Para Riker" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:couesi genus:oryzomys year &gt;= 1890 year &lt;= 2015" ; Times: 1
+	Query: "Proechimys chrysaeolus" ; Times: 1
+	Query: "county:&#34;Dewey&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus davisi genus:geomys" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Callicebus ornatus" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 3
+	Query: "specificepithet:Latrans genus:Canis locality:Yellowstone" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Phocoena sinus" ; Times: 1
+	Query: "chiroptera baja california sur sierra la laguna" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "taxidea taxus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "ovis iran" ; Times: 1
+	Query: "Hendee" ; Times: 1
+	Query: "Allactaga elater iran" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "microtus iran" ; Times: 1
+	Query: "erinaceus iran" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "septentrionalis class:Mammalia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "norte de santander" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+
+
+End of report.
