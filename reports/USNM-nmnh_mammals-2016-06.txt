@@ -1,0 +1,947 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1287
+Number of records retrieved in searches: 26728
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: United States ; Times: 805
+	Country: Australia ; Times: 10
+	Country: Honduras ; Times: 34
+	Country: Portugal ; Times: 31
+	Country: Mexico ; Times: 269
+	Country: Unknown ; Times: 15
+	Country: India ; Times: 2
+	Country: France ; Times: 23
+	Country: United Kingdom ; Times: 8
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 24
+	Country: Colombia ; Times: 12
+	Country: Brazil ; Times: 27
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 3
+	Date: 2016-06-24 ; Times: 13
+	Date: 2016-06-23 ; Times: 28
+	Date: 2016-06-08 ; Times: 30
+	Date: 2016-06-21 ; Times: 55
+	Date: 2016-06-20 ; Times: 56
+	Date: 2016-06-05 ; Times: 51
+	Date: 2016-06-04 ; Times: 19
+	Date: 2016-06-07 ; Times: 39
+	Date: 2016-06-06 ; Times: 34
+	Date: 2016-06-01 ; Times: 304
+	Date: 2016-06-03 ; Times: 77
+	Date: 2016-06-02 ; Times: 154
+	Date: 2016-06-09 ; Times: 24
+	Date: 2016-06-22 ; Times: 26
+	Date: 2016-06-18 ; Times: 26
+	Date: 2016-06-19 ; Times: 14
+	Date: 2016-06-16 ; Times: 58
+	Date: 2016-06-17 ; Times: 46
+	Date: 2016-06-14 ; Times: 54
+	Date: 2016-06-15 ; Times: 40
+	Date: 2016-06-12 ; Times: 36
+	Date: 2016-06-13 ; Times: 70
+	Date: 2016-06-10 ; Times: 16
+	Date: 2016-06-11 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "usnm 154135" ; Times: 2
+	Query: "usnm 422370" ; Times: 2
+	Query: "dasypus sabanicola" ; Times: 5
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:USNM" ; Times: 1
+	Query: "usnm 209546" ; Times: 2
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;1" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;0" ; Times: 1
+	Query: "101298 usnm marmota" ; Times: 1
+	Query: "usnm 469230" ; Times: 2
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "usnm 321577" ; Times: 1
+	Query: "usnm 321574" ; Times: 1
+	Query: "scolomys" ; Times: 1
+	Query: "usnm 76233" ; Times: 1
+	Query: "322089" ; Times: 1
+	Query: "usnm 321579" ; Times: 1
+	Query: "108985" ; Times: 1
+	Query: "583074" ; Times: 7
+	Query: "specificepithet:palustris genus:sorex county:&#34;whatcom&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "usnm 465000" ; Times: 2
+	Query: "Panthera onca" ; Times: 4
+	Query: "usnm 450446" ; Times: 1
+	Query: "usnm 450445" ; Times: 2
+	Query: "usnm 121541" ; Times: 1
+	Query: "usnm 121540" ; Times: 1
+	Query: "Smith AND Catalina" ; Times: 2
+	Query: "phocoena sinus" ; Times: 1
+	Query: "specificepithet:edeni genus:balaenoptera" ; Times: 2
+	Query: "Usnm 103528" ; Times: 1
+	Query: "usnm 128667" ; Times: 2
+	Query: "usnm 226056" ; Times: 2
+	Query: "usnm 200250" ; Times: 1
+	Query: "loxodonta africana" ; Times: 4
+	Query: "98763" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "merriami parvus" ; Times: 1
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Oligoryzomys magellanicus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 47
+	Query: "kunsia" ; Times: 2
+	Query: "565477" ; Times: 2
+	Query: "CANIS simensis" ; Times: 1
+	Query: "565478" ; Times: 2
+	Query: "ateles paniscus" ; Times: 2
+	Query: "Panthera leo" ; Times: 2
+	Query: "usnm 155459" ; Times: 1
+	Query: "specificepithet:Pennsylvanicus genus:Microtus stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "usnm 195105" ; Times: 1
+	Query: "usnm 155457" ; Times: 2
+	Query: "248878" ; Times: 2
+	Query: "lycalopex culpaeus" ; Times: 6
+	Query: "Santa Catalina Island AND 1886" ; Times: 2
+	Query: "Santa Catalina Island AND 1885" ; Times: 3
+	Query: "Sylvilagus robustus" ; Times: 2
+	Query: "162089" ; Times: 1
+	Query: "Sphiggurus" ; Times: 3
+	Query: "usnm 174501 marmota" ; Times: 1
+	Query: "ichthyomys hydrobates Colombia" ; Times: 1
+	Query: "specificepithet:Cinereus genus:Sorex stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "573649" ; Times: 2
+	Query: "canis adustus" ; Times: 5
+	Query: "239364" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "genus:puma stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "usnm 236109" ; Times: 1
+	Query: "usnm 597959" ; Times: 2
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Didelphis imperfecta" ; Times: 3
+	Query: "usnm 597951" ; Times: 2
+	Query: "usnm 218123" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;vermont&#34;" ; Times: 4
+	Query: "208320" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "usnm 474157" ; Times: 2
+	Query: "specificepithet:borealis stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1865" ; Times: 1
+	Query: "sorex emarginatus" ; Times: 1
+	Query: "canid" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "usnm 216872" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 3
+	Query: "usnm 230108" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "usnm 466749" ; Times: 1
+	Query: "usnm 322187" ; Times: 2
+	Query: "usnm 466747" ; Times: 3
+	Query: "Marmota himalayana" ; Times: 2
+	Query: "speothos venaticus" ; Times: 3
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 47
+	Query: "Bubalus bubalis" ; Times: 8
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "Oxymycterus quaestor" ; Times: 1
+	Query: "Paracatu" ; Times: 1
+	Query: "Santa Cruz Island AND Mammals AND 1906" ; Times: 1
+	Query: "usnm 298419" ; Times: 1
+	Query: "type:specimen specificepithet:leo genus:Panthera country:&#34;South Africa&#34;" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "usnm 298412" ; Times: 1
+	Query: "Primates country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Atelerix" ; Times: 4
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "141630" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "&#34;Mustela frenata&#34; type:specimen stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "Myotis AND San Clemente Island" ; Times: 1
+	Query: "ateles chamek" ; Times: 13
+	Query: "Herpestes ichneumon 1" ; Times: 2
+	Query: "Usnm 319728" ; Times: 1
+	Query: "Oligoryzomys vegetus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "USNM 523697" ; Times: 3
+	Query: "USNM 523696" ; Times: 1
+	Query: "USNM 523695" ; Times: 1
+	Query: "USNM 523694" ; Times: 2
+	Query: "USNM 523693" ; Times: 1
+	Query: "USNM 523692" ; Times: 1
+	Query: "USNM 523691" ; Times: 1
+	Query: "USNM 523690" ; Times: 2
+	Query: "sorex macrodon" ; Times: 1
+	Query: "usnm 319728" ; Times: 1
+	Query: "Usnm 174060" ; Times: 1
+	Query: "bubalus depressicornis" ; Times: 2
+	Query: "Bos taurus juvenile institutioncode:USNM" ; Times: 1
+	Query: "usnm 219639" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "van fleet" ; Times: 1
+	Query: "usnm 540040" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "type:specimen (Cebidae) institutioncode:USNM" ; Times: 1
+	Query: "usnm 468945" ; Times: 2
+	Query: "sylvilagus floridanus stateprovince:&#34;New York&#34; year &lt;= 1920" ; Times: 1
+	Query: "usnm 468947" ; Times: 2
+	Query: "usnm 33867" ; Times: 2
+	Query: "Usnm 516143" ; Times: 1
+	Query: "usnm 585506" ; Times: 3
+	Query: "panthera leo (neonate)" ; Times: 1
+	Query: "usnm 585504" ; Times: 2
+	Query: "Lipotes vexillifer" ; Times: 1
+	Query: "Monodelphis iheringi" ; Times: 3
+	Query: "usnm 111832" ; Times: 1
+	Query: "281873" ; Times: 1
+	Query: "281874" ; Times: 1
+	Query: "usnm 252451" ; Times: 1
+	Query: "328423" ; Times: 1
+	Query: "Callithrix aurita" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34;" ; Times: 2
+	Query: "usnm 585507" ; Times: 1
+	Query: "182 oryzomys" ; Times: 1
+	Query: "usnm 72236" ; Times: 2
+	Query: "genus:sorex stateprovince:&#34;baja california&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Canis lupus familiaris" ; Times: 1
+	Query: "usnm 131445" ; Times: 2
+	Query: "usnm 585505" ; Times: 4
+	Query: "Rucervus schomburgki" ; Times: 2
+	Query: "zuliae" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "usnm 588398" ; Times: 1
+	Query: "genus:canis" ; Times: 1
+	Query: "usnm 343453" ; Times: 2
+	Query: "sorex ornatus sierra" ; Times: 1
+	Query: "usnm 343454" ; Times: 2
+	Query: "usnm 512803" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:aberti genus:Sciurus year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "glossophaga morenoi" ; Times: 2
+	Query: "Usnm 121534" ; Times: 1
+	Query: "usnm 474114" ; Times: 2
+	Query: "usnm 474059" ; Times: 2
+	Query: "109843" ; Times: 1
+	Query: "251568" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Maine&#34;" ; Times: 7
+	Query: "usnm 500944" ; Times: 2
+	Query: "Vampyrum" ; Times: 1
+	Query: "usnm 500940" ; Times: 1
+	Query: "usnm 500941" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 4
+	Query: "usnm 500943" ; Times: 2
+	Query: "Myotis (29827) institutioncode:USNM" ; Times: 1
+	Query: "chiquibul" ; Times: 1
+	Query: "usnm 466700" ; Times: 2
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 1
+	Query: "usnm 322146" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "specificepithet:Fumeus genus:Sorex stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "Usnm 102549" ; Times: 1
+	Query: "usnm 533483" ; Times: 1
+	Query: "usnm 533482" ; Times: 1
+	Query: "usnm 533481" ; Times: 2
+	Query: "224153" ; Times: 1
+	Query: "129246" ; Times: 1
+	Query: "symphalangus syndactylus" ; Times: 5
+	Query: "usnm 218693" ; Times: 1
+	Query: "usnm 252436" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "usnm 217732" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "genus:Notiosorex country:&#34;Mexico&#34;" ; Times: 1
+	Query: "263856" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "444127" ; Times: 1
+	Query: "usnm 302218" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "50388" ; Times: 1
+	Query: "ateles marginatus" ; Times: 5
+	Query: "megasorex gigas" ; Times: 2
+	Query: "Dasypus sabanicola" ; Times: 1
+	Query: "Santa Cruz Island AND Mammals AND 1892" ; Times: 1
+	Query: "bibimys" ; Times: 1
+	Query: "usnm 465402" ; Times: 2
+	Query: "Bradypus pygmaeus" ; Times: 1
+	Query: "Lonchophylla fornicata" ; Times: 3
+	Query: "73277" ; Times: 1
+	Query: "usnm 121553" ; Times: 1
+	Query: "usnm 121550" ; Times: 1
+	Query: "usnm 121551" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 6
+	Query: "Usnm 219725" ; Times: 2
+	Query: "genus:dasypus country:&#34;Bolivia&#34;" ; Times: 4
+	Query: "145108" ; Times: 1
+	Query: "Alouatta belzebul 1" ; Times: 2
+	Query: "Equus grevyi" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "usnm 358025" ; Times: 2
+	Query: "56134" ; Times: 1
+	Query: "Carnivora country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "120059" ; Times: 1
+	Query: "555693" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "monster" ; Times: 7
+	Query: "usnm 500939" ; Times: 2
+	Query: "usnm 500938" ; Times: 2
+	Query: "Canis aureus" ; Times: 2
+	Query: "usnm 482661" ; Times: 2
+	Query: "MNH 209344" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "160399" ; Times: 3
+	Query: "Felis catus" ; Times: 2
+	Query: "usnm 216947" ; Times: 1
+	Query: "Leopardus colocolo colocolo" ; Times: 2
+	Query: "Dipodomys merriami margaritae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "Usnm 114281" ; Times: 1
+	Query: "usnm 568206" ; Times: 2
+	Query: "Mentawai Chiroptera" ; Times: 2
+	Query: "usnm 486080" ; Times: 2
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "usnm 217787" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "CANIS AUREUS" ; Times: 2
+	Query: "Usnm 200266" ; Times: 1
+	Query: "208317" ; Times: 1
+	Query: "Usnm 535582" ; Times: 2
+	Query: "specificepithet:personatus genus:Pteronotus continent:South America" ; Times: 3
+	Query: "208318" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "genus:sorex stateprovince:&#34;california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "Peromyscus mekisturus" ; Times: 9
+	Query: "lycaon pictus" ; Times: 3
+	Query: "Romerolagus diazi" ; Times: 7
+	Query: "141529" ; Times: 1
+	Query: "usnm 271023" ; Times: 2
+	Query: "distance(location,geopoint(37,-122))&lt;10" ; Times: 1
+	Query: "orca Maine" ; Times: 4
+	Query: "337782" ; Times: 1
+	Query: "usnm 474203" ; Times: 2
+	Query: "172508" ; Times: 1
+	Query: "&#34;Reithrodontomys megalotis megalotis&#34; county:&#34;San Diego&#34;" ; Times: 1
+	Query: "usnm 376650" ; Times: 2
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "usnm 466697" ; Times: 2
+	Query: "Phyllomys nigrispinus" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "caenolestes fuliginosus" ; Times: 1
+	Query: "usnm 357456" ; Times: 4
+	Query: "leopardus colocolo" ; Times: 3
+	Query: "usnm 585381" ; Times: 2
+	Query: "Usnm 155457" ; Times: 1
+	Query: "Sphiggurus mexicanus mexicanus" ; Times: 1
+	Query: "225762" ; Times: 2
+	Query: "Gerbillurus setzeri" ; Times: 2
+	Query: "Platanista gangetica" ; Times: 1
+	Query: "dipodomys gravipes" ; Times: 3
+	Query: "167471" ; Times: 1
+	Query: "Ursus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "usnm 322256" ; Times: 1
+	Query: "orca massachusetts" ; Times: 6
+	Query: "sorex ornatus juncensis" ; Times: 1
+	Query: "usnm 322251" ; Times: 1
+	Query: "Usnm 111858" ; Times: 2
+	Query: "usnm 217704" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "usnm 217709" ; Times: 1
+	Query: "pinula" ; Times: 1
+	Query: "USNM 523689" ; Times: 2
+	Query: "USNM 523684" ; Times: 2
+	Query: "USNM 523686" ; Times: 2
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "USNM 523683" ; Times: 2
+	Query: "Callimico" ; Times: 1
+	Query: "binturong thailand" ; Times: 1
+	Query: "Atelerix algirus 1" ; Times: 2
+	Query: "sylvilagus floridanus year &lt;= 1900" ; Times: 1
+	Query: "Phocoena sinus" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "Tamias durangae" ; Times: 1
+	Query: "usnm 319718" ; Times: 2
+	Query: "16754" ; Times: 1
+	Query: "specificepithet:anomalus genus:Sciurus" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "usnm 121563" ; Times: 1
+	Query: "usnm 121562" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "usnm 379012" ; Times: 2
+	Query: "Gujarat" ; Times: 2
+	Query: "usnm 468958" ; Times: 2
+	Query: "usnm 468959" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:aberti genus:Sciurus year &gt;= 1800 year &lt;= 2015" ; Times: 1
+	Query: "canis lupus   " ; Times: 4
+	Query: "cuon alpinus" ; Times: 7
+	Query: "usnm 281290" ; Times: 2
+	Query: "usnm 500942" ; Times: 2
+	Query: "usnm 200230" ; Times: 2
+	Query: "127778" ; Times: 1
+	Query: "usnm 437394" ; Times: 2
+	Query: "Tamandua tetradactyla" ; Times: 3
+	Query: "Connochaetes" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "204047" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "(ovis ammon) mappable:1" ; Times: 1
+	Query: "USNM 523713" ; Times: 3
+	Query: "Priodontes maximus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34; institutioncode:USNM" ; Times: 1
+	Query: "microtus montebelli" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "bison bison   " ; Times: 9
+	Query: "Ichthyomys" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "usnm 277430" ; Times: 3
+	Query: "USNM 82015" ; Times: 1
+	Query: "usnm 414584" ; Times: 2
+	Query: "usnm 277438" ; Times: 3
+	Query: "usnm 422079" ; Times: 2
+	Query: "USNM 523715" ; Times: 2
+	Query: "Calyptophractus retusus" ; Times: 6
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Usnm 162535" ; Times: 2
+	Query: "usnm 165193" ; Times: 1
+	Query: "Spilogale (New Mexico)" ; Times: 2
+	Query: "Santa Rosa Island AND mammals AND 1889" ; Times: 1
+	Query: "usnm 585631" ; Times: 2
+	Query: "usnm 585630" ; Times: 2
+	Query: "usnm 585633" ; Times: 2
+	Query: "usnm 585632" ; Times: 2
+	Query: "usnm 585635" ; Times: 2
+	Query: "usnm 585634" ; Times: 2
+	Query: "usnm 466719" ; Times: 1
+	Query: "Ichthyomys hydrobates Colombia" ; Times: 1
+	Query: "usnm 252447" ; Times: 1
+	Query: "usnm 466715" ; Times: 2
+	Query: "usnm 466712" ; Times: 2
+	Query: "usnm 322131" ; Times: 1
+	Query: "Geomys tropicalis Goldman" ; Times: 1
+	Query: "usnm 473719" ; Times: 2
+	Query: "ovis aries juvenile" ; Times: 1
+	Query: "canis simensis" ; Times: 9
+	Query: "usnm 101296" ; Times: 1
+	Query: "Usnm 155459" ; Times: 1
+	Query: "usnm 321356" ; Times: 1
+	Query: "macroscelididae type:specimen institutioncode:USNM" ; Times: 1
+	Query: "genus:tamandua country:mexico" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "141802" ; Times: 1
+	Query: "usnm 474034" ; Times: 2
+	Query: "usnm 356781" ; Times: 2
+	Query: "Bos taurus juvenile" ; Times: 2
+	Query: "varecia" ; Times: 2
+	Query: "128775" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "128776" ; Times: 1
+	Query: "usnm 141503" ; Times: 2
+	Query: "Oligoryzomys arenalis" ; Times: 2
+	Query: "usnm 141504" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "usnm 474255" ; Times: 2
+	Query: "genus:Tamiasciurus stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "R 175527" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "211571" ; Times: 1
+	Query: "siberut" ; Times: 3
+	Query: "genus:Dasypus country:&#34;Venezuela&#34; institutioncode:USNM" ; Times: 1
+	Query: "102893" ; Times: 1
+	Query: "oryzomys couesi guatemala" ; Times: 4
+	Query: "flavescens iowa" ; Times: 1
+	Query: "566492" ; Times: 1
+	Query: "152658" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "54714" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 5
+	Query: "locality:Bella Union stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 4
+	Query: "Santa Rosa Island AND mammals AND 1941" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 3
+	Query: "Ammotragus lervia 1" ; Times: 2
+	Query: "Chiroptera AND Siberut" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "211792" ; Times: 1
+	Query: "scapteromys" ; Times: 1
+	Query: "usnm 410188" ; Times: 1
+	Query: "27097" ; Times: 1
+	Query: "usnm 402129" ; Times: 2
+	Query: "peromyscus mekisturus" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "sylvilagus floridanus stateprovince:&#34;New York&#34; year &lt;= 1900" ; Times: 1
+	Query: "usnm 410160" ; Times: 2
+	Query: "usnm 481978" ; Times: 2
+	Query: "usnm 369523" ; Times: 2
+	Query: "usnm 486156" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Vermont&#34;" ; Times: 2
+	Query: "usnm 486154" ; Times: 1
+	Query: "usnm 486155" ; Times: 1
+	Query: "usnm 121633" ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "usnm 121631" ; Times: 2
+	Query: "usnm 121630" ; Times: 2
+	Query: "usnm 121634" ; Times: 1
+	Query: "usnm 533480" ; Times: 2
+	Query: "usnm 219626" ; Times: 1
+	Query: "Myotis AND San Miguel Island" ; Times: 1
+	Query: "usnm 88007" ; Times: 1
+	Query: "usnm 357774" ; Times: 2
+	Query: "Desmodontinae" ; Times: 1
+	Query: "usnm 357773" ; Times: 2
+	Query: "usnm 435014" ; Times: 1
+	Query: "usnm 454338" ; Times: 2
+	Query: "reithrodontomys montanus county:&#34;nemaha&#34;" ; Times: 1
+	Query: "usnm 252415" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "77997" ; Times: 1
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "134397" ; Times: 1
+	Query: "usnm 585301" ; Times: 2
+	Query: "genus:Neotoma stateprovince:&#34;Tennessee&#34;" ; Times: 7
+	Query: "mammals (delicias)" ; Times: 3
+	Query: "565129" ; Times: 2
+	Query: "type:specimen (Chiroptera AND Siberut)" ; Times: 1
+	Query: "565124" ; Times: 2
+	Query: "Pteropus vampyrus" ; Times: 2
+	Query: "usnm 252434" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 5
+	Query: "72923" ; Times: 1
+	Query: "Santa Rosa Island AND mammals AND 1938" ; Times: 1
+	Query: "blarinomys" ; Times: 1
+	Query: "s venaticus" ; Times: 1
+	Query: "usnm 376534" ; Times: 2
+	Query: "Schumacher AND San Nicolas Island" ; Times: 1
+	Query: "559582" ; Times: 1
+	Query: "genus:Perimyotis specificepithet:subflavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "usnm 321575" ; Times: 1
+	Query: "tachyoryctes" ; Times: 1
+	Query: "usnm 217701" ; Times: 2
+	Query: "Neovison vison stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "usnm 466689" ; Times: 2
+	Query: "106011" ; Times: 3
+	Query: "Oryctolagus AND &#34;Santa BArbara Island&#34;" ; Times: 1
+	Query: "usnm 466720" ; Times: 2
+	Query: "164118" ; Times: 1
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "Mystacinidae" ; Times: 2
+	Query: "leopardus pardalis nelsoni" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "usnm 585398" ; Times: 1
+	Query: "Dasypus kappleri" ; Times: 3
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "137030" ; Times: 1
+	Query: "Catalina Island AND 1886" ; Times: 1
+	Query: "169051" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "sorex ornatus baja california" ; Times: 8
+	Query: "alces alces   " ; Times: 6
+	Query: "saimiri oerstedii" ; Times: 3
+	Query: "usnm 438311" ; Times: 2
+	Query: "usnm 422087" ; Times: 2
+	Query: "elephas" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "San Martin Island AND Mexico NOT LVB NOT Burt NOT Willett NOT LAmb NOT Tevis" ; Times: 1
+	Query: "genus:Myotis specificepithet:ciliolabrum stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "usnm 576003" ; Times: 2
+	Query: "usnm 413461" ; Times: 2
+	Query: "Cooper AND Catalina NOT Arizona" ; Times: 1
+	Query: "usnm 564468" ; Times: 2
+	Query: "usnm 547090" ; Times: 2
+	Query: "specificepithet:pinchaque genus:Tapirus" ; Times: 1
+	Query: "usnm 469222" ; Times: 2
+	Query: "San Miguel Island AND Mammals AND 1909" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "retusus mammals" ; Times: 7
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "San Miguel Island AND Mammals AND 1900" ; Times: 1
+	Query: "San Miguel Island AND Mammals AND 1904" ; Times: 1
+	Query: "San Miguel Island AND Mammals AND 1907" ; Times: 1
+	Query: "USNM 523712" ; Times: 2
+	Query: "157870" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "usnm 200245" ; Times: 2
+	Query: "USNM 523716" ; Times: 1
+	Query: "USNM 523717" ; Times: 1
+	Query: "USNM 523714" ; Times: 2
+	Query: "Ovis aries" ; Times: 2
+	Query: "USNM 523718" ; Times: 1
+	Query: "USNM 523719" ; Times: 1
+	Query: "procyon pygmaeus" ; Times: 4
+	Query: "61180" ; Times: 1
+	Query: "USNM Mammals 188080" ; Times: 3
+	Query: "usnm 321583" ; Times: 2
+	Query: "usnm 321581" ; Times: 1
+	Query: "usnm 321580" ; Times: 1
+	Query: "usnm 321585" ; Times: 1
+	Query: "usnm 321584" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 6
+	Query: "sylvisorex" ; Times: 1
+	Query: "type:specimen (Mammalia AND Siberut)" ; Times: 2
+	Query: "Ichthyomys hydrobates" ; Times: 1
+	Query: "Ovis aries institutioncode:USNM" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis locality:San Pedro" ; Times: 1
+	Query: "147216" ; Times: 1
+	Query: "usnm 200224" ; Times: 1
+	Query: "genus:dasypus institutioncode:USNM" ; Times: 1
+	Query: "usnm 200226" ; Times: 2
+	Query: "canis mesomelas" ; Times: 3
+	Query: "324387" ; Times: 1
+	Query: "specificepithet:acutorostrata genus:Balaenoptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Tamias stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "cyclopes didactylus country:&#34;colombia&#34;" ; Times: 1
+	Query: "usnm 486157" ; Times: 1
+	Query: "usnm 322133" ; Times: 1
+	Query: "559583" ; Times: 1
+	Query: "usnm 82016" ; Times: 1
+	Query: "bullimus" ; Times: 1
+	Query: "usnm 219611" ; Times: 1
+	Query: "usnm 339669" ; Times: 2
+	Query: "euderma" ; Times: 1
+	Query: "globicephala california" ; Times: 2
+	Query: "Santa Rosa Island AND mammals AND 1891" ; Times: 1
+	Query: "Santa Rosa Island AND mammals AND 1892" ; Times: 1
+	Query: "150223" ; Times: 1
+	Query: "diclidurus albus" ; Times: 4
+	Query: "usnm 585626" ; Times: 2
+	Query: "111499" ; Times: 3
+	Query: "131078" ; Times: 1
+	Query: "usnm 322124" ; Times: 1
+	Query: "usnm 585628" ; Times: 2
+	Query: "Siberut" ; Times: 2
+	Query: "R.161282" ; Times: 1
+	Query: "usnm 327753" ; Times: 2
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "specificepithet:alaskanus genus:Sorex" ; Times: 2
+	Query: "juscelinomys" ; Times: 1
+	Query: "proteles" ; Times: 1
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Oligoryzomys andinus" ; Times: 2
+	Query: "usnm 219682" ; Times: 1
+	Query: "usnm 219683" ; Times: 1
+	Query: "usnm 219684" ; Times: 1
+	Query: "usnm 219685" ; Times: 1
+	Query: "usnm 219686" ; Times: 1
+	Query: "Usnm 533731" ; Times: 2
+	Query: "usnm 469295" ; Times: 2
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "88727" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "usnm 146355" ; Times: 1
+	Query: "328006" ; Times: 1
+	Query: "Oligoryzomys destructor" ; Times: 2
+	Query: "grey wolf" ; Times: 1
+	Query: "specificepithet:Fumeus genus:Sorex stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "380764" ; Times: 2
+	Query: "usnm 468953" ; Times: 2
+	Query: "Santa Cruz Island AND Mammals AND 1931" ; Times: 1
+	Query: "Santa Cruz Island AND Mammals AND 1932" ; Times: 1
+	Query: "Cuon alpinus" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "214726" ; Times: 2
+	Query: "Santa Catalina Island AND 1875" ; Times: 2
+	Query: "usnm 551542" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "usnm 551541" ; Times: 1
+	Query: "Macaca sylvanus 1" ; Times: 2
+	Query: "usnm 121539" ; Times: 1
+	Query: "usnm 565067" ; Times: 1
+	Query: "San Miguel Island AND Mammals AND 1892" ; Times: 1
+	Query: "usnm 121537" ; Times: 2
+	Query: "usnm 354414" ; Times: 2
+	Query: "Oligoryzomys chacoensis" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "usnm 217766" ; Times: 1
+	Query: "usnm 413647" ; Times: 1
+	Query: "98759" ; Times: 1
+	Query: "Sus scrofa" ; Times: 5
+	Query: "specificepithet:Cinereus genus:Sorex stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "Stephens AND Catalina" ; Times: 1
+	Query: "Santa Rosa Island AND mammals AND 1925" ; Times: 1
+	Query: "Lupinus" ; Times: 1
+	Query: "Santa Rosa Island AND mammals AND 1926" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "Santa Rosa Island AND mammals AND 1920" ; Times: 1
+	Query: "sorex arizonae" ; Times: 1
+	Query: "specificepithet:polius order:rodentia" ; Times: 2
+	Query: "74997 usnm" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "flamingo institutioncode:USNM" ; Times: 1
+	Query: "Usnm 153375" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 8
+	Query: "pteropus caniceps" ; Times: 10
+	Query: "crocuta" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "Usnm 556215" ; Times: 2
+	Query: "genus:Leptonycteris specificepithet:nivalis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "usnm 585629" ; Times: 2
+	Query: "123899" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 20
+	Query: "Oligoryzomys griseolus" ; Times: 1
+	Query: "USNM 34626" ; Times: 1
+	Query: "243029 usnm" ; Times: 1
+	Query: "genus:dasypus institutioncode:USNM mappable:1" ; Times: 1
+	Query: "Usnm 398767" ; Times: 1
+	Query: "327962" ; Times: 1
+	Query: "usnm 74998" ; Times: 1
+	Query: "usnm 74995" ; Times: 1
+	Query: "Usnm mus spicilegus" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "specificepithet:townsendii genus:corynorhinus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "150922" ; Times: 1
+	Query: "usnm 299768" ; Times: 2
+	Query: "usnm 486152" ; Times: 2
+	Query: "59028" ; Times: 1
+	Query: "ovibos" ; Times: 3
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "neotoma fuscipes st*" ; Times: 1
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "Oryzomys couesi Izabal" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "genus:bison" ; Times: 3
+	Query: "106853" ; Times: 3
+	Query: "USNM 252231" ; Times: 1
+	Query: "specificepithet:townsendii genus:corynorhinus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "usnm 68716" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "usnm 486150" ; Times: 2
+	Query: "Chiroptera AND Mentawai" ; Times: 1
+	Query: "genus:Antilocapra specificepithet:americana stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "Cooper AND Catalina" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "USNM 271702" ; Times: 1
+	Query: "usnm 474297" ; Times: 2
+	Query: "usnm 354106" ; Times: 1
+	Query: "Santa Cruz Island AND Mammals AND 1875" ; Times: 1
+	Query: "canis aureus" ; Times: 7
+	Query: "Catalina Island AND 1893" ; Times: 1
+	Query: "Catalina Island AND 1892" ; Times: 1
+	Query: "USNM 77035" ; Times: 1
+	Query: "usnm 252421" ; Times: 1
+	Query: "usnm 252420" ; Times: 1
+	Query: "usnm 252422" ; Times: 1
+	Query: "specificepithet:occiduus" ; Times: 1
+	Query: "sorex asper" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 241 (out of 1052 download events in this period)
+Total number of records downloaded: 170876
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Czech Republic ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: Mexico ; Times: 94
+	Country: United States ; Times: 118
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 4
+	Date: 2016-06-08 ; Times: 15
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 11
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-06 ; Times: 7
+	Date: 2016-06-01 ; Times: 8
+	Date: 2016-06-03 ; Times: 7
+	Date: 2016-06-02 ; Times: 10
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 8
+	Date: 2016-06-18 ; Times: 12
+	Date: 2016-06-19 ; Times: 6
+	Date: 2016-06-16 ; Times: 20
+	Date: 2016-06-17 ; Times: 19
+	Date: 2016-06-14 ; Times: 22
+	Date: 2016-06-15 ; Times: 20
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 39
+	Date: 2016-06-10 ; Times: 6
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "ochotona princeps type:specimen specificepithet:Princeps genus:Ochotona stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 2
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "procyon pygmaeus" ; Times: 1
+	Query: "microtus montebelli" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Chiroptera type:specimen country:&#34;Ghana&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "deserticola specificepithet:californicus genus:lepus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "type:specimen (Mammalia AND Siberut)" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Spilogale (New Mexico)" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "macroscelididae type:specimen institutioncode:USNM" ; Times: 1
+	Query: "Ichthyomys hydrobates Colombia" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Geomys tropicalis Goldman" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Phocoena sinus" ; Times: 1
+	Query: "phocoena sinus" ; Times: 1
+	Query: "specificepithet:edeni genus:balaenoptera" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:Eptesicus specificepithet:fuscus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (NOT pallidus)" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "TURSIOPS ADUNCUS" ; Times: 1
+	Query: "wallabia bicolor" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "leptonycteris yerbabuenae" ; Times: 1
+	Query: "ichthyomys hydrobates Colombia" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (Erethizon)" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:aberti genus:Sciurus year &gt;= 1800 year &lt;= 2015" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Dipodomys merriami margaritae" ; Times: 1
+	Query: "genus:Leptonycteris specificepithet:nivalis stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "geoxus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "saccopteryx leptura specificepithet:leptura genus:Saccopteryx mappable:1" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Oxymycterus quaestor" ; Times: 1
+	Query: "Romerolagus diazi" ; Times: 3
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "type:specimen (Chiroptera AND Siberut)" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "neotoma bryanti" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "Castor (California)" ; Times: 1
+	Query: "genus:Perimyotis specificepithet:subflavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "nasua nasua" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "leopardus pardalis nelsoni" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Catagonus" ; Times: 1
+	Query: "Dasypus kappleri" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "sorex ornatus baja california" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "genus:Myotis specificepithet:velifer stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America AND (incautus)" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "peromyscus furvus" ; Times: 1
+	Query: "genus:Myotis specificepithet:ciliolabrum stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "microtus quasiater" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Sorex stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "genus:Antilocapra specificepithet:americana stateprovince:&#34;Texas&#34; country:&#34;United States&#34; continent:North America mappable:1" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Canis Lupus baileyi" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 2
+	Query: "glossophaga morenoi" ; Times: 2
+	Query: "canis latrans" ; Times: 3
+	Query: "Martes pennanti" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+
+
+End of report.
