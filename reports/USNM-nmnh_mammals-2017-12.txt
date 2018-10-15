@@ -1,0 +1,588 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 688
+Number of records retrieved in searches: 10599
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 8
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 8
+	Country: Colombia ; Times: 8
+	Country: Mexico ; Times: 58
+	Country: Unknown ; Times: 44
+	Country: France ; Times: 8
+	Country: United States ; Times: 488
+	Country: China ; Times: 4
+	Country: United Kingdom ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Gambia ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 9
+	Country: Russia ; Times: 2
+	Country: Denmark ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 8
+	Date: 2017-12-31 ; Times: 15
+	Date: 2017-12-16 ; Times: 6
+	Date: 2017-12-17 ; Times: 6
+	Date: 2017-12-14 ; Times: 20
+	Date: 2017-12-15 ; Times: 12
+	Date: 2017-12-12 ; Times: 45
+	Date: 2017-12-13 ; Times: 23
+	Date: 2017-12-10 ; Times: 9
+	Date: 2017-12-11 ; Times: 8
+	Date: 2017-12-18 ; Times: 33
+	Date: 2017-12-19 ; Times: 23
+	Date: 2017-12-29 ; Times: 4
+	Date: 2017-12-28 ; Times: 3
+	Date: 2017-12-27 ; Times: 18
+	Date: 2017-12-26 ; Times: 18
+	Date: 2017-12-25 ; Times: 7
+	Date: 2017-12-24 ; Times: 39
+	Date: 2017-12-23 ; Times: 7
+	Date: 2017-12-22 ; Times: 20
+	Date: 2017-12-21 ; Times: 13
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-05 ; Times: 48
+	Date: 2017-12-04 ; Times: 37
+	Date: 2017-12-07 ; Times: 8
+	Date: 2017-12-06 ; Times: 78
+	Date: 2017-12-01 ; Times: 44
+	Date: 2017-12-03 ; Times: 28
+	Date: 2017-12-02 ; Times: 84
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Zapus 2679" ; Times: 1
+	Query: "bos grunniens" ; Times: 2
+	Query: "catalognumber:511261 institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico" ; Times: 1
+	Query: "specificepithet:ichneumon genus:herpestes country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:355262" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 3
+	Query: "monodelphis" ; Times: 1
+	Query: "specificepithet:imperfecta genus:didelphis institutioncode:USNM" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "sorex gaspensis" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 2
+	Query: "distance(location,geopoint(42.775150786286,-70.8116006292027))&lt;1330" ; Times: 1
+	Query: "musonycteris harrisoni" ; Times: 46
+	Query: "genus:hyaena country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "genus:Micoureus country:&#34;Panama&#34;" ; Times: 3
+	Query: "223283" ; Times: 1
+	Query: "223285" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 27
+	Query: "Elephant tusk" ; Times: 2
+	Query: "kunsia" ; Times: 1
+	Query: "distance(location,geopoint(38.038957077143,-75.256686195))&lt;4625" ; Times: 1
+	Query: "USNM 559403" ; Times: 1
+	Query: "locality:Clipperton year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "USNM 559408" ; Times: 1
+	Query: "genus:dasypus catalognumber:464865 institutioncode:USNM" ; Times: 1
+	Query: "genus:hyaena country:&#34;kenya&#34;" ; Times: 1
+	Query: "snake country:&#34;colombia&#34;" ; Times: 1
+	Query: "USNM 296827" ; Times: 3
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;coahuila&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "shattucki specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "catalognumber:511262 institutioncode:USNM" ; Times: 2
+	Query: "galapagos macfarland" ; Times: 2
+	Query: "USNM 406417" ; Times: 2
+	Query: "USNM 406414" ; Times: 2
+	Query: "USNM 563460" ; Times: 1
+	Query: "USNM 406412" ; Times: 2
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "USNM 497175" ; Times: 1
+	Query: "vulpes velox stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "genus:colomys country:&#34;Kenya&#34;" ; Times: 3
+	Query: "panthera tigris" ; Times: 5
+	Query: "catalognumber:581955 institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:511265 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Zapus 2130" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "USNM 348115" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "Skin-94896" ; Times: 1
+	Query: "distance(location,geopoint(37.8766483865001,-75.4668140885))&lt;7719" ; Times: 1
+	Query: "genus:dasypus catalognumber:338783 institutioncode:USNM" ; Times: 1
+	Query: "genus:dasypus catalognumber:575618 institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(41.4833376300001,-71.2444756279999))&lt;1364" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "locality:Hudson River stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:surdisorex country:&#34;kenya&#34;" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.917526642143,-74.1392156043335))&lt;6646" ; Times: 1
+	Query: "distance(location,geopoint(39.839311967643,-74.1634654098335))&lt;5050" ; Times: 1
+	Query: "specificepithet:allex genus:crocidura country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "north haven specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Nimule" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "specificepithet:adustus genus:canis country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Micoureus stateprovince:&#34;Para&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia country:&#34;kenya&#34; institutioncode:USNM" ; Times: 2
+	Query: "USNM 397977" ; Times: 2
+	Query: "distance(location,geopoint(38.8138639215,-75.207318686375))&lt;1791" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 10
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 4
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "bibimys chacoensis" ; Times: 1
+	Query: "trichys" ; Times: 1
+	Query: "USNM 243667" ; Times: 2
+	Query: "USNM 518219" ; Times: 2
+	Query: "USNM 518218" ; Times: 2
+	Query: "USNM 347673" ; Times: 1
+	Query: "USNM 406567" ; Times: 2
+	Query: "USNM 406565" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "USNM 406568" ; Times: 2
+	Query: "country:&#34;United States&#34; (Schott) institutioncode:USNM" ; Times: 1
+	Query: "genus:dasypus catalognumber:575616 institutioncode:USNM" ; Times: 1
+	Query: "genus:Didelphis catalognumber:511263 institutioncode:USNM" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico NOT Argentina NOT MOra" ; Times: 1
+	Query: "catalognumber:511264 institutioncode:USNM" ; Times: 2
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34; preparations:Skull OR skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:medius genus:Bassaricyon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 14
+	Query: "genus:dasypus catalognumber:337564 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Marmosa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:dasypus catalognumber:9502 institutioncode:USNM" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "Museum of Cultural and Natural History" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus (mexico)" ; Times: 1
+	Query: "goldmani genus:Sigmodon" ; Times: 3
+	Query: "110080" ; Times: 1
+	Query: "distance(location,geopoint(40.9694335635,-72.127723922))&lt;407" ; Times: 1
+	Query: "USNM 559391" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "specificepithet:aureus genus:canis country:&#34;kenya&#34;" ; Times: 1
+	Query: "sorex dispar" ; Times: 2
+	Query: "Dicerorhinus sumatrensis" ; Times: 1
+	Query: "specificepithet:pernigra genus:didelphis institutioncode:USNM" ; Times: 1
+	Query: "genus:dasypus catalognumber:347566 institutioncode:USNM" ; Times: 1
+	Query: "Rhynchomys" ; Times: 4
+	Query: "genus:Micoureus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "usnm 578770" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "mustela frenata massachusetts" ; Times: 2
+	Query: "Sorex ornatus juncensis" ; Times: 2
+	Query: "catalognumber:511269 institutioncode:USNM" ; Times: 1
+	Query: "Eira barbara" ; Times: 3
+	Query: "genus:dasypus catalognumber:578436 institutioncode:USNM" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "USNM 286919" ; Times: 1
+	Query: "USNM 497135" ; Times: 2
+	Query: "catalognumber:201515 institutioncode:USNM" ; Times: 1
+	Query: "genus:dasypus catalognumber:575622 institutioncode:USNM" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 14
+	Query: "Romerolagus diazi" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "islesboro specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "USNM 207808" ; Times: 1
+	Query: "USNM 397933" ; Times: 2
+	Query: "county:&#34;San Diego&#34; recordedby:Belding year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Zapus 2533" ; Times: 1
+	Query: "Zapus 2532" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "canis lupus chanco" ; Times: 1
+	Query: "distance(location,geopoint(41.601686958,-69.995009412))&lt;7575" ; Times: 1
+	Query: "genus:proteles country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "160535" ; Times: 1
+	Query: "nesophilus genus:microtus" ; Times: 1
+	Query: "genus:proteles country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(42.759119724,-70.8099073985))&lt;1436" ; Times: 1
+	Query: "119073" ; Times: 1
+	Query: "USNM 165753" ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 1
+	Query: "specificepithet:adustus genus:canis country:&#34;kenya&#34;" ; Times: 1
+	Query: "north haven specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "USNM 524073" ; Times: 1
+	Query: "catalognumber:158557" ; Times: 4
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;San Bernardino&#34;" ; Times: 4
+	Query: "catalognumber:511268 institutioncode:USNM" ; Times: 1
+	Query: "baubellum primates" ; Times: 1
+	Query: "specificepithet:allex genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "USNM 449186 Microgale" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "NMNH 270911" ; Times: 2
+	Query: "colombia snake" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 1
+	Query: "histiotus laephotis" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis country:&#34;kenya&#34;" ; Times: 2
+	Query: "genus:dasypus catalognumber:509003 institutioncode:USNM" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "USNM 388149" ; Times: 2
+	Query: "Makay" ; Times: 1
+	Query: "USNM 16603" ; Times: 2
+	Query: "77705" ; Times: 1
+	Query: "477413" ; Times: 1
+	Query: "scolomys melanops" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; country:&#34;United States&#34; recordedby:W. Trowbridge" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1820 year &lt;= 1875" ; Times: 1
+	Query: "distance(location,geopoint(41.2570008050001,-70.8169546239999))&lt;1561" ; Times: 1
+	Query: "usnm a3497" ; Times: 1
+	Query: "genus:Micoureus country:&#34;Nicaragua&#34;" ; Times: 5
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "genus:ictonyx country:&#34;kenya&#34;" ; Times: 1
+	Query: "gull island genus:microtus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus copelandi" ; Times: 1
+	Query: "baculum cetacea" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1930" ; Times: 2
+	Query: "220237" ; Times: 1
+	Query: "genus:lycaon country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "USNM 286323" ; Times: 1
+	Query: "USNM 397616" ; Times: 2
+	Query: "Zapus 2475" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "USNM 346048" ; Times: 2
+	Query: "distance(location,geopoint(38.8569808658209,-75.244864867332))&lt;1328" ; Times: 1
+	Query: "USNM 406570" ; Times: 1
+	Query: "Colorado River (Schott) institutioncode:USNM" ; Times: 1
+	Query: "genus:lontra country:&#34;Mexico&#34;" ; Times: 1
+	Query: "USNM 497153" ; Times: 2
+	Query: "341110" ; Times: 1
+	Query: "genus:dasypus catalognumber:575624 institutioncode:USNM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Zapus 2692" ; Times: 1
+	Query: "527069 Enhydra" ; Times: 2
+	Query: "Oryzomys couesi aquaticus" ; Times: 1
+	Query: "322735" ; Times: 1
+	Query: "distance(location,geopoint(37.9136356015001,-75.9697491285))&lt;15661" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;north carolina&#34;" ; Times: 3
+	Query: "specificepithet:nigripes stateprovince:((wyoming OR south dakota))" ; Times: 1
+	Query: "bruni" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Nebraska&#34;" ; Times: 6
+	Query: "microtus pennsylvanicus shattucki" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "genus:dasypus catalognumber:575614 institutioncode:USNM" ; Times: 1
+	Query: "genus:aonyx country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(37.1380698235,-76.3332721125))&lt;5212" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "mount olympus" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 3
+	Query: "(Schott) institutioncode:USNM" ; Times: 2
+	Query: "genus:dasypus catalognumber:281290 institutioncode:USNM" ; Times: 1
+	Query: "USNM 257846" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (Schott) institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:aonyx country:&#34;kenya&#34; institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:mungo genus:mungos country:&#34;kenya&#34;" ; Times: 1
+	Query: "canis lupus pallipes" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "genus:sylvisorex country:&#34;kenya&#34;" ; Times: 1
+	Query: "baculum primates" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; institutioncode:USNM mappable:1" ; Times: 1
+	Query: "lepus arcticus" ; Times: 1
+	Query: "genus:didelphis institutioncode:USNM" ; Times: 2
+	Query: "USNM 105539" ; Times: 2
+	Query: "genus:Perimyotis stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "catalognumber:20687 institutioncode:USNM" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "USNM 328692" ; Times: 1
+	Query: "mungo mungos" ; Times: 2
+	Query: "Gracilinanus dryas" ; Times: 4
+	Query: "Zapus 2734" ; Times: 1
+	Query: "Zapus M31" ; Times: 1
+	Query: "USNM 497193" ; Times: 1
+	Query: "USNM 461700" ; Times: 2
+	Query: "USNM 461703" ; Times: 2
+	Query: "distance(location,geopoint(37.9686338914285,-75.3035205898625))&lt;5430" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico NOT Argentina" ; Times: 2
+	Query: "specificepithet:albicauda genus:ichneumia country:&#34;kenya&#34;" ; Times: 2
+	Query: "97811" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "phaiomys" ; Times: 1
+	Query: "distance(location,geopoint(38.9014677655,-75.298109284625))&lt;1790" ; Times: 1
+	Query: "Oecomys roberti" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 27
+	Query: "genus:blarina stateprovince:&#34;missouri&#34;" ; Times: 2
+	Query: "specificepithet:mutabilis genus:heliosciurus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "USNM 497129" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis" ; Times: 5
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:xanthinus order:Chiroptera stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 3
+	Query: "abrothrix andinus" ; Times: 1
+	Query: "206666" ; Times: 1
+	Query: "USNM 112634" ; Times: 2
+	Query: "&#34;berry cave&#34;" ; Times: 2
+	Query: "catalognumber:511266 institutioncode:USNM" ; Times: 1
+	Query: "genus:Micoureus stateprovince:&#34;Santa Cruz&#34; country:&#34;Bolivia&#34; institutioncode:USNM" ; Times: 1
+	Query: "locality:miquihuana stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34; year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "USNM 376352" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "Trowbridge stateprovince:&#34;Washington&#34; country:&#34;United States&#34; year &gt;= 1852 year &lt;= 1857" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(39.844175286643,-74.2119885988335))&lt;3883" ; Times: 1
+	Query: "USNM 276352" ; Times: 3
+	Query: "genus:dasypus catalognumber:296615 institutioncode:USNM" ; Times: 1
+	Query: "marmosops bishopi" ; Times: 1
+	Query: "genus:neotoma county:&#34;grant&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "genus:Marmosops stateprovince:&#34;Para&#34; institutioncode:USNM" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "distance(location,geopoint(39.0779691205001,-79.388352509))&lt;12951" ; Times: 1
+	Query: "The Gambia" ; Times: 1
+	Query: "distance(location,geopoint(41.433974414,-71.480081389))&lt;5770" ; Times: 1
+	Query: "USNM 241411" ; Times: 2
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "distance(location,geopoint(40.011223703,-74.0983581835))&lt;6222" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:arizonae genus:sigmodon stateprovince:&#34;durango&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;sonora&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "120038" ; Times: 1
+	Query: "distance(location,geopoint(38.8357648825,-75.237582219125))&lt;1791" ; Times: 1
+	Query: "USNM 564604" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "genus:otocyon country:&#34;kenya&#34;" ; Times: 1
+	Query: "USNM 303015" ; Times: 2
+	Query: "USNM 265004" ; Times: 1
+	Query: "genus:ictonyx country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:hamatus genus:Taeromys" ; Times: 1
+	Query: "distance(location,geopoint(41.615272972,-70.515893404))&lt;7939" ; Times: 1
+	Query: "Pseudorca crassidens vntype:specimen" ; Times: 2
+	Query: "specificepithet:punctatus genus:heliosciurus institutioncode:USNM" ; Times: 1
+	Query: "USNM 268894" ; Times: 3
+	Query: "Zapus 2296" ; Times: 1
+	Query: "Zapus 2297" ; Times: 1
+	Query: "Zapus 2294" ; Times: 1
+	Query: "Zapus 2747" ; Times: 1
+	Query: "lasiurus seminolus vntype:specimen stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "Zapus 2298" ; Times: 1
+	Query: "specificepithet:alleni county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Micoureus country:&#34;Honduras&#34;" ; Times: 1
+	Query: "catalognumber:511267 institutioncode:USNM" ; Times: 1
+	Query: "genus:Mallomys" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "foley springs" ; Times: 1
+	Query: "USNM 268828" ; Times: 2
+	Query: "NMNH 545229" ; Times: 1
+	Query: "USNM 268824" ; Times: 2
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 2
+	Query: "Zapus 2680" ; Times: 1
+	Query: "Zapus 2682" ; Times: 1
+	Query: "Zapus 2684" ; Times: 1
+	Query: "Zapus 2687" ; Times: 1
+	Query: "USNM 146568" ; Times: 1
+	Query: "locality:Imperial Beach county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Robbin" ; Times: 1
+	Query: "racoon" ; Times: 3
+	Query: "macroscelides" ; Times: 3
+	Query: "family:mustelidae stateprovince:&#34;newfoundland&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; country:&#34;United States&#34; recordedby:Trowbridge" ; Times: 1
+	Query: "specificepithet:volans genus:Myotis county:&#34;Riverside&#34;" ; Times: 2
+	Query: "specificepithet:mutabilis genus:heliosciurus institutioncode:USNM" ; Times: 2
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:6495 institutioncode:USNM" ; Times: 3
+	Query: "distance(location,geopoint(41.002957843,-72.3715418954999))&lt;1887" ; Times: 1
+	Query: "distance(location,geopoint(38.8576658435,-75.267845751875))&lt;1790" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus (arizona)" ; Times: 2
+	Query: "44483" ; Times: 1
+	Query: "genus:dasypus catalognumber:575615 institutioncode:USNM" ; Times: 1
+	Query: "distance(location,geopoint(41.214000211,-71.575244804))&lt;2290" ; Times: 1
+	Query: "genus:dasypus catalognumber:575611 institutioncode:USNM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "yak" ; Times: 1
+	Query: "microtus pennsylvanicus terraenovae" ; Times: 1
+	Query: "Oldright" ; Times: 5
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "USNM 334581" ; Times: 1
+	Query: "Vulpes velox stateprovince:&#34;Nebraska&#34;" ; Times: 3
+	Query: "mammals of aguascalientes" ; Times: 2
+	Query: "genus:atelerix country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "genus:dasypus catalognumber:575623 institutioncode:USNM" ; Times: 1
+	Query: "genus:suncus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Myotis septentrionalis (Wisconsin)" ; Times: 3
+	Query: "USNM 397619" ; Times: 2
+	Query: "Zapus 2295" ; Times: 1
+	Query: "order:Chiroptera locality:Batopilas stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "usnm 562509" ; Times: 1
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "specificepithet:albiventris genus:didelphis institutioncode:USNM" ; Times: 1
+	Query: "NMNH 271588" ; Times: 2
+	Query: "Spalax leucodon" ; Times: 1
+	Query: "usnm 531318" ; Times: 2
+	Query: "distance(location,geopoint(36.6915912240001,-75.9568339719999))&lt;10755" ; Times: 1
+	Query: "USNM 518221" ; Times: 1
+	Query: "USNM 518222" ; Times: 2
+	Query: "specificepithet:physalus genus:Balaenoptera (field)" ; Times: 1
+	Query: "distance(location,geopoint(40.8938696825001,-73.544534259))&lt;6019" ; Times: 1
+	Query: "USNM 223934" ; Times: 2
+	Query: "USNM 524703" ; Times: 2
+	Query: "specificepithet:ochrognathus genus:sigmodon country:&#34;mexico&#34;" ; Times: 2
+	Query: "distance(location,geopoint(38.8795668045,-75.2685175497328))&lt;1748" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "blarina shermani" ; Times: 1
+	Query: "catalognumber:511260 institutioncode:USNM" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "Farallon Mammals" ; Times: 5
+	Query: "genus:Eptesicus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "USNM 346140" ; Times: 1
+	Query: "grand manan specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "Lutra sumatrana" ; Times: 1
+	Query: "specificepithet:borealis genus:Balaenoptera" ; Times: 1
+	Query: "Chiropotes satanas" ; Times: 1
+	Query: "copelandi specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "steelhead" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 674 download events in this period)
+Total number of records downloaded: 19558
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 67
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 8
+	Date: 2017-12-15 ; Times: 5
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-11 ; Times: 7
+	Date: 2017-12-18 ; Times: 4
+	Date: 2017-12-19 ; Times: 18
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-27 ; Times: 6
+	Date: 2017-12-26 ; Times: 10
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 7
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-02 ; Times: 3
+	Date: 2017-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lepus callotis" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "gull island genus:microtus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes county:&#34;kern&#34;" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus county:&#34;Palm&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34; year &lt;= 1930" ; Times: 1
+	Query: "1990 Idaho" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "specificepithet:medius genus:Bassaricyon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "musonycteris harrisoni" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tatera indica" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: "sylvilagus cunicularius" ; Times: 1
+	Query: "Oryzomys couesi aquaticus" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "Virginia Rail" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "islesboro specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "sorex ugyunak" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Canis latrans stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Vulpes velox stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "nesophilus genus:microtus" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "sorex nanus" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "Oecomys roberti" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "chipmunk" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "north haven specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "scolomys melanops" ; Times: 1
+	Query: "marmosops bishopi" ; Times: 2
+
+
+End of report.
