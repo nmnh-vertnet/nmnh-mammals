@@ -1,0 +1,225 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 241
+Number of records retrieved in searches: 4540
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United Kingdom ; Times: 8
+	Country: Russia ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 17
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 169
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Ukraine ; Times: 4
+	Country: Canada ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 75
+	Date: 2017-11-29 ; Times: 31
+	Date: 2017-11-26 ; Times: 22
+	Date: 2017-11-27 ; Times: 46
+	Date: 2017-11-24 ; Times: 11
+	Date: 2017-11-25 ; Times: 21
+	Date: 2017-11-30 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "mesoplodon hotaula" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry) year &gt;= 1850 year &lt;= 1860 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:leucotis genus:sigmodon country:&#34;mexico&#34;" ; Times: 2
+	Query: "108105" ; Times: 3
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "peromyscus ambiguus" ; Times: 2
+	Query: "vntype:specimen class:Mammalia catalognumber:12642" ; Times: 1
+	Query: "USNM 3015" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "Cynomys gunnisoni skeleton vntype:specimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "USNM 436804" ; Times: 3
+	Query: "63090" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;California&#34; institutioncode:USNM" ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:nigrofusca genus:crocidura country:&#34;kenya&#34;" ; Times: 2
+	Query: "ziphius" ; Times: 3
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 4
+	Query: "specificepithet:voi genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Orcaella" ; Times: 1
+	Query: "genus:Myotis county:&#34;Beaverhead&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "suricata" ; Times: 1
+	Query: "genus:crocidura country:&#34;kenya&#34;" ; Times: 3
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 6
+	Query: "skeleton Phocoena sinus" ; Times: 2
+	Query: "family:gliridae country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:parvipes genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:74093 institutioncode:USNM" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "specificepithet:fumosa genus:crocidura country:&#34;kenya&#34;" ; Times: 3
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 1
+	Query: "specificepithet:gracilipes genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry OR Williamson) institutioncode:USNM" ; Times: 2
+	Query: "Myrmecophagidae skeleton tridactyla" ; Times: 1
+	Query: "galerella pulverulenta" ; Times: 1
+	Query: "specificepithet:selina genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Ziphius country:&#34;Argentina&#34;" ; Times: 2
+	Query: "Laramie 1859" ; Times: 1
+	Query: "M130" ; Times: 1
+	Query: "recordnumber:32040" ; Times: 1
+	Query: "vntype:specimen specificepithet:indica genus:Acrocodia" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "genus:otonycteris" ; Times: 1
+	Query: "specificepithet:montis genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "sturnira luisi" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Cynomys gunnisoni skeleton" ; Times: 1
+	Query: "specificepithet:littoralis genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "nigripes year &gt;= 1900 year &lt;= 2017 institutioncode:USNM" ; Times: 1
+	Query: "peromyscus polius" ; Times: 1
+	Query: "saguinus leucopus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops country:&#34;mexico&#34;" ; Times: 1
+	Query: "orcaella brevirostris" ; Times: 2
+	Query: "catalognumber:188467 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34; institutioncode:USNM" ; Times: 1
+	Query: "order:cetacea country:&#34;kenya&#34;" ; Times: 1
+	Query: "whales" ; Times: 1
+	Query: "Bassaricyon gabbii" ; Times: 5
+	Query: "specificepithet:ichneumon genus:herpestes country:&#34;kenya&#34;" ; Times: 1
+	Query: "Celular net" ; Times: 4
+	Query: "genus:Neacomys country:&#34;Colombia&#34;" ; Times: 2
+	Query: "diclidurus" ; Times: 4
+	Query: "35377" ; Times: 1
+	Query: "Lipotes" ; Times: 2
+	Query: "peromyscus beatae" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "specificepithet:jacksoni genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:camelopardalis genus:Giraffa mappable:1" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:viaria genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "(nigripes) institutioncode:USNM" ; Times: 3
+	Query: "mesoplodon mirus" ; Times: 1
+	Query: "USNM 436789" ; Times: 3
+	Query: "specificepithet:sp. genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Tayassuidae Pecari tajacu skeleton" ; Times: 3
+	Query: "hippocamelus antisensis" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:Newberry year &gt;= 1850 year &lt;= 1860 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:hildegardeae genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes stateprovince:&#34;Minnesota&#34; year &lt;= 1930" ; Times: 1
+	Query: "stenella clymene" ; Times: 2
+	Query: "akodon budini" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; (Hubbard) institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:luna genus:crocidura country:&#34;kenya&#34;" ; Times: 2
+	Query: "canis latrans massachusetts" ; Times: 1
+	Query: "beatragus" ; Times: 3
+	Query: "genus:suncus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:turba genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34;" ; Times: 1
+	Query: "peromyscus madrensis" ; Times: 1
+	Query: "reithrodontomys microdon" ; Times: 3
+	Query: "catalognumber:186452 institutioncode:USNM" ; Times: 1
+	Query: "USNM 432331" ; Times: 1
+	Query: "Galerella" ; Times: 2
+	Query: "USNM 432332" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes stateprovince:&#34;Missouri&#34; year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:(minnesota OR new mexico)" ; Times: 6
+	Query: "humpback whales" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "beatragus hunteri" ; Times: 1
+	Query: "Senkaku" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "catalognumber:599201 institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:allex genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 4
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "specificepithet:olivieri genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "Skin-246489" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "vntype:specimen genus:Orcaella" ; Times: 6
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "hylomyscus parvus" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 9
+	Query: "142160" ; Times: 1
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "Chiropodomys" ; Times: 1
+	Query: "peromyscus sacarensis" ; Times: 1
+	Query: "&#34;peromyscus beatae&#34;" ; Times: 1
+	Query: "04161" ; Times: 1
+	Query: "catalognumber:188468 institutioncode:USNM" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "specificepithet:elgonius genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:89211 institutioncode:USNM" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "USNM 431428" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry OR Williamson) year &gt;= 1850 year &lt;= 1860 institutioncode:USNM" ; Times: 1
+	Query: "Panthera tigris skin" ; Times: 1
+	Query: "Equidae skeleton equus" ; Times: 1
+	Query: "specificepithet:hirta genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucas genus:delphinapterus (beaufort)" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 9
+	Query: "wolves" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1101 download events in this period)
+Total number of records downloaded: 9983
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 24
+	Country: Costa Rica ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 6
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 16
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus hylocetes" ; Times: 3
+	Query: "Sylvilagus obscurus" ; Times: 2
+	Query: "humpback whales" ; Times: 1
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Newberry OR Newbury OR Newburry OR Williamson) institutioncode:USNM" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 1
+	Query: "peromyscus aztecus year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+	Query: "peromyscus ambiguus" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "vntype:specimen specificepithet:indica genus:Acrocodia" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "genus:otonycteris" ; Times: 1
+	Query: "peromyscus sacarensis" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "nigripes year &gt;= 1900 year &lt;= 2017 institutioncode:USNM" ; Times: 2
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "peromyscus evides" ; Times: 1
+	Query: "peromyscus madrensis" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Celular net" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+
+End of report.
