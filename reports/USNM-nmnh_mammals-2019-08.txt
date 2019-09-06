@@ -1,0 +1,1223 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1543
+Number of records retrieved in searches: 47048
+Number of different countries where searches have been originated: 29
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 137
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 12
+	Country: France ; Times: 1
+	Country: Peru ; Times: 16
+	Country: Argentina ; Times: 36
+	Country: Norway ; Times: 13
+	Country: Ecuador ; Times: 10
+	Country: Benin ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Guatemala ; Times: 4
+	Country: Germany ; Times: 12
+	Country: Thailand ; Times: 7
+	Country: Dominican Republic ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 958
+	Country: Sweden ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 115
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 163
+	Country: Austria ; Times: 1
+	Country: Sri Lanka ; Times: 32
+	Country: South Korea ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 63
+	Date: 2019-08-28 ; Times: 33
+	Date: 2019-08-29 ; Times: 45
+	Date: 2019-08-01 ; Times: 44
+	Date: 2019-08-02 ; Times: 52
+	Date: 2019-08-03 ; Times: 23
+	Date: 2019-08-04 ; Times: 30
+	Date: 2019-08-05 ; Times: 196
+	Date: 2019-08-06 ; Times: 59
+	Date: 2019-08-07 ; Times: 35
+	Date: 2019-08-08 ; Times: 25
+	Date: 2019-08-09 ; Times: 53
+	Date: 2019-08-24 ; Times: 73
+	Date: 2019-08-25 ; Times: 36
+	Date: 2019-08-22 ; Times: 42
+	Date: 2019-08-23 ; Times: 27
+	Date: 2019-08-20 ; Times: 61
+	Date: 2019-08-21 ; Times: 24
+	Date: 2019-08-17 ; Times: 69
+	Date: 2019-08-16 ; Times: 20
+	Date: 2019-08-15 ; Times: 66
+	Date: 2019-08-14 ; Times: 53
+	Date: 2019-08-13 ; Times: 72
+	Date: 2019-08-12 ; Times: 78
+	Date: 2019-08-11 ; Times: 26
+	Date: 2019-08-10 ; Times: 14
+	Date: 2019-08-31 ; Times: 23
+	Date: 2019-08-30 ; Times: 35
+	Date: 2019-08-19 ; Times: 56
+	Date: 2019-08-18 ; Times: 17
+	Date: 2019-08-26 ; Times: 93
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:stenops genus:Phylloderma AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Dasyprocta punctata mappable:1" ; Times: 2
+	Query: "specificepithet:boylii genus:peromyscus class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Pudu puda" ; Times: 1
+	Query: "specificepithet:subflavus county:&#34;union&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Myotis horsfieldii" ; Times: 1
+	Query: "xerospermophilus mohavensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:centralis genus:Centronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "catalognumber:227475 institutioncode:USNM" ; Times: 1
+	Query: "159969" ; Times: 1
+	Query: "vntype:specimen specificepithet:schmidtorum genus:Micronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "glaucomys volans vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus county:&#34;Tillamook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "mesoplodon carlhubbsi" ; Times: 2
+	Query: "order:Primates stateprovince:&#34;Espirito Santo&#34;" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 5
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "scolomys" ; Times: 3
+	Query: "A-88643" ; Times: 1
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 2
+	Query: "stenella longirostris country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:bryanti genus:neotoma order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon locality:New York" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Myrmecophaga tridactyla mappable:1" ; Times: 2
+	Query: "Leopardus tigrinus mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 3
+	Query: "akodon molinae" ; Times: 1
+	Query: "genus:orcinus order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:physeter institutioncode:USNM" ; Times: 1
+	Query: "Myosotis" ; Times: 1
+	Query: "genus:balaenoptera order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Centronycteris centralis" ; Times: 2
+	Query: "Felis pardalis" ; Times: 5
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "Myotis levis" ; Times: 3
+	Query: "Molossus barnesi" ; Times: 1
+	Query: "vntype:specimen specificepithet:myotis genus:myotis preparations:skull" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon locality:Chico" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "order:pilosa preparations:skeleton" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "family:delphinidae order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 2
+	Query: "Caluromys lanatus mappable:1" ; Times: 2
+	Query: "Marmosops noctivagus mappable:1" ; Times: 2
+	Query: "genus:kogia order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Uganda 1921" ; Times: 1
+	Query: "Uganda 1920" ; Times: 3
+	Query: "Thryonomys swinderianus" ; Times: 2
+	Query: "Neotoma macrotis" ; Times: 5
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:parvula genus:Rhogeessa year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "260593" ; Times: 1
+	Query: "Marmosops ocellatus mappable:1" ; Times: 2
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Kogia sima " ; Times: 1
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "Proechimys roberti" ; Times: 1
+	Query: "Tapirus terrestris mappable:1" ; Times: 2
+	Query: "Ovibos" ; Times: 1
+	Query: "genus:notiosorex class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "recordedby:Aiken year &gt;= 1873 year &lt;= 1874 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:xerospermophilus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Proechimys cuvieri" ; Times: 1
+	Query: "Capromys pilorides" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "Lissodelphis borealis country:&#34;United States&#34;" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "catalognumber:75762 institutioncode:USNM" ; Times: 2
+	Query: "129974" ; Times: 2
+	Query: "crater lake Philippines" ; Times: 1
+	Query: "222823" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "specificepithet:sp. genus:odontocete order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Aotus azarae mappable:1" ; Times: 2
+	Query: "&#34;cave&#34; stateprovince:&#34;indiana&#34; (&#34;jefferson&#34; OR &#34;jennings&#34; OR &#34;ripley&#34;)" ; Times: 1
+	Query: "specificepithet:emarginatus genus:Myotis" ; Times: 1
+	Query: "USNM 403589" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga catalognumber:579010" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga catalognumber:599194" ; Times: 1
+	Query: "rattus 69463" ; Times: 1
+	Query: "genus:chaetodipus county:&#34;orange&#34; stateprovince:&#34;california&#34; year &gt;= 1990" ; Times: 1
+	Query: "Bos taurus L." ; Times: 1
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "specificepithet:canadensis stateprovince:&#34;alaska&#34; recordedby:anderson" ; Times: 1
+	Query: "st. Catherines C. W." ; Times: 1
+	Query: "specificepithet:vison genus:neovison stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 4
+	Query: "catalognumber:13897 institutioncode:USNM" ; Times: 1
+	Query: "usnm 321931" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 8
+	Query: "genus:lissodelphis order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Sorex county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 2
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "Saimiri oerstedii" ; Times: 1
+	Query: "order:cingulata preparations:skeleton" ; Times: 6
+	Query: "genus:delphinus order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "liomys bulleri" ; Times: 5
+	Query: "349921" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus anderseni " ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "genus:mustela order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 3
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Didelphis albiventris mappable:1" ; Times: 2
+	Query: "Kogia sima" ; Times: 3
+	Query: "specificepithet:californicus genus:peromyscus class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus family:Heteromyidae order:Rodentia class:Mammalia stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34; continent:America" ; Times: 2
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyotis genus:Lampronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Micoureus demerarae mappable:1" ; Times: 2
+	Query: "specificepithet:bullaris genus:tylomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "order:pilosa preparations:skeleton institutioncode:USNM" ; Times: 1
+	Query: "genus:Cebus haslength:1" ; Times: 1
+	Query: "Myotis montivagus" ; Times: 1
+	Query: "genus:lagenorhynchus order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Oecomys bicolor mappable:1" ; Times: 2
+	Query: "tamias striatus vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "Syntheosciurus brochus" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 2
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Bradypus variegatus mappable:1" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Akodon budini" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "rattus 69462" ; Times: 1
+	Query: "zapial" ; Times: 1
+	Query: "rattus 69464" ; Times: 1
+	Query: "genus:Callosciurus specificepithet:caniceps" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 5
+	Query: "catalognumber:508 institutioncode:USNM" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Mormopterus planiceps" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "Mesocapromys nanus" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus innoxius " ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 2
+	Query: "Cavia aperea mappable:1" ; Times: 2
+	Query: "Clyomys laticeps" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:347629 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "268684" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:. genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "82270" ; Times: 1
+	Query: "Stenella clymene" ; Times: 2
+	Query: "Kunsia tomentosus mappable:1" ; Times: 2
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla robusta " ; Times: 2
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "prionodon linsang" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "Berardius bairdii country:&#34;United States&#34;" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "ectophylla alba" ; Times: 1
+	Query: "genus:urocyon order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes stateprovince:(colorado OR kansas) year&gt;=1900" ; Times: 2
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 2
+	Query: "genus:mesoplodon order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "cormura" ; Times: 2
+	Query: "Dasypus kappleri" ; Times: 1
+	Query: "country:Ecuador scientificname:Akodon aerosus " ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "156810" ; Times: 2
+	Query: "Proechimys simonsi" ; Times: 1
+	Query: "locality:chatham island country:&#34;new zealand&#34;" ; Times: 3
+	Query: "MSNG" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 5
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "genus:eschrichtius order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 37
+	Query: "69631" ; Times: 1
+	Query: "specificepithet:lagopus institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:browni class:mammalia (browni)" ; Times: 3
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "acutorostrata" ; Times: 2
+	Query: "Proechimys poliopus" ; Times: 1
+	Query: "catalognumber:75651 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:soricina genus:Glossophaga catalognumber:599227" ; Times: 1
+	Query: "genus:lagenorhynchus order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "Proechimys longicaudatus mappable:1" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "Cynomys parvidens" ; Times: 4
+	Query: "Isothrix bistriata" ; Times: 1
+	Query: "choeroniscus godmani" ; Times: 2
+	Query: "notiosorex evotis" ; Times: 2
+	Query: "249832" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "hylonycteris underwoodi" ; Times: 2
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:globicephala order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:6573 institutioncode:USNM" ; Times: 3
+	Query: "vntype:specimen specificepithet:gracilis genus:Rhogeessa year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "Saimiri boliviensis" ; Times: 1
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "Euryzygomatomys spinosus" ; Times: 1
+	Query: "lontra felina" ; Times: 1
+	Query: "vntype:specimen specificepithet:morenoi genus:Glossophaga year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 3
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 2
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "343883" ; Times: 2
+	Query: "Oecomys concolor mappable:1" ; Times: 2
+	Query: "Mazama americana" ; Times: 1
+	Query: "USNM 565001" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles belzebuth " ; Times: 1
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "recordnumber:43177" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:vittata genus:Galictis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Ozotoceros bezoarticus" ; Times: 1
+	Query: "71277" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "genus:enhydra order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Dasypus sabanicola" ; Times: 1
+	Query: "USNM 19879" ; Times: 1
+	Query: "nasuella" ; Times: 1
+	Query: "country:Ecuador scientificname:Vicugna vicugna " ; Times: 1
+	Query: "Proechimys quadruplicatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 13
+	Query: "265679" ; Times: 1
+	Query: "specificepithet:. genus:otospermophilus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Callithrix geoffroyi" ; Times: 1
+	Query: "Axis porcinus" ; Times: 1
+	Query: "eozapus fluid" ; Times: 2
+	Query: "Euneomys chinchilloides" ; Times: 2
+	Query: "142736" ; Times: 1
+	Query: "Plagiodontia aedium" ; Times: 1
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Vermont&#34;" ; Times: 2
+	Query: "catalognumber:366039 institutioncode:USNM" ; Times: 2
+	Query: "223331" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "Ia io" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "vntype:specimen specificepithet:findleyi genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:melanotis genus:Peromyscus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Myotis capaccinii" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris hirsuta " ; Times: 2
+	Query: "odontoceti" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira bidens " ; Times: 3
+	Query: "USNM 19485" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "genus:physeter order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "stenella coeruleoalba country:&#34;United States&#34;" ; Times: 5
+	Query: "scolomys institutioncode:USNM" ; Times: 3
+	Query: "country:Ecuador scientificname:Hylaeamys yunganus " ; Times: 1
+	Query: "Myotis petax" ; Times: 1
+	Query: "vntype:specimen specificepithet:hirsutus genus:Artibeus year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Peromyscus truei lagunae" ; Times: 2
+	Query: "Myotis siligorensis" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 2
+	Query: "Mysateles prehensilis" ; Times: 1
+	Query: "Parris" ; Times: 1
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 4
+	Query: "country:Ecuador scientificname:Artibeus concolor " ; Times: 2
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 2
+	Query: "genus:peromyscus class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:reithrodontomys class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 18
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 3
+	Query: "country:Ecuador scientificname:Myotis diminutus " ; Times: 1
+	Query: "glyphonycteris sylvestris" ; Times: 2
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Proechimys goeldii" ; Times: 1
+	Query: "genus:delphinus order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 4
+	Query: "order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:melanophrys genus:Peromyscus stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Ammospermophilus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "bassaricyon" ; Times: 1
+	Query: "genus:Cardiocranius" ; Times: 1
+	Query: "wollastoni" ; Times: 2
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 2
+	Query: "lophostoma brasiliense" ; Times: 1
+	Query: "Proechimys brevicauda" ; Times: 1
+	Query: "catalognumber:17090 institutioncode:USNM" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 2
+	Query: "nelsonia goldmani" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 16
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 4
+	Query: "genus:otospermophilus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "locality:chatham Islands country:&#34;new zealand&#34;" ; Times: 2
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Mesomys stimulax" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "locality:Unlucky stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Callosciurus specificepithet:sp" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 8
+	Query: "USNM 570475" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 1
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "Geocapromys thoracatus" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 4
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 4
+	Query: "Mesoplodon stejnegeri country:&#34;United States&#34;" ; Times: 2
+	Query: "order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Neotoma fuscipes" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "sorex saussurei" ; Times: 2
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 1
+	Query: "family:mephitidae order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "odocoileus peruvianus (ecuador)" ; Times: 1
+	Query: "265538" ; Times: 1
+	Query: "Ratufa affinis" ; Times: 21
+	Query: "genus:phocoena order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:onca genus:panthera stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Euphractus sexcinctus mappable:1" ; Times: 2
+	Query: "specificepithet:capaccinii genus:myotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 1
+	Query: "glyphonycteris" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Vampyrum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 2
+	Query: "Myotis brandtii" ; Times: 1
+	Query: "vntype:specimen specificepithet:Macrophyllum genus:Macrophyllum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:peninsularis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Harpia" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus incarum " ; Times: 1
+	Query: "catalognumber:61223 institutioncode:USNM" ; Times: 2
+	Query: "260598" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodontomys alfari " ; Times: 2
+	Query: "specificepithet:rudinoris genus:Chaetodipus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;wisconsin&#34; year &gt;= 1950 year &lt;= 1980" ; Times: 1
+	Query: "catalognumber:139806 institutioncode:USNM" ; Times: 1
+	Query: "Galictis vittata mappable:1" ; Times: 2
+	Query: "specificepithet:formosus genus:chaetodipus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 1
+	Query: "country:Ecuador scientificname:Aegialomys xanthaeolus " ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "Feresa attenuata" ; Times: 1
+	Query: "genus:delphinus order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 3
+	Query: "Ovis nivicola" ; Times: 1
+	Query: "Eptesicus innoxius" ; Times: 3
+	Query: "order:lagomorpha class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:phocoena order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "Geocapromys brownii" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Myotis elegans" ; Times: 1
+	Query: "killer whale" ; Times: 2
+	Query: "USNM 386702" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "genus:nyctomys country:&#34;mexico&#34;" ; Times: 1
+	Query: "order:cingulata preparations:skeleton institutioncode:USNM" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Arctocephalus galapagoensis" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Calomys venustus" ; Times: 1
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "specificepithet:heermanni genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Microsciurus alfari" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 2
+	Query: "specificepithet:fumeus genus:Sorex stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 2
+	Query: "genus:Microtus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:cetacean order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Tamandua mexicana Veracruz" ; Times: 3
+	Query: "Hydropotes inermis" ; Times: 5
+	Query: "Thomomys 1448" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 2
+	Query: "Blastocerus dichotomus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brasiliense genus:Lophostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:447244 institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Corynorhinus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Mazama gouazoubira mappable:1" ; Times: 2
+	Query: "Cebus apella mappable:1" ; Times: 2
+	Query: "specificepithet:simus genus:Myotis" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 4
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 2
+	Query: "Didelphis imperfecta" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Cebus olivaceus" ; Times: 1
+	Query: "167624" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 7
+	Query: "Saguinus leucopus" ; Times: 2
+	Query: "vntype:specimen specificepithet:stenops genus:Phylloderma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "catalognumber:238067 institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "USNM 337596" ; Times: 1
+	Query: "vntype:specimen specificepithet:auritus genus:Chrotopterus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Philander frenatus" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:melanotis genus:Peromyscus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Vulpes county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:morenoi genus:Glossophaga AND (NOT mexicana) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:leptura genus:Saccopteryx year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 1
+	Query: "geomys bursarius wisconsin" ; Times: 1
+	Query: "Proechimys hoplomyoides" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "genus:Lasiurus family:Vespertilionidae country:&#34;Cuba&#34;" ; Times: 1
+	Query: "260617" ; Times: 1
+	Query: "142853" ; Times: 2
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "genus:eschrichtius order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "291666" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Thyroptera year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa simonsi " ; Times: 1
+	Query: "specificepithet:. genus:neotoma order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Phylloderma stenops " ; Times: 2
+	Query: "Cerradomys subflavus mappable:1" ; Times: 2
+	Query: "genus:orcinus order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Myotis muricola" ; Times: 1
+	Query: "Nectomys squamipes mappable:1" ; Times: 2
+	Query: "specificepithet:panamintinus genus:dipodomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 3
+	Query: "2315 mam" ; Times: 1
+	Query: "Hapalemur griseus" ; Times: 1
+	Query: "country:Ecuador scientificname:Choeroniscus minor " ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:delphinus order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "vntype:specimen specificepithet:youngi genus:Diaemus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Cerdocyon thous mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:mexicanus genus:Cynomops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "akodon orophilus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "tonatia saurophila" ; Times: 1
+	Query: "family:Canidae (224999)" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "Rucervus duvaucelii" ; Times: 1
+	Query: "genus:Notiosorex county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Perognathus alticola" ; Times: 2
+	Query: "USNM 386704" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 3
+	Query: "USNM 386703" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "USNM 386701" ; Times: 1
+	Query: "catalognumber:507 institutioncode:USNM" ; Times: 1
+	Query: "nyctinomops aurispinosus" ; Times: 7
+	Query: "Holochilus sciureus mappable:1" ; Times: 2
+	Query: "Sciurus spadiceus" ; Times: 1
+	Query: "rhinolophus tatar" ; Times: 3
+	Query: "catalognumber:63004 institutioncode:USNM" ; Times: 2
+	Query: "24771" ; Times: 3
+	Query: "country:Ecuador scientificname:Phyllotis andium " ; Times: 6
+	Query: "13418 loxodonta" ; Times: 2
+	Query: "(529676) institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 7
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Reithrodontomys chrysopsis" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Saguinus geoffroyi" ; Times: 1
+	Query: "catalognumber:347624 institutioncode:USNM" ; Times: 1
+	Query: "usnm 121526" ; Times: 1
+	Query: "genus:martes stateprovince:&#34;British Columbia&#34; (queen charlotte)" ; Times: 1
+	Query: "Sturnira magna" ; Times: 1
+	Query: "usnm 484928" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 1
+	Query: "Myotis atacamensis" ; Times: 1
+	Query: "Makalata didelphoides" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Myotis davidii" ; Times: 1
+	Query: "Tadarida teniotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Diclidurus albus " ; Times: 1
+	Query: "USNM 159965" ; Times: 2
+	Query: "227423" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 1
+	Query: "catalognumber:75721 institutioncode:USNM" ; Times: 2
+	Query: "Myotis keenii" ; Times: 1
+	Query: "genus:ziphius order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "sorex milleri" ; Times: 2
+	Query: "family:Bathyergidae institutioncode:USNM" ; Times: 1
+	Query: "USNM 159968" ; Times: 2
+	Query: "USNM 159969" ; Times: 2
+	Query: "USNM-140803" ; Times: 2
+	Query: "Proechimys steerei" ; Times: 1
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "NMNH 69631" ; Times: 2
+	Query: "lampronycteris brachyotis" ; Times: 2
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;Maine&#34;" ; Times: 2
+	Query: "catalognumber:499072 institutioncode:USNM" ; Times: 2
+	Query: "Phyllomys pattoni" ; Times: 1
+	Query: "country:Ecuador scientificname:Feresa attenuata " ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "Sciurus aestuans" ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 4
+	Query: "hodomys" ; Times: 1
+	Query: "anthurium" ; Times: 1
+	Query: "orthogeomys grandis guatemala" ; Times: 3
+	Query: "Philander mcilhennyi" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 5
+	Query: "sturnira hondurensis" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "Humboldtiana" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "locality:benitos institutioncode:USNM" ; Times: 1
+	Query: "genus:phocoenoides order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Centronycteris centralis vntype:specimen year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "67129" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander opossum " ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 1
+	Query: "zapus hudsonius luteus" ; Times: 1
+	Query: "specificepithet:agilis genus:dipodomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Sciurus igniventris" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "Mesoplodon europaeus" ; Times: 3
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 1
+	Query: "specificepithet:spilosoma genus:Xerospermophilus family:Sciuridae order:Rodentia stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "USNM 159966" ; Times: 3
+	Query: "specificepithet:venustus genus:Calomys country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "108252" ; Times: 1
+	Query: "Phylloderma stenops" ; Times: 2
+	Query: "genus:callospermophilus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Oreoryzomys balneator " ; Times: 3
+	Query: "genus:globicephala order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Caluromys philander mappable:1" ; Times: 2
+	Query: "Alouatta guariba" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Philander opossum mappable:1" ; Times: 2
+	Query: "Marmosops impavidus" ; Times: 1
+	Query: "Coendou prehensilis mappable:1" ; Times: 2
+	Query: "USNM 507504" ; Times: 1
+	Query: "rattus everetti 69593" ; Times: 2
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "Daubentonia" ; Times: 1
+	Query: "ratufa affinis" ; Times: 11
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 6
+	Query: "Chaerephon plicatus" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus county:&#34;Skamania&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:. genus:microtus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:ziphius order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "USNM 561452" ; Times: 2
+	Query: "USNM 561451" ; Times: 2
+	Query: "USNM 561450" ; Times: 1
+	Query: "Microsciurus flaviventer" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "usnm 571820" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "260626" ; Times: 1
+	Query: "Speothos venaticus mappable:1" ; Times: 2
+	Query: "260625" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus gnomus " ; Times: 4
+	Query: "Chironectes minimus mappable:1" ; Times: 2
+	Query: "Petaurista leucogenys" ; Times: 1
+	Query: "vntype:specimen specificepithet:gymnonotus genus:Pteronotus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Proechimys mincae" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 1
+	Query: "catalognumber:145805 institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:228268 institutioncode:USNM" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "genus:physeter locality:chatham islands" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(west virginia)" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "genus:thomomys class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Abrothrix markhami" ; Times: 1
+	Query: "Assa" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 14
+	Query: "order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "117046" ; Times: 1
+	Query: "Sauromys petrophilus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "trinycteris nicefori" ; Times: 3
+	Query: "eozapus" ; Times: 2
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:stenella order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "265685" ; Times: 1
+	Query: "country:Ecuador scientificname:Glyphonycteris daviesi " ; Times: 1
+	Query: "265680" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 4
+	Query: "specificepithet:mysticetus genus:Balaena preparations:tissue" ; Times: 2
+	Query: "specificepithet:. genus:onychomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Tapirella bairdii" ; Times: 1
+	Query: "specificepithet:fraterculus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 7
+	Query: "usnm 19485" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "Promops centralis" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 1
+	Query: "specificepithet:fallax genus:chaetodipus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "265672" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 3
+	Query: "genus:lissodelphis order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "115366" ; Times: 3
+	Query: "115365" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 7
+	Query: "Cebus xanthosternos" ; Times: 1
+	Query: "recordedby:Aiken institutioncode:USNM" ; Times: 3
+	Query: "specificepithet:americanus genus:Lepus county:&#34;Pacific&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys locality:Pleasanton county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus peruvianus " ; Times: 5
+	Query: "odocoileus virginianus (ecuador)" ; Times: 3
+	Query: "142824" ; Times: 3
+	Query: "specificepithet:typus genus:eligmodontia country:&#34;chile&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 2
+	Query: "29929" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 2
+	Query: "country:Ecuador scientificname:Lonchophylla chocoana " ; Times: 1
+	Query: "institutioncode:USNM hastissue:1" ; Times: 2
+	Query: "locality:Capim" ; Times: 1
+	Query: "Puma yagouaroundi mappable:1" ; Times: 2
+	Query: "Dactylomys boliviensis" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 1
+	Query: "Balaenoptera borealis country:&#34;United States&#34;" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 1
+	Query: "Lontra longicaudis mappable:1" ; Times: 2
+	Query: "106348" ; Times: 1
+	Query: "Artibeus hirsutus vntype:specimen year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "genus:grampus order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Myotis dominicensis" ; Times: 1
+	Query: "Chaetodipus lineatus" ; Times: 10
+	Query: "order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 3
+	Query: "country:Ecuador scientificname:Myotis oxyotus " ; Times: 1
+	Query: "galictis vittata" ; Times: 8
+	Query: "532382" ; Times: 2
+	Query: "129791" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla concava " ; Times: 1
+	Query: "vntype:specimen specificepithet:hartii genus:Enchisthenes year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Zapus hudsonius luteus" ; Times: 4
+	Query: "catalognumber:A6573 institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus chiriquinus " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus ravus " ; Times: 3
+	Query: "Oecomys concolor" ; Times: 1
+	Query: "Proechimys longicaudatus" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "243326" ; Times: 2
+	Query: "catalognumber:27497 institutioncode:USNM" ; Times: 1
+	Query: "Proechimys guairae" ; Times: 1
+	Query: "genus:Dasymys institutioncode:USNM" ; Times: 1
+	Query: "Steno bredanensis" ; Times: 2
+	Query: "142826" ; Times: 3
+	Query: "genus:lynx order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;wisconsin&#34; year &gt;= 1950 year &lt;= 1990" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 3
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 2
+	Query: "cavirostris" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "lophostoma evotis" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "260579" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 4
+	Query: "Galictis cuja" ; Times: 4
+	Query: "thylacinus cynocephalus" ; Times: 1
+	Query: "Oecomys roberti mappable:1" ; Times: 2
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Cerradomys scotti mappable:1" ; Times: 2
+	Query: "260664" ; Times: 1
+	Query: "Vigna" ; Times: 1
+	Query: "specificepithet:ingens genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 20
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lotor genus:procyon county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Mesocapromys melanurus" ; Times: 1
+	Query: "specificepithet:murinus genus:Graphiurus country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Pudu mephistophiles" ; Times: 1
+	Query: "genus:eschrichtius order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "580062 institutioncode:USNM" ; Times: 2
+	Query: "USNM A6573" ; Times: 2
+	Query: "318915" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:sciurus class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Myotis riparius" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "genus:kogia order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis pernigra " ; Times: 4
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 10
+	Query: "genus:Dasymys country:&#34;South Africa&#34;" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:evotis genus:notiosorex" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 1
+	Query: "Trinomys albispinus" ; Times: 1
+	Query: "Myotis martiniquensis" ; Times: 1
+	Query: "Proechimys gardneri" ; Times: 1
+	Query: "163374" ; Times: 1
+	Query: "scolomys (smithsonian)" ; Times: 1
+	Query: "Chilonatalus micropus" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "euderma maculatum" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Physeter macrocephalus country:&#34;United States&#34;" ; Times: 1
+	Query: "lynx pardinus" ; Times: 1
+	Query: "Balaenoptera edeni" ; Times: 2
+	Query: "genus:grampus order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:tursiops order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "(213555)" ; Times: 1
+	Query: "genus:taxidea stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "catalognumber:145540" ; Times: 1
+	Query: "Micoureus constantiae mappable:1" ; Times: 2
+	Query: "akodon affinis" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "30879" ; Times: 2
+	Query: "NMNH 480458" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:. genus:perognathus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Procyon cancrivorus mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 2
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Mammals" ; Times: 1
+	Query: "Tamandua mexicana Mexico" ; Times: 2
+	Query: "genus:tamias class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "RMNH" ; Times: 1
+	Query: "hacienda exito" ; Times: 2
+	Query: "Crocidura vntype:specimen year &gt;= 1800 year &lt;= 1900" ; Times: 2
+	Query: "Marmosa murina mappable:1" ; Times: 2
+	Query: "69462" ; Times: 1
+	Query: "NMNH 69595" ; Times: 1
+	Query: "Myotis ruber" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "USNM 222823" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 2
+	Query: "genus:sorex class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "perognathus beaumont california" ; Times: 1
+	Query: "100361" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa melissa " ; Times: 1
+	Query: "specificepithet:astutus yumanensis genus:bassariscus" ; Times: 3
+	Query: "260566" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "Mazama americana mappable:1" ; Times: 2
+	Query: "Zapus hudsonius preblei" ; Times: 4
+	Query: "genus:mesoplodon order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 2
+	Query: "Monodelphis brevicaudata mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:milleri genus:sorex hastypestatus:1" ; Times: 1
+	Query: "genus:zalophus order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "28575" ; Times: 4
+	Query: "28574" ; Times: 1
+	Query: "specificepithet:penicillatus genus:chaetodipus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "locality:Grosvenor Arch stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Mesomys hispidus" ; Times: 1
+	Query: "hyperacrius" ; Times: 5
+	Query: "kudu" ; Times: 1
+	Query: "Echimys chrysurus" ; Times: 1
+	Query: "Isothrix pagurus" ; Times: 1
+	Query: "Aconaemys fuscus" ; Times: 1
+	Query: "Tamandua mexicana NOT Brazil" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:lagenorhynchus order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Myzopoda" ; Times: 4
+	Query: "Bos frontalis" ; Times: 1
+	Query: "Hylaeamys megacephalus mappable:1" ; Times: 2
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 11
+	Query: "specificepithet:leucodon genus:Neotoma stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Priodontes maximus mappable:1" ; Times: 2
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "genus:Mus country:&#34;Ethiopia&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "genus:eumetopias order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 2
+	Query: "genus:Microtus catalognumber:347624 institutioncode:USNM" ; Times: 1
+	Query: "genus:lagenorhynchus order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "kogia breviceps" ; Times: 3
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys teleus " ; Times: 8
+	Query: "Saguinus midas" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Eumops AND (nanus) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "genus:phocoena order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:simus genus:myotis" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "bassaricyon alleni" ; Times: 2
+	Query: "USNM 561446" ; Times: 1
+	Query: "USNM 561447" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus nigellus " ; Times: 1
+	Query: "genus:mephitis order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:138343 institutioncode:USNM" ; Times: 1
+	Query: "265566" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 11
+	Query: "diaemus youngi" ; Times: 2
+	Query: "USNM 561448" ; Times: 1
+	Query: "USNM 561449" ; Times: 2
+	Query: "Black tail deer" ; Times: 2
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "genus:balaenoptera order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus mimulus " ; Times: 6
+	Query: "lichonycteris obscura" ; Times: 3
+	Query: "genus:tursiops order:cetacea class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "genus:Microtus locality:Kodiak" ; Times: 1
+	Query: "genus:tursiops order:cetacea class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;wisconsin&#34; year &gt;= 1940 year &lt;= 1980" ; Times: 1
+	Query: "Sorex salvini" ; Times: 1
+	Query: "genus:chaetodipus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "usnm 314459" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:arenicola genus:Onychomys stateprovince:&#34;Aguascalientes&#34; country:&#34;México&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 218 (out of 1034 download events in this period)
+Total number of records downloaded: 56083
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 95
+	Country: Unknown ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 83
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: China ; Times: 2
+	Country: Cameroon ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-28 ; Times: 10
+	Date: 2019-08-29 ; Times: 13
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-03 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-24 ; Times: 6
+	Date: 2019-08-25 ; Times: 5
+	Date: 2019-08-22 ; Times: 20
+	Date: 2019-08-23 ; Times: 15
+	Date: 2019-08-20 ; Times: 22
+	Date: 2019-08-21 ; Times: 5
+	Date: 2019-08-17 ; Times: 2
+	Date: 2019-08-16 ; Times: 5
+	Date: 2019-08-15 ; Times: 12
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-12 ; Times: 5
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-19 ; Times: 46
+	Date: 2019-08-18 ; Times: 4
+	Date: 2019-08-26 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "mimon cozumelae" ; Times: 1
+	Query: "Santander" ; Times: 1
+	Query: "genus:Microtus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; institutioncode:USNM" ; Times: 1
+	Query: "miniopterus inflatus" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "delomys" ; Times: 3
+	Query: "vntype:specimen specificepithet:brasiliense genus:Lophostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Corynorhinus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Thyroptera AND (NOT albiventer) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:schmidtorum genus:Micronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "hylonycteris underwoodi" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "artibeus aztecus" ; Times: 1
+	Query: "odocoileus virginianus (ecuador)" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "order:Primates stateprovince:&#34;Espirito Santo&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:stenops genus:Phylloderma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "scolomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "Rhinolophus fumigatus" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen specificepithet:leptura genus:Saccopteryx year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "enchisthenes hartii" ; Times: 1
+	Query: "artibeus toltecus" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "vntype:specimen specificepithet:hartii genus:Enchisthenes year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "locality:Palawan country:&#34;Philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:yerbabuenae genus:Leptonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:nivalis genus:Leptonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Centronycteris centralis" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "stateprovince:&#34;Baja California&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "nasuella" ; Times: 1
+	Query: "genus:Dasymys institutioncode:USNM" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:myotis genus:myotis preparations:skull" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 1
+	Query: "lophostoma evotis" ; Times: 1
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "stateprovince:&#34;imbabura&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:youngi genus:Diaemus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "phyllotis andium" ; Times: 2
+	Query: "artibeus phaeotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Cynomops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Uganda 1921" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "odocoileus peruvianus (ecuador)" ; Times: 1
+	Query: "vntype:specimen specificepithet:parvula genus:Rhogeessa year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventris genus:Noctilio AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "tonatia saurophila" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Ovibos" ; Times: 1
+	Query: "recordedby:Aiken year &gt;= 1873 year &lt;= 1874 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "vntype:specimen specificepithet:findleyi genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "stateprovince:&#34;loja&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "diaemus youngi" ; Times: 1
+	Query: "artibeus watsoni" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Dasymys country:&#34;South Africa&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:hirsutus genus:Artibeus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;brazil&#34; (holt)" ; Times: 1
+	Query: "vntype:specimen specificepithet:aurita genus:Lonchorhina year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "carollia subrufa" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "vntype:specimen specificepithet:naso genus:Rhynchonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "lasiurus intermedius" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus county:&#34;Tillamook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "lampronycteris brachyotis" ; Times: 2
+	Query: "Balaenoptera edeni" ; Times: 2
+	Query: "vntype:specimen specificepithet:cirrhosus genus:Trachops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "glyphonycteris sylvestris" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Eumops AND (NOT beckeri) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:serotinus genus:Eptesicus preparations:skull" ; Times: 1
+	Query: "vntype:specimen specificepithet:centralis genus:Centronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "akodon affinis" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipistrellus genus:pipistrellus preparations:skull" ; Times: 1
+	Query: "specificepithet:blythii genus:Myotis" ; Times: 1
+	Query: "sturnira hondurensis" ; Times: 1
+	Query: "bassaricyon" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lophostoma brasiliense" ; Times: 1
+	Query: "liomys bulleri" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:albescens genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:gracilis genus:Rhogeessa year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyotis genus:Lampronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "order:Chiroptera country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "specificepithet:astutus yumanensis genus:bassariscus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:auritus genus:Chrotopterus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "dipodomys nelsoni" ; Times: 1
+	Query: "rhinolophus alcyone" ; Times: 1
+	Query: "Artibeus hirsutus vntype:specimen year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lasiurus xanthinus" ; Times: 1
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "chiroderma villosum" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "Daubentonia" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "centurio senex" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:Choeronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:capaccinii genus:myotis" ; Times: 1
+	Query: "family:Bathyergidae institutioncode:USNM" ; Times: 1
+	Query: "lonchorhina aurita" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Vampyrum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "vntype:specimen specificepithet:Macrophyllum genus:Macrophyllum year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:peninsularis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "stateprovince:&#34;cotopaxi&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:morenoi genus:Glossophaga AND (NOT mexicana) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:gymnonotus genus:Pteronotus year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "stateprovince:&#34;zamora chinchipe&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "vampyressa thyone" ; Times: 1
+	Query: "uroderma magnirostrum" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "Arequipa" ; Times: 2
+	Query: "lasiurus ega" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "genus:Microtus catalognumber:347624 institutioncode:USNM" ; Times: 1
+	Query: "zapus hudsonius luteus" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Calomys sorellus" ; Times: 1
+	Query: "specificepithet:simus genus:myotis" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "bassaricyon alleni" ; Times: 1
+	Query: "chiroderma salvini" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatum genus:Euderma year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Potos" ; Times: 1
+	Query: "euderma maculatum" ; Times: 2
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:kappleri genus:Peropteryx AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "lichonycteris obscura" ; Times: 1
+	Query: "Boyacá" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Mus country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "mesoplodon carlhubbsi" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "micronycteris microtis" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "stateprovince:&#34;esmeraldas&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "stateprovince:&#34;carchi&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
