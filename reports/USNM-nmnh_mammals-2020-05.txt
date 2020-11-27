@@ -1,0 +1,1420 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1864
+Number of records retrieved in searches: 21952
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 93
+	Country: Ireland ; Times: 16
+	Country: Unknown ; Times: 10
+	Country: Panama ; Times: 9
+	Country: Nepal ; Times: 5
+	Country: Peru ; Times: 29
+	Country: Argentina ; Times: 7
+	Country: Ecuador ; Times: 2
+	Country: Australia ; Times: 6
+	Country: Singapore ; Times: 2
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 1610
+	Country: Sweden ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 37
+	Country: Egypt ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Malaysia ; Times: 2
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 28
+	Date: 2020-05-24 ; Times: 38
+	Date: 2020-05-27 ; Times: 106
+	Date: 2020-05-26 ; Times: 52
+	Date: 2020-05-21 ; Times: 20
+	Date: 2020-05-20 ; Times: 16
+	Date: 2020-05-23 ; Times: 15
+	Date: 2020-05-22 ; Times: 43
+	Date: 2020-05-29 ; Times: 17
+	Date: 2020-05-28 ; Times: 45
+	Date: 2020-05-18 ; Times: 82
+	Date: 2020-05-19 ; Times: 22
+	Date: 2020-05-10 ; Times: 108
+	Date: 2020-05-11 ; Times: 74
+	Date: 2020-05-12 ; Times: 63
+	Date: 2020-05-13 ; Times: 110
+	Date: 2020-05-14 ; Times: 87
+	Date: 2020-05-15 ; Times: 132
+	Date: 2020-05-16 ; Times: 53
+	Date: 2020-05-17 ; Times: 140
+	Date: 2020-05-30 ; Times: 26
+	Date: 2020-05-31 ; Times: 16
+	Date: 2020-05-09 ; Times: 14
+	Date: 2020-05-08 ; Times: 43
+	Date: 2020-05-07 ; Times: 103
+	Date: 2020-05-06 ; Times: 125
+	Date: 2020-05-05 ; Times: 15
+	Date: 2020-05-04 ; Times: 79
+	Date: 2020-05-03 ; Times: 87
+	Date: 2020-05-02 ; Times: 70
+	Date: 2020-05-01 ; Times: 35
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "390653" ; Times: 1
+	Query: "390650" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "390654" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "483985" ; Times: 1
+	Query: "158008" ; Times: 1
+	Query: "372327" ; Times: 1
+	Query: "313574" ; Times: 2
+	Query: "554453" ; Times: 1
+	Query: "372326" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 3
+	Query: "482357" ; Times: 1
+	Query: "Neotoma attwateri county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "USNM 316770" ; Times: 1
+	Query: "158007" ; Times: 1
+	Query: "USNM 375832" ; Times: 1
+	Query: "283387" ; Times: 1
+	Query: "BULMER country:&#34;GUATEMALA&#34; year &gt;= 2007 year &lt;= 2007" ; Times: 1
+	Query: "268213" ; Times: 1
+	Query: "569655" ; Times: 1
+	Query: "USNM 387224" ; Times: 1
+	Query: "melursus ursinus" ; Times: 5
+	Query: "334509" ; Times: 1
+	Query: "334508" ; Times: 1
+	Query: "specificepithet:breviceps genus:kogia stateprovince:&#34;Massachusetts&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "268214" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "Castor canadensis texensis county:&#34;Colorado&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "catalognumber:549329 institutioncode:USNM" ; Times: 1
+	Query: "NMNH 521476" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 2
+	Query: "genus:Urocyon country:&#34;Panama&#34;" ; Times: 2
+	Query: "446851" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:Japonica county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "228369" ; Times: 1
+	Query: "USNM 461515" ; Times: 2
+	Query: "genus:Conepatus country:&#34;Panama&#34;" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "423504" ; Times: 1
+	Query: "genus:kogia country:&#34;canada&#34;" ; Times: 10
+	Query: "552976" ; Times: 1
+	Query: "552974" ; Times: 1
+	Query: "552975" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "Conepatus leuconotus telmalestes stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 6
+	Query: "Choeroniscus minor" ; Times: 2
+	Query: "116137" ; Times: 1
+	Query: "136482" ; Times: 1
+	Query: "sigmodon fulviventer texas" ; Times: 1
+	Query: "483029" ; Times: 1
+	Query: "331880" ; Times: 1
+	Query: "201535" ; Times: 1
+	Query: "389700" ; Times: 1
+	Query: "413510" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "158094" ; Times: 1
+	Query: "257330" ; Times: 1
+	Query: "413517" ; Times: 1
+	Query: "order:Carnivora stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "373190" ; Times: 1
+	Query: "catalognumber:254019 institutioncode:USNM" ; Times: 1
+	Query: "559153" ; Times: 1
+	Query: "usnm 203480" ; Times: 2
+	Query: "471584" ; Times: 1
+	Query: "323376" ; Times: 1
+	Query: "482358" ; Times: 1
+	Query: "USNM 215898" ; Times: 1
+	Query: "559143" ; Times: 1
+	Query: "&#34;rumbling bald cave&#34;" ; Times: 1
+	Query: "USNM 462809" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 4
+	Query: "country:Ecuador scientificname:Hylaeamys perenensis " ; Times: 1
+	Query: "USNM 106350" ; Times: 1
+	Query: "Neotoma attwateri locality:ingram county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Conepatus leuconotus telmalestes locality:cleveland stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (usnm)" ; Times: 1
+	Query: "469135" ; Times: 1
+	Query: "551153" ; Times: 1
+	Query: "USNM 212062" ; Times: 1
+	Query: "308873" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "USNM 144253" ; Times: 1
+	Query: "USNM 446540" ; Times: 2
+	Query: "catalognumber:396259" ; Times: 2
+	Query: "276965" ; Times: 1
+	Query: "country:Ecuador scientificname:Kogia sima " ; Times: 2
+	Query: "Reithrodontomys laceyi county:&#34;bexar&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Mephitis macroura&#34; &#34;New Mexico&#34;" ; Times: 1
+	Query: "387321" ; Times: 1
+	Query: "234260" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "387324" ; Times: 1
+	Query: "genus:Lontra stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "USNM 351812" ; Times: 1
+	Query: "544780" ; Times: 1
+	Query: "560348" ; Times: 1
+	Query: "229057" ; Times: 1
+	Query: "chiroptera siberut" ; Times: 1
+	Query: "539377" ; Times: 1
+	Query: "539376" ; Times: 1
+	Query: "284132" ; Times: 1
+	Query: "73832 peromyscus" ; Times: 2
+	Query: "USNM 278217" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "554328" ; Times: 1
+	Query: "298398" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 1
+	Query: "427582" ; Times: 1
+	Query: "175967" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "175963" ; Times: 1
+	Query: "USNM 188616" ; Times: 2
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 6
+	Query: "581331" ; Times: 1
+	Query: "191514" ; Times: 1
+	Query: "Peromyscus tornillo county:&#34;el paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 487040" ; Times: 1
+	Query: "USNM 470463" ; Times: 1
+	Query: "284910" ; Times: 1
+	Query: "USNM 485829" ; Times: 2
+	Query: "482774" ; Times: 1
+	Query: "447955" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (usnm) AND (NOT Boca )" ; Times: 1
+	Query: "482773" ; Times: 1
+	Query: "482770" ; Times: 1
+	Query: "387374" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "205970" ; Times: 1
+	Query: "530983" ; Times: 1
+	Query: "USNM 387226" ; Times: 2
+	Query: "catalognumber:250282 institutioncode:USNM" ; Times: 2
+	Query: "USNM 538373" ; Times: 1
+	Query: "USNM 284523" ; Times: 1
+	Query: "USNM 284522" ; Times: 1
+	Query: "USNM 284521" ; Times: 1
+	Query: "226537" ; Times: 1
+	Query: "226539" ; Times: 1
+	Query: "genus:Delphinus delphis stateprovince:&#34;Massachusetts&#34; institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM B-3611" ; Times: 1
+	Query: "554498" ; Times: 1
+	Query: "190233" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:ursus institutioncode:USNM" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "USNM 153561" ; Times: 1
+	Query: "338079" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "478375" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 2
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "342217" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus macrocephalus " ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "Red River Gunn" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "190222" ; Times: 1
+	Query: "Mesomys" ; Times: 4
+	Query: "159578" ; Times: 1
+	Query: "119648" ; Times: 1
+	Query: "284987" ; Times: 2
+	Query: "USNM 275771" ; Times: 1
+	Query: "297682" ; Times: 1
+	Query: "331875" ; Times: 1
+	Query: "USNM 49466" ; Times: 1
+	Query: "297681" ; Times: 1
+	Query: "USNM 20626" ; Times: 1
+	Query: "USNM 20624" ; Times: 1
+	Query: "USNM 273189" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "USNM 486952" ; Times: 1
+	Query: "usnm 203479" ; Times: 2
+	Query: "USNM 486951" ; Times: 1
+	Query: "Gaut Texas" ; Times: 1
+	Query: "300618" ; Times: 1
+	Query: "usnm 203471" ; Times: 2
+	Query: "usnm 203472" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 1
+	Query: "usnm 203474" ; Times: 3
+	Query: "usnm 203475" ; Times: 3
+	Query: "usnm 203476" ; Times: 2
+	Query: "usnm 203477" ; Times: 2
+	Query: "USNM 247463" ; Times: 1
+	Query: "75408 peromyscus" ; Times: 1
+	Query: "Spilogale putorius interrupta county:&#34;calhoun&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Kogia stateprovince:&#34;Maine&#34;" ; Times: 2
+	Query: "383730" ; Times: 1
+	Query: "USNM 247464" ; Times: 1
+	Query: "alouatta guariba santa catarina" ; Times: 1
+	Query: "order:Chiroptera locality:Siberut" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "Mesophylla macconnelli" ; Times: 2
+	Query: "156311" ; Times: 1
+	Query: "Rhinolophus sinicus" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 1
+	Query: "413555" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 2
+	Query: "20009" ; Times: 1
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 1
+	Query: "268222" ; Times: 1
+	Query: "specificepithet:acutus genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34; institutioncode:USNM" ; Times: 1
+	Query: "Baiomys taylori taylori county:&#34;Duval&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "unicorn" ; Times: 1
+	Query: "USNM 44217" ; Times: 1
+	Query: "233349" ; Times: 1
+	Query: "USNM 462808" ; Times: 2
+	Query: "553011" ; Times: 1
+	Query: "471606" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:USNM" ; Times: 3
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "303096" ; Times: 1
+	Query: "269591" ; Times: 2
+	Query: "family:soricidae stateprovince:&#34;durango&#34;" ; Times: 3
+	Query: "159583" ; Times: 1
+	Query: "269644" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (usnm)" ; Times: 4
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "USNM 404658" ; Times: 1
+	Query: "recordedby:Fite" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "229081" ; Times: 1
+	Query: "181119" ; Times: 1
+	Query: "143680" ; Times: 1
+	Query: "229082" ; Times: 1
+	Query: "489227" ; Times: 1
+	Query: "323096" ; Times: 1
+	Query: "country:Ecuador scientificname:Tylomys mirae " ; Times: 2
+	Query: "335278" ; Times: 1
+	Query: "346029" ; Times: 1
+	Query: "USNM 284456" ; Times: 2
+	Query: "Callicebus ornatus" ; Times: 1
+	Query: "151630" ; Times: 1
+	Query: "USNM 284452" ; Times: 2
+	Query: "169592" ; Times: 1
+	Query: "141379" ; Times: 1
+	Query: "553124" ; Times: 1
+	Query: "231029" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:ursus stateprovince:&#34;Louisiana&#34; institutioncode:USNM" ; Times: 1
+	Query: "344696" ; Times: 1
+	Query: "33368 usnm" ; Times: 1
+	Query: "482586" ; Times: 1
+	Query: "255227" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "544796" ; Times: 2
+	Query: "USNM 411338" ; Times: 2
+	Query: "USNM 411336" ; Times: 2
+	Query: "429084" ; Times: 1
+	Query: "USNM 375628" ; Times: 1
+	Query: "USNM 30551" ; Times: 1
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "genus:Kogia stateprovince:&#34;Massachusetts&#34;" ; Times: 22
+	Query: "USNM 326212" ; Times: 1
+	Query: "492418" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 1
+	Query: "294456" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "USNM 257419" ; Times: 1
+	Query: "catalognumber:334283" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "372349" ; Times: 1
+	Query: "USNM 351971" ; Times: 2
+	Query: "Conepatus leuconotus leuconotus county:&#34;mason&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Sigmodon ochrognathus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 8
+	Query: "USNM 333054" ; Times: 1
+	Query: "553123" ; Times: 1
+	Query: "387312" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 2
+	Query: "Leopardus wiedii cooperi stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "196565" ; Times: 1
+	Query: "specificepithet:acutus genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 284466" ; Times: 1
+	Query: "539296" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 4
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca)" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis pernigra " ; Times: 4
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 10
+	Query: "471615" ; Times: 1
+	Query: "genus:geomys locality:clear creek" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Fort Brown county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (usnm)" ; Times: 1
+	Query: "USNM 351967" ; Times: 2
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 7
+	Query: "344906" ; Times: 1
+	Query: "specificepithet:acutus genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34;" ; Times: 5
+	Query: "539422" ; Times: 1
+	Query: "539421" ; Times: 1
+	Query: "USNM 28546" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "USNM 284561" ; Times: 1
+	Query: "USNM 515951" ; Times: 2
+	Query: "country:Ecuador scientificname:Tadarida brasiliensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa melissa " ; Times: 1
+	Query: "560401" ; Times: 1
+	Query: "539345" ; Times: 1
+	Query: "297259" ; Times: 1
+	Query: "258211" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "327264" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "413525" ; Times: 1
+	Query: "351189" ; Times: 1
+	Query: "344776" ; Times: 1
+	Query: "class:mammalia county:&#34;gosper&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "270401" ; Times: 1
+	Query: "specificepithet:breviceps genus:kogia stateprovince:&#34;Maine&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "274043" ; Times: 1
+	Query: "274042" ; Times: 1
+	Query: "274041" ; Times: 2
+	Query: "274040" ; Times: 1
+	Query: "325847" ; Times: 1
+	Query: "USNM 371255" ; Times: 2
+	Query: "288683" ; Times: 1
+	Query: "274049" ; Times: 1
+	Query: "501201" ; Times: 1
+	Query: "262135" ; Times: 1
+	Query: "359021" ; Times: 1
+	Query: "478610" ; Times: 1
+	Query: "USNM 52949" ; Times: 2
+	Query: "190199" ; Times: 1
+	Query: "USNM 451822" ; Times: 1
+	Query: "286933" ; Times: 2
+	Query: "205957" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 1
+	Query: "162690" ; Times: 2
+	Query: "genus:kogia stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles belzebuth " ; Times: 6
+	Query: "190207" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "223574" ; Times: 1
+	Query: "Canis lupus monstrabilis county:&#34;Upton&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "spilogale angustifrons" ; Times: 1
+	Query: "283390" ; Times: 1
+	Query: "USNM 402036" ; Times: 2
+	Query: "158005" ; Times: 1
+	Query: "530904" ; Times: 3
+	Query: "USNM 201314" ; Times: 1
+	Query: "581343" ; Times: 1
+	Query: "581342" ; Times: 1
+	Query: "specificepithet:sima genus:kogia locality:Atlantic Ocean country:&#34;United States&#34;" ; Times: 1
+	Query: "225006" ; Times: 1
+	Query: "country:Ecuador scientificname:Vicugna vicugna " ; Times: 6
+	Query: "USNM 458318" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 1
+	Query: "USNM 20996" ; Times: 1
+	Query: "413526" ; Times: 1
+	Query: "416251" ; Times: 1
+	Query: "USNM 279404" ; Times: 2
+	Query: "USNM 263742" ; Times: 2
+	Query: "203002" ; Times: 1
+	Query: "USNM 147447" ; Times: 1
+	Query: "USNM 411266" ; Times: 1
+	Query: "specificepithet:breviceps genus:kogia stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "262000" ; Times: 1
+	Query: "552964" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "USNM 351968" ; Times: 2
+	Query: "60453" ; Times: 1
+	Query: "USNM 198296" ; Times: 2
+	Query: "(Cuon alpinus)" ; Times: 1
+	Query: "218510" ; Times: 1
+	Query: "257328" ; Times: 1
+	Query: "USNM 181116" ; Times: 2
+	Query: "331879" ; Times: 2
+	Query: "284493" ; Times: 1
+	Query: "Musa" ; Times: 1
+	Query: "Peromyscus attwateri locality:Ingram county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 457756" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "390802" ; Times: 1
+	Query: "genus:Delphinus delphis stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "264653" ; Times: 1
+	Query: "Lepilemur" ; Times: 1
+	Query: "470477" ; Times: 1
+	Query: "USNM 449733" ; Times: 2
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 2
+	Query: "Peromyscus pectoralis laceianus locality:Mountain Home county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "316456" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (usnm) AND (NOT Chica)" ; Times: 1
+	Query: "288698" ; Times: 1
+	Query: "Gaut Texas 1903" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "73835 peromyscus" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 3
+	Query: "467963" ; Times: 1
+	Query: "Spilogale indianola stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "479564" ; Times: 1
+	Query: "USNM 383743" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Laguna Atascosa National Wildlife county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (usnm)" ; Times: 1
+	Query: "country:Ecuador scientificname:Hylaeamys yunganus " ; Times: 1
+	Query: "351857" ; Times: 1
+	Query: "akers" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 3
+	Query: "43990" ; Times: 1
+	Query: "genus:Anoura country:&#34;Venezuela&#34;" ; Times: 4
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus flaviventer " ; Times: 2
+	Query: "country:Ecuador scientificname:Choeroniscus minor " ; Times: 2
+	Query: "Peromyscus pectoralis laceianus locality:Ingram county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "373185" ; Times: 1
+	Query: "Urocyon cinereoargenteus scottii county:&#34;Maverick&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Peromyscus eremicus eremicus&#34; county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 1
+	Query: "530906" ; Times: 1
+	Query: "338712" ; Times: 1
+	Query: "USNM 284540" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus concolor " ; Times: 2
+	Query: "USNM 404662" ; Times: 1
+	Query: "USNM 284918" ; Times: 1
+	Query: "Coyote stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "USNM 487194" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 1
+	Query: "544799" ; Times: 1
+	Query: "USNM 284917" ; Times: 1
+	Query: "171353" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "539302" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia country:&#34;Canada&#34;" ; Times: 2
+	Query: "USNM 462816" ; Times: 1
+	Query: "200175" ; Times: 1
+	Query: "303156" ; Times: 1
+	Query: "Proechimys decumanus" ; Times: 3
+	Query: "Peromyscus attwateri locality:ingram county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 486341" ; Times: 2
+	Query: "447954" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 12
+	Query: "country:Ecuador scientificname:Platyrrhinus nitelinea " ; Times: 1
+	Query: "542141" ; Times: 1
+	Query: "&#34;rumbling bald&#34;" ; Times: 2
+	Query: "106979" ; Times: 1
+	Query: "USNM 112981" ; Times: 1
+	Query: "USNM 112980" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "reithrodontomys merriami county:&#34;brazoria&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "559178" ; Times: 1
+	Query: "448129" ; Times: 1
+	Query: "429161" ; Times: 1
+	Query: "429162" ; Times: 1
+	Query: "223154" ; Times: 1
+	Query: "482767" ; Times: 1
+	Query: "reithrodontomys griseus county:&#34;bexar&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 333063" ; Times: 2
+	Query: "223153" ; Times: 1
+	Query: "223152" ; Times: 1
+	Query: "specificepithet:albirostris genus:Lagenorhynchus stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "161669" ; Times: 1
+	Query: "genus:kogia country:&#34;Canada&#34;" ; Times: 1
+	Query: "482769" ; Times: 1
+	Query: "553125" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Redunca redunca" ; Times: 2
+	Query: "471626" ; Times: 1
+	Query: "544925" ; Times: 2
+	Query: "479561" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 4
+	Query: "239883" ; Times: 1
+	Query: "431640" ; Times: 1
+	Query: "225227" ; Times: 1
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "387340" ; Times: 1
+	Query: "544928" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "524603" ; Times: 1
+	Query: "reithrodontomys merriami stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "USNM Chuck" ; Times: 1
+	Query: "393038" ; Times: 1
+	Query: "274212" ; Times: 1
+	Query: "180130" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis institutioncode:USNM" ; Times: 10
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 15
+	Query: "259373" ; Times: 1
+	Query: "309928" ; Times: 1
+	Query: "489923" ; Times: 1
+	Query: "347969" ; Times: 1
+	Query: "USNM 459997" ; Times: 1
+	Query: "Peromyscus tornillo county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "309927" ; Times: 1
+	Query: "305688" ; Times: 1
+	Query: "539410" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "75267" ; Times: 2
+	Query: "167135" ; Times: 1
+	Query: "USNM 273192" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 2
+	Query: "539393" ; Times: 1
+	Query: "catalognumber:489043 institutioncode:USNM" ; Times: 1
+	Query: "33042" ; Times: 2
+	Query: "USNM 355118" ; Times: 1
+	Query: "492438" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 2
+	Query: "239074" ; Times: 1
+	Query: "229466" ; Times: 1
+	Query: "USNM 487669" ; Times: 2
+	Query: "Canis lupus monstrabilis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "210714" ; Times: 1
+	Query: "225043" ; Times: 1
+	Query: "USNM 285129" ; Times: 2
+	Query: "225044" ; Times: 1
+	Query: "492437" ; Times: 1
+	Query: "390187" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 2
+	Query: "147365" ; Times: 1
+	Query: "386932" ; Times: 1
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 1
+	Query: "eumops perotis texas" ; Times: 1
+	Query: "325851" ; Times: 1
+	Query: "USNM 118268" ; Times: 1
+	Query: "USNM 117949" ; Times: 2
+	Query: "USNM 217327" ; Times: 1
+	Query: "maxomys rajah" ; Times: 2
+	Query: "554446" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:ursus stateprovince:&#34;Louisiana&#34; year &lt;= 1930 institutioncode:USNM" ; Times: 1
+	Query: "USNM 584253" ; Times: 2
+	Query: "Pteropus pumilus" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca )" ; Times: 2
+	Query: "Biltmore estate" ; Times: 5
+	Query: "USNM 217329" ; Times: 1
+	Query: "524604" ; Times: 1
+	Query: "USNM 182803" ; Times: 1
+	Query: "USNM 446546" ; Times: 2
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "553001" ; Times: 1
+	Query: "553002" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodontomys alfari " ; Times: 1
+	Query: "usnm 203478" ; Times: 2
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "USNM 462814" ; Times: 1
+	Query: "274213" ; Times: 2
+	Query: "65127" ; Times: 1
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 4
+	Query: "country:Ecuador scientificname:Aegialomys xanthaeolus " ; Times: 2
+	Query: "family:soricidae stateprovince:&#34;baja california&#34;" ; Times: 4
+	Query: "family:soricidae stateprovince:&#34;baja california sur&#34;" ; Times: 2
+	Query: "USNM 284920" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 5
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 2
+	Query: "269588" ; Times: 1
+	Query: "231033" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "557153" ; Times: 1
+	Query: "USNM 200800" ; Times: 1
+	Query: "184657" ; Times: 1
+	Query: "Lasiurus villosissimus" ; Times: 1
+	Query: "553137" ; Times: 1
+	Query: "553136" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:Howard Lacey Ranch county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Mason&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "368245" ; Times: 1
+	Query: "413533" ; Times: 1
+	Query: "USNM 181698" ; Times: 1
+	Query: "USNM 446587" ; Times: 3
+	Query: "USNM 568707" ; Times: 1
+	Query: "USNM 446589" ; Times: 2
+	Query: "catalognumber:301050 institutioncode:USNM" ; Times: 2
+	Query: "476565" ; Times: 2
+	Query: "338429" ; Times: 1
+	Query: "354208" ; Times: 1
+	Query: "USNM 284958" ; Times: 2
+	Query: "USNM 55802" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 12
+	Query: "121605" ; Times: 1
+	Query: "280566" ; Times: 1
+	Query: "USNM 388669" ; Times: 1
+	Query: "USNM 388668" ; Times: 2
+	Query: "34415" ; Times: 2
+	Query: "330422" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "genus:Dasypus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "330421" ; Times: 1
+	Query: "USNM 446602" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Chisos county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "USNM 446569" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 1
+	Query: "210113" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "1316 borneo" ; Times: 2
+	Query: "USNM 486340" ; Times: 2
+	Query: "223118" ; Times: 1
+	Query: "560618" ; Times: 1
+	Query: "560619" ; Times: 1
+	Query: "200187" ; Times: 1
+	Query: "539241" ; Times: 1
+	Query: "560613" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Massachusetts&#34; (&#34;Zapus hudsonius&#34;) institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "560617" ; Times: 1
+	Query: "196541" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 2
+	Query: "233345" ; Times: 2
+	Query: "65493" ; Times: 1
+	Query: "344695" ; Times: 1
+	Query: "554489" ; Times: 1
+	Query: "USNM 180377" ; Times: 1
+	Query: "147969" ; Times: 1
+	Query: "461479" ; Times: 1
+	Query: "489213" ; Times: 1
+	Query: "539411" ; Times: 1
+	Query: "525501" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Chica)" ; Times: 2
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "USNM 515949" ; Times: 2
+	Query: "261999" ; Times: 2
+	Query: "288625" ; Times: 1
+	Query: "242270" ; Times: 1
+	Query: "USNM 515538" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "482593" ; Times: 1
+	Query: "&#34;Conepatus leuconotus leuconotus&#34; county:&#34;cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "468856" ; Times: 1
+	Query: "468855" ; Times: 1
+	Query: "297263" ; Times: 1
+	Query: "468852" ; Times: 1
+	Query: "catalognumber:579831 institutioncode:USNM" ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllotis andium " ; Times: 1
+	Query: "485931" ; Times: 1
+	Query: "country:Ecuador scientificname:Ichthyomys hydrobates " ; Times: 4
+	Query: "country:Ecuador scientificname:Odocoileus virginianus " ; Times: 1
+	Query: "lama guanicoe" ; Times: 1
+	Query: "USNM 343400" ; Times: 1
+	Query: "355198" ; Times: 1
+	Query: "USNM 383753" ; Times: 2
+	Query: "230073" ; Times: 1
+	Query: "352002" ; Times: 1
+	Query: "country:Ecuador scientificname:Phylloderma stenops " ; Times: 2
+	Query: "359137" ; Times: 1
+	Query: "Ursus arctos continent:Europe" ; Times: 2
+	Query: "325995" ; Times: 1
+	Query: "156057" ; Times: 1
+	Query: "288699" ; Times: 1
+	Query: "325991" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 8
+	Query: "469079" ; Times: 1
+	Query: "centronycteris maximiliani" ; Times: 2
+	Query: "327370" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "USNM 284541" ; Times: 2
+	Query: "USNM 377422" ; Times: 2
+	Query: "539245" ; Times: 1
+	Query: "USNM 284542" ; Times: 2
+	Query: "482591" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;Massachusetts&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 353367" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "362639" ; Times: 1
+	Query: "USNM 181378" ; Times: 1
+	Query: "196725" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 3
+	Query: "family:mustelidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 25
+	Query: "USNM 249740" ; Times: 1
+	Query: "482594" ; Times: 1
+	Query: "Leopardus pardalis albescens stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:Turtle Creek near Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "487965" ; Times: 2
+	Query: "specificepithet:pacificus genus:Indopacetus" ; Times: 3
+	Query: "525573" ; Times: 1
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca OR Boco)" ; Times: 2
+	Query: "&#34;Peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "USNM 345401" ; Times: 1
+	Query: "179061" ; Times: 1
+	Query: "157504" ; Times: 1
+	Query: "165755" ; Times: 1
+	Query: "order:Carnivora country:&#34;Panama&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Anoura geoffroyi " ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 2
+	Query: "Lontra longicaudis (Colombia)" ; Times: 2
+	Query: "351930" ; Times: 1
+	Query: "190698" ; Times: 1
+	Query: "USNM 43990" ; Times: 4
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "USNM 247489" ; Times: 2
+	Query: "437945" ; Times: 1
+	Query: "country:Ecuador scientificname:Cabreramops aequatorianus " ; Times: 3
+	Query: "USNM 549559" ; Times: 1
+	Query: "229465" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "310828" ; Times: 1
+	Query: "Spilogale putorius interrupta county:&#34;matagorda&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "156711" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:ursus stateprovince:&#34;Alabama&#34; year &lt;= 1930 institutioncode:USNM" ; Times: 1
+	Query: "544108" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 3
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "318107" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis haggardi " ; Times: 1
+	Query: "544106" ; Times: 1
+	Query: "544107" ; Times: 1
+	Query: "554484" ; Times: 1
+	Query: "USNM 406309" ; Times: 1
+	Query: "554482" ; Times: 1
+	Query: "544109" ; Times: 2
+	Query: "159638" ; Times: 2
+	Query: "saguinus fuscicollis" ; Times: 2
+	Query: "USNM 406300" ; Times: 1
+	Query: "554488" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 2
+	Query: "288250" ; Times: 1
+	Query: "257220" ; Times: 1
+	Query: "USNM 279248" ; Times: 1
+	Query: "211153" ; Times: 1
+	Query: "USNM 373139" ; Times: 1
+	Query: "378688" ; Times: 1
+	Query: "USNM 237186" ; Times: 1
+	Query: "USNM 284545" ; Times: 1
+	Query: "USNM 373136" ; Times: 1
+	Query: "genus:Giraffa" ; Times: 1
+	Query: "USNM 247433" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys auriventer " ; Times: 2
+	Query: "297765" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Feresa attenuata " ; Times: 1
+	Query: "Castor canadensis texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "alouatta guariba" ; Times: 1
+	Query: "Canis lupus baileyi stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "157973" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "424882" ; Times: 1
+	Query: "Sigmodon hispidus berlandieri county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "336363" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 2
+	Query: "USNM 383754" ; Times: 2
+	Query: "USNM 285128" ; Times: 2
+	Query: "Spilogale putorius interrupta stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "orthogeomys grandis guatemala" ; Times: 3
+	Query: "Conepatus leuconotus telmalestes county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "421666" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 16
+	Query: "catalognumber:246921 institutioncode:USNM" ; Times: 2
+	Query: "554490" ; Times: 1
+	Query: "dipodomys venustus sanctiluciae" ; Times: 1
+	Query: "Peromyscus nasutus penicillatus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; AND (NOT MSB)" ; Times: 1
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 3
+	Query: "293440" ; Times: 1
+	Query: "482499" ; Times: 1
+	Query: "17972 peromyscus" ; Times: 2
+	Query: "Leopardus pardalis albescens county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "country:Ecuador scientificname:Lonchophylla chocoana " ; Times: 2
+	Query: "USNM 284547" ; Times: 1
+	Query: "297045" ; Times: 2
+	Query: "Peromyscus leucopus texanus locality:Fort Clark county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Castor canadensis texensis" ; Times: 3
+	Query: "country:Ecuador scientificname:Diclidurus albus " ; Times: 1
+	Query: "USNM 62916" ; Times: 2
+	Query: "348140" ; Times: 1
+	Query: "USNM 446591" ; Times: 2
+	Query: "554486" ; Times: 1
+	Query: "288701" ; Times: 1
+	Query: "539258" ; Times: 1
+	Query: "569658" ; Times: 1
+	Query: "USNM 284546" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "539322" ; Times: 1
+	Query: "372329" ; Times: 1
+	Query: "usnm 559483" ; Times: 1
+	Query: "579793 institutioncode:USNM" ; Times: 1
+	Query: "372325" ; Times: 1
+	Query: "372324" ; Times: 1
+	Query: "372323" ; Times: 1
+	Query: "372322" ; Times: 1
+	Query: "539257" ; Times: 1
+	Query: "country:Ecuador scientificname:Oreoryzomys balneator " ; Times: 1
+	Query: "539344" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; AND (NOT MSB) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 21037" ; Times: 1
+	Query: "187110" ; Times: 1
+	Query: "407090" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "544937" ; Times: 1
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 4
+	Query: "471630" ; Times: 1
+	Query: "387370" ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 7
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 2
+	Query: "507993" ; Times: 1
+	Query: "158103" ; Times: 1
+	Query: "158102" ; Times: 1
+	Query: "USNM 561980" ; Times: 2
+	Query: "423204" ; Times: 1
+	Query: "569686" ; Times: 1
+	Query: "274202" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 2
+	Query: "234588" ; Times: 1
+	Query: "USNM 177724" ; Times: 1
+	Query: "234156" ; Times: 2
+	Query: "411732" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "USNM 248949" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus gnomus " ; Times: 2
+	Query: "157015" ; Times: 1
+	Query: "USNM 406504" ; Times: 2
+	Query: "482779" ; Times: 1
+	Query: "catalognumber:15080 institutioncode:USNM" ; Times: 1
+	Query: "USNM 581170" ; Times: 2
+	Query: "country:Ecuador scientificname:Thomasomys silvestris " ; Times: 3
+	Query: "USNM 514872" ; Times: 2
+	Query: "Peromyscus attwateri locality:Turtle Creek county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "388043" ; Times: 1
+	Query: "recordnumber:26196" ; Times: 2
+	Query: "554500" ; Times: 1
+	Query: "447567" ; Times: 1
+	Query: "genus:Kogia country:&#34;Canada&#34;" ; Times: 9
+	Query: "302588" ; Times: 1
+	Query: "USNM 373257" ; Times: 2
+	Query: "269531" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "Baiomys taylori subater county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "286932" ; Times: 1
+	Query: "class:Mammalia locality:Veraguas country:&#34;Panama&#34;" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "USNM 456720" ; Times: 1
+	Query: "141074" ; Times: 1
+	Query: "162694" ; Times: 1
+	Query: "USNM 330166" ; Times: 1
+	Query: "Onychomys arenicola arenicola stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:turtle county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Sigmodon ochrognathus&#34; locality:Chisos mountains county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "265596" ; Times: 1
+	Query: "265373" ; Times: 1
+	Query: "USNM 316769" ; Times: 1
+	Query: "USNM 316768" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "USNM 249739" ; Times: 2
+	Query: "373181" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 2
+	Query: "USNM 247435" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "valledupar" ; Times: 1
+	Query: "387498" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus incarum " ; Times: 4
+	Query: "usnm 203481" ; Times: 2
+	Query: "cryptoprocta ferox" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 4
+	Query: "342223" ; Times: 1
+	Query: "223291" ; Times: 1
+	Query: "157122" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys bolivaris " ; Times: 2
+	Query: "469917" ; Times: 1
+	Query: "416259" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 4
+	Query: "255709" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "251327" ; Times: 1
+	Query: "269589" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 1
+	Query: "catalognumber:35128 institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "64668" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "usnm 203486" ; Times: 3
+	Query: "180099" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "USNM 484455" ; Times: 2
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 15
+	Query: "&#34;Onychomys arenicola arenicola&#34; county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "359133" ; Times: 1
+	Query: "540489" ; Times: 1
+	Query: "344734" ; Times: 1
+	Query: "553006" ; Times: 1
+	Query: "atelocynus" ; Times: 1
+	Query: "USNM 181380" ; Times: 2
+	Query: "USNM 329708" ; Times: 1
+	Query: "06197" ; Times: 2
+	Query: "specificepithet:fuscipes genus:Elephantulus" ; Times: 2
+	Query: "country:Ecuador scientificname:Odocoileus peruvianus " ; Times: 3
+	Query: "usnm 329596" ; Times: 1
+	Query: "284479" ; Times: 1
+	Query: "149300" ; Times: 1
+	Query: "165757" ; Times: 1
+	Query: "240986" ; Times: 2
+	Query: "240981" ; Times: 1
+	Query: "USNM 329707" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 2
+	Query: "483587" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 3
+	Query: "USNM 126819" ; Times: 2
+	Query: "467294" ; Times: 1
+	Query: "USNM 373253" ; Times: 1
+	Query: "USNM 246916" ; Times: 1
+	Query: "184152" ; Times: 1
+	Query: "433013" ; Times: 1
+	Query: "USNM 147438" ; Times: 1
+	Query: "547681" ; Times: 1
+	Query: "297127" ; Times: 1
+	Query: "483589" ; Times: 1
+	Query: "272553" ; Times: 1
+	Query: "USNM 58117" ; Times: 2
+	Query: "513262" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "467962" ; Times: 1
+	Query: "USNM 119237" ; Times: 2
+	Query: "Spilogale putorius interrupta locality:matagorda stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 196587" ; Times: 3
+	Query: "Coyote stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "usnm 20348-" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis oxyotus " ; Times: 3
+	Query: "544798" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "usnm 203483" ; Times: 3
+	Query: "usnm 203482" ; Times: 2
+	Query: "usnm 203485" ; Times: 2
+	Query: "usnm 203484" ; Times: 2
+	Query: "187155" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla concava " ; Times: 2
+	Query: "444969" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "&#34;Peromyscus leucopus leucopus&#34; county:&#34;brazos&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx leptura " ; Times: 3
+	Query: "156117" ; Times: 1
+	Query: "530925" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "USNM 461682" ; Times: 1
+	Query: "471180" ; Times: 1
+	Query: "431648" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus ravus " ; Times: 3
+	Query: "336356" ; Times: 1
+	Query: "specificepithet:breviceps genus:kogia stateprovince:&#34;Rhode Island&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:ursus stateprovince:&#34;mississippi&#34; year &lt;= 1930 institutioncode:USNM" ; Times: 1
+	Query: "129486" ; Times: 1
+	Query: "Scutisorex somereni" ; Times: 1
+	Query: "277457" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus chiriquinus " ; Times: 1
+	Query: "141385" ; Times: 1
+	Query: "diclidurus albus" ; Times: 66
+	Query: "360358" ; Times: 1
+	Query: "284104" ; Times: 1
+	Query: "USNM 06197" ; Times: 1
+	Query: "USNM 173383" ; Times: 2
+	Query: "179064" ; Times: 1
+	Query: "262233" ; Times: 1
+	Query: "Gorilla beringei beringei" ; Times: 1
+	Query: "371260" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 4
+	Query: "507983" ; Times: 1
+	Query: "478443" ; Times: 1
+	Query: "country:Ecuador scientificname:Grampus griseus " ; Times: 1
+	Query: "catalognumber:549328 institutioncode:USNM" ; Times: 1
+	Query: "539282" ; Times: 1
+	Query: "539243" ; Times: 1
+	Query: "321687" ; Times: 1
+	Query: "539285" ; Times: 1
+	Query: "539284" ; Times: 1
+	Query: "&#34;Conepatus leuconotus leuconotus&#34; locality:Brownsville stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes major " ; Times: 1
+	Query: "USNM 218011" ; Times: 2
+	Query: "539364" ; Times: 1
+	Query: "539365" ; Times: 1
+	Query: "FMG 2573" ; Times: 1
+	Query: "205960" ; Times: 1
+	Query: "351835" ; Times: 1
+	Query: "205962" ; Times: 1
+	Query: "351837" ; Times: 2
+	Query: "79557" ; Times: 1
+	Query: "205966" ; Times: 1
+	Query: "USNM 361410" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:National Wildlife county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (usnm)" ; Times: 1
+	Query: "300617" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Massachusetts&#34; institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 284553" ; Times: 1
+	Query: "USNM 249197" ; Times: 2
+	Query: "&#34;Sigmodon ochrognathus&#34; county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (usnm)" ; Times: 1
+	Query: "wolverine washington" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "USNM 536304" ; Times: 2
+	Query: "327364" ; Times: 1
+	Query: "387207" ; Times: 1
+	Query: "246653" ; Times: 2
+	Query: "Lama guanicoe" ; Times: 7
+	Query: "246651" ; Times: 1
+	Query: "363087" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 1
+	Query: "246655" ; Times: 1
+	Query: "350946" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;Panama&#34;" ; Times: 1
+	Query: "Spilogale putorius interrupta county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "290981" ; Times: 1
+	Query: "USNM 538371" ; Times: 2
+	Query: "USNM 538372" ; Times: 1
+	Query: "157288" ; Times: 1
+	Query: "USNM 538374" ; Times: 1
+	Query: "USNM 538375" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys albigularis " ; Times: 1
+	Query: "specificepithet:breviceps genus:kogia country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 275772" ; Times: 2
+	Query: "genus:Delphinus delphis stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Peromyscus locality:San year &gt;= 2002 year &lt;= 2002" ; Times: 1
+	Query: "424780" ; Times: 1
+	Query: "190224" ; Times: 1
+	Query: "258512" ; Times: 1
+	Query: "157285" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus matapalensis " ; Times: 1
+	Query: "180098" ; Times: 1
+	Query: "321689" ; Times: 1
+	Query: "Canis latrans texensis county:&#34;kleberg&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 181015" ; Times: 2
+	Query: "336129" ; Times: 1
+	Query: "147948" ; Times: 1
+	Query: "120938" ; Times: 1
+	Query: "locality:accotink" ; Times: 2
+	Query: "159562" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus anderseni " ; Times: 1
+	Query: "321685" ; Times: 1
+	Query: "321686" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "179400" ; Times: 1
+	Query: "335020" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 5
+	Query: "174980" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; “sus scrofa”" ; Times: 1
+	Query: "USNM 390799" ; Times: 2
+	Query: "lynx texensis county:&#34;medina&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "211646" ; Times: 1
+	Query: "362886" ; Times: 1
+	Query: "V-1132" ; Times: 3
+	Query: "Neotoma attwateri locality:turtle creek county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "544114" ; Times: 1
+	Query: "Conepatus leuconotus telmalestes locality:Cleveland stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "544111" ; Times: 1
+	Query: "531006" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 2
+	Query: "Peromyscus attwateri county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "tomopeas" ; Times: 1
+	Query: "363415" ; Times: 1
+	Query: "255567" ; Times: 1
+	Query: "locality:Fuentes country:&#34;Costa Rica&#34; institutioncode:USNM" ; Times: 1
+	Query: "246656" ; Times: 1
+	Query: "USNM 313958" ; Times: 1
+	Query: "553140" ; Times: 1
+	Query: "platalina genovensium" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira bidens " ; Times: 4
+	Query: "559177" ; Times: 1
+	Query: "324549" ; Times: 1
+	Query: "USNM 222340" ; Times: 2
+	Query: "165634" ; Times: 1
+	Query: "USNM 285034" ; Times: 2
+	Query: "350995" ; Times: 1
+	Query: "Glyphonycteris daviesi" ; Times: 2
+	Query: "class:Mammalia locality:Santa Fe stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "USNM 462810" ; Times: 1
+	Query: "siberut chiroptera" ; Times: 1
+	Query: "254764" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "&#34;Onychomys arenicola arenicola&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "catalognumber:253555 institutioncode:USNM" ; Times: 2
+	Query: "411695" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa simonsi " ; Times: 2
+	Query: "326515" ; Times: 1
+	Query: "TAMIAS BULLERI" ; Times: 2
+	Query: "369092" ; Times: 1
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 3
+	Query: "284494" ; Times: 1
+	Query: "269646" ; Times: 1
+	Query: "Red River &#34;D. Gunn&#34;" ; Times: 1
+	Query: "284491" ; Times: 1
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 5
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "potos flavus santa marta" ; Times: 1
+	Query: "Oryzomys palustris texensis county:&#34;aransas&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "BULMER country:&#34;GUATEMALA&#34; year &gt;= 2007 year &lt;= 2007 month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "USNM 390804" ; Times: 2
+	Query: "554463" ; Times: 1
+	Query: "262234" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 5
+	Query: "USNM 213019" ; Times: 2
+	Query: "360367" ; Times: 1
+	Query: "242271" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:japonica county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;saudi arabia&#34;" ; Times: 1
+	Query: "usnm 203473" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 3
+	Query: "525272" ; Times: 1
+	Query: "158356" ; Times: 2
+	Query: "USNM 236468" ; Times: 1
+	Query: "525574" ; Times: 1
+	Query: "525575" ; Times: 1
+	Query: "525576" ; Times: 1
+	Query: "447956" ; Times: 1
+	Query: "525571" ; Times: 1
+	Query: "447953" ; Times: 1
+	Query: "genus:Ondatra stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Oryzomys palustris texensis county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;Conepatus leuconotus leuconotus&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "family:soricidae stateprovince:&#34;nayarit&#34;" ; Times: 8
+	Query: "family:soricidae stateprovince:&#34;sinaloa&#34;" ; Times: 5
+	Query: "267071" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 9
+	Query: "Red River D. Gunn" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "387191" ; Times: 1
+	Query: "539242" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "tai o stateprovince:&#34;hong kong&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "274050" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "specificepithet:sima genus:kogia stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "lepus vntype:specimen stateprovince:&#34;Wisconsin&#34; year &lt;= 1990" ; Times: 1
+	Query: "539248" ; Times: 1
+	Query: "158013" ; Times: 1
+	Query: "531212" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "200280" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 2
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "260192" ; Times: 1
+	Query: "Microtus mexicanus guadalupensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "350648" ; Times: 1
+	Query: "specificepithet:sima genus:kogia country:&#34;United States&#34;" ; Times: 4
+	Query: "USNM 369080" ; Times: 1
+	Query: "Reithrodontomys fulvescens intermedius county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 2
+	Query: "Diclidurus albus" ; Times: 2
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "164075" ; Times: 1
+	Query: "USNM 462815" ; Times: 2
+	Query: "389710" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys teleus " ; Times: 1
+	Query: "sylvilagus robustus" ; Times: 4
+	Query: "236272" ; Times: 1
+	Query: "147968" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus nigellus " ; Times: 1
+	Query: "235808" ; Times: 1
+	Query: "295744" ; Times: 1
+	Query: "3621 institutioncode:USNM" ; Times: 1
+	Query: "362106" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "203003" ; Times: 1
+	Query: "Conepatus leuconotus telmalestes locality:Sour Lake stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 568708" ; Times: 1
+	Query: "296769" ; Times: 1
+	Query: "Peromyscus pectoralis laceianus locality:turtle creek county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Martes melampus" ; Times: 1
+	Query: "USNM 71718" ; Times: 1
+	Query: "539283" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "USNM 110962" ; Times: 2
+	Query: "specificepithet:breviceps genus:Kogia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "581324" ; Times: 1
+	Query: "162687" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "lepus flavigularis" ; Times: 2
+	Query: "Peromyscus pectoralis laceianus county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "314059" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "USNM 468455" ; Times: 1
+	Query: "539259" ; Times: 1
+	Query: "USNM 179799" ; Times: 2
+	Query: "350823" ; Times: 2
+	Query: "162688" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 1
+	Query: "specificepithet:vison family:Mustelidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 2
+	Query: "Hystrix africaeaustralis" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "429208" ; Times: 1
+	Query: "USNM 142488" ; Times: 1
+	Query: "229483" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1106 download events in this period)
+Total number of records downloaded: 43818
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 48
+	Country: Malaysia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 8
+	Country: Indonesia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 5
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 5
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 2
+	Date: 2020-05-30 ; Times: 14
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 15
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Elephantulus" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "specificepithet:lucifugus genus:Myotis stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "&#34;Peromyscus keeni&#34;" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 1
+	Query: "family:Soricidae country:&#34;Egypt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "lama guanicoe" ; Times: 2
+	Query: "cervus canadensis" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "family:mustelidae country:&#34;indonesia&#34;" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "&#34;Mephitis macroura&#34; &#34;New Mexico&#34;" ; Times: 1
+	Query: "Martes melampus" ; Times: 1
+	Query: "Martes caurina" ; Times: 1
+	Query: "Scutisorex somereni" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:alpinus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Lama guanicoe" ; Times: 4
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Aramberri" ; Times: 1
+	Query: "Martes foina" ; Times: 2
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Proechimys decumanus" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;campeche&#34;" ; Times: 1
+	Query: "Mesomys" ; Times: 2
+	Query: "dipodomys venustus sanctiluciae" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "recordedby:McCallum" ; Times: 1
+	Query: "genus:Conepatus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Lontra longicaudis (Colombia)" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "maxomys rajah" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "chiroptera siberut" ; Times: 1
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "specificepithet:rufescens genus:Elephantulus" ; Times: 1
+	Query: "lepus vntype:specimen stateprovince:&#34;Wisconsin&#34; year &lt;= 1990" ; Times: 1
+	Query: "Martes flavigula" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Callicebus ornatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;tabasco&#34;" ; Times: 2
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "spilogale angustifrons" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "belize and chiroptera" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Biltmore estate" ; Times: 1
+	Query: "specificepithet:vison family:Mustelidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "Peromyscus eremicus eremicus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+
+
+End of report.
