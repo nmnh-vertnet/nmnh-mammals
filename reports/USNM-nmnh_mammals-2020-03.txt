@@ -1,0 +1,2878 @@
+Report for Institution Code USNM, Resource nmnh_mammals
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4029
+Number of records retrieved in searches: 71901
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 43
+	Country: Canada ; Times: 8
+	Country: Unknown ; Times: 46
+	Country: Panama ; Times: 1
+	Country: Nepal ; Times: 2
+	Country: Costa Rica ; Times: 20
+	Country: France ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 9
+	Country: Argentina ; Times: 2
+	Country: Nigeria ; Times: 1
+	Country: Ecuador ; Times: 10
+	Country: Australia ; Times: 4
+	Country: Germany ; Times: 9
+	Country: Spain ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 2809
+	Country: Sweden ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Honduras ; Times: 2
+	Country: Mexico ; Times: 961
+	Country: United Kingdom ; Times: 33
+	Country: Colombia ; Times: 6
+	Country: Paraguay ; Times: 5
+	Country: Taiwan ; Times: 46
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 63
+	Date: 2020-03-30 ; Times: 344
+	Date: 2020-03-31 ; Times: 421
+	Date: 2020-03-02 ; Times: 98
+	Date: 2020-03-18 ; Times: 740
+	Date: 2020-03-19 ; Times: 155
+	Date: 2020-03-16 ; Times: 13
+	Date: 2020-03-23 ; Times: 236
+	Date: 2020-03-14 ; Times: 46
+	Date: 2020-03-15 ; Times: 17
+	Date: 2020-03-12 ; Times: 67
+	Date: 2020-03-13 ; Times: 41
+	Date: 2020-03-10 ; Times: 78
+	Date: 2020-03-08 ; Times: 15
+	Date: 2020-03-17 ; Times: 43
+	Date: 2020-03-06 ; Times: 64
+	Date: 2020-03-27 ; Times: 69
+	Date: 2020-03-26 ; Times: 189
+	Date: 2020-03-25 ; Times: 49
+	Date: 2020-03-24 ; Times: 339
+	Date: 2020-03-09 ; Times: 64
+	Date: 2020-03-22 ; Times: 87
+	Date: 2020-03-21 ; Times: 141
+	Date: 2020-03-20 ; Times: 338
+	Date: 2020-03-05 ; Times: 85
+	Date: 2020-03-04 ; Times: 39
+	Date: 2020-03-07 ; Times: 34
+	Date: 2020-03-11 ; Times: 33
+	Date: 2020-03-01 ; Times: 17
+	Date: 2020-03-29 ; Times: 49
+	Date: 2020-03-28 ; Times: 55
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:Dipodomys county:&#34;Inyo&#34; stateprovince:&#34;California&#34; year &gt;= 1890 year &lt;= 1920 institutioncode:USNM" ; Times: 1
+	Query: "(221266)" ; Times: 1
+	Query: "moschiola" ; Times: 1
+	Query: "otonyctomys nmnh" ; Times: 2
+	Query: "USNM 133011" ; Times: 1
+	Query: "Rhinolophus simulator" ; Times: 1
+	Query: "(200729)" ; Times: 1
+	Query: "Megaerops ecaudatus" ; Times: 2
+	Query: "USNM 71641" ; Times: 2
+	Query: "Pteropus vampyrus" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 2
+	Query: "Histiotus velatus" ; Times: 1
+	Query: "Eumops hansae" ; Times: 1
+	Query: "Triaenops afer" ; Times: 1
+	Query: "USNM 151177" ; Times: 2
+	Query: "USNM 151176" ; Times: 1
+	Query: "USNM 151175" ; Times: 2
+	Query: "Platyrrhinus brachycephalus" ; Times: 1
+	Query: "Vampyrodes caraccioli" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "&#34;Tacarcuna Village Camp&#34;" ; Times: 2
+	Query: "241453" ; Times: 1
+	Query: "120125" ; Times: 1
+	Query: "Myotis horsfieldii" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 3
+	Query: "189023 usnm" ; Times: 1
+	Query: "USNM 239910" ; Times: 1
+	Query: "448493" ; Times: 1
+	Query: "470891" ; Times: 2
+	Query: "USNM 215002" ; Times: 1
+	Query: "USNM 118712" ; Times: 1
+	Query: "Myotis pilosatibialis" ; Times: 1
+	Query: "genus:Cavia country:&#34;Peru&#34;" ; Times: 2
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "USNM 283686" ; Times: 2
+	Query: "R.57365" ; Times: 1
+	Query: "545899" ; Times: 1
+	Query: "Vampyressa melissa" ; Times: 1
+	Query: "Myotis fimbriatus" ; Times: 2
+	Query: "country:Ecuador scientificname:Hylaeamys perenensis " ; Times: 4
+	Query: "Nyctinomops macrotis" ; Times: 2
+	Query: "Lonchophylla concava" ; Times: 2
+	Query: "genus:Nanger specificepithet:soemmerringii" ; Times: 2
+	Query: "116305" ; Times: 1
+	Query: "USNM 325993" ; Times: 2
+	Query: "(222664)" ; Times: 1
+	Query: "Carollia manu" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "Rhinolophus eloquens" ; Times: 1
+	Query: "USNM 172917" ; Times: 2
+	Query: "USNM 172914" ; Times: 2
+	Query: "usnm 437246" ; Times: 1
+	Query: "USNM Mammals 458769" ; Times: 2
+	Query: "USNM 334394" ; Times: 2
+	Query: "139482" ; Times: 1
+	Query: "Pteropus mariannus" ; Times: 1
+	Query: "Platyrrhinus fusciventris" ; Times: 1
+	Query: "192084" ; Times: 1
+	Query: "128296" ; Times: 1
+	Query: "USNM 408230" ; Times: 2
+	Query: "USNM Mammals 458909" ; Times: 1
+	Query: "Cynopterus horsfieldii" ; Times: 1
+	Query: "Miniopterus manavi" ; Times: 2
+	Query: "128298" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "USNM 264016" ; Times: 2
+	Query: "USNM 249666" ; Times: 2
+	Query: "USNM 249664" ; Times: 2
+	Query: "USNM 313128" ; Times: 2
+	Query: "USNM 243992" ; Times: 2
+	Query: "USNM 1422" ; Times: 3
+	Query: "USNM 128432" ; Times: 2
+	Query: "USNM 181253" ; Times: 2
+	Query: "(219916)" ; Times: 1
+	Query: "Macroderma gigas" ; Times: 2
+	Query: "Sturnira angeli" ; Times: 1
+	Query: "Rhinolophus sedulus" ; Times: 1
+	Query: "404669" ; Times: 1
+	Query: "Tylonycteris pachypus" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "Rousettus leschenaultii" ; Times: 1
+	Query: "specificepithet:maniculatus locality:Ocotlan stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "USNM Mammals 458831" ; Times: 2
+	Query: "USNM 287013" ; Times: 1
+	Query: "USNM Mammals 458836" ; Times: 2
+	Query: "USNM 461574" ; Times: 1
+	Query: "usnm 413713" ; Times: 1
+	Query: "USNM 264479" ; Times: 2
+	Query: "country:Ecuador scientificname:Cebus macrocephalus " ; Times: 2
+	Query: "(224148)" ; Times: 2
+	Query: "USNM 216554" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "USNM 151540" ; Times: 2
+	Query: "USNM 250169" ; Times: 2
+	Query: "Platyrrhinus lineatus" ; Times: 1
+	Query: "USNM 261545" ; Times: 1
+	Query: "USNM 255423" ; Times: 2
+	Query: "USNM 255397" ; Times: 3
+	Query: "118930" ; Times: 1
+	Query: "USNM 255398" ; Times: 2
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 2
+	Query: "USNM 378170" ; Times: 1
+	Query: "Rhinolophus philippinensis" ; Times: 1
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "Syconycteris carolinae" ; Times: 1
+	Query: "USNM 198460" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "USNM 279295" ; Times: 4
+	Query: "Nycteris woodi" ; Times: 2
+	Query: "Mesophylla macconnelli" ; Times: 2
+	Query: "Nyctalus lasiopterus" ; Times: 2
+	Query: "294039" ; Times: 1
+	Query: "USNM 424960" ; Times: 1
+	Query: "Chaerephon nigeriae" ; Times: 1
+	Query: "USNM 214684" ; Times: 1
+	Query: "Platyrrhinus nitelinea" ; Times: 1
+	Query: "Hipposideros grandis" ; Times: 1
+	Query: "USNM 464670" ; Times: 1
+	Query: "catalognumber:514918 institutioncode:USNM" ; Times: 1
+	Query: "Hog deer" ; Times: 2
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "USNM 216133" ; Times: 1
+	Query: "USNM 213412" ; Times: 1
+	Query: "Pteropus admiralitatum" ; Times: 1
+	Query: "USNM 216135" ; Times: 1
+	Query: "Myotis findleyi" ; Times: 2
+	Query: "USNM Mammals 459880" ; Times: 3
+	Query: "robbins 4105" ; Times: 2
+	Query: "Hipposideros cineraceus" ; Times: 1
+	Query: "98368" ; Times: 2
+	Query: "USNM 381223" ; Times: 2
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "416186" ; Times: 1
+	Query: "USNM 135396" ; Times: 1
+	Query: "USNM Mammals 459954" ; Times: 1
+	Query: "USNM Mammals 459956" ; Times: 1
+	Query: "Megaderma spasma" ; Times: 2
+	Query: "USNM 381226" ; Times: 1
+	Query: "USNM Mammals 459952" ; Times: 1
+	Query: "USNM Mammals 459959" ; Times: 1
+	Query: "USNM 273136" ; Times: 4
+	Query: "Apomys hylocoetes" ; Times: 2
+	Query: "USNM 253051" ; Times: 2
+	Query: "Nycteris arge" ; Times: 2
+	Query: "Hipposideros calcaratus" ; Times: 1
+	Query: "USNM 413555" ; Times: 1
+	Query: "Anoura cultrata" ; Times: 1
+	Query: "Pipistrellus nathusii" ; Times: 1
+	Query: "Uroderma convexum" ; Times: 1
+	Query: "USNM 278810" ; Times: 1
+	Query: "USNM 278811" ; Times: 1
+	Query: "USNM 278812" ; Times: 1
+	Query: "Thoopterus nigrescens" ; Times: 1
+	Query: "Hypsugo musciculus" ; Times: 1
+	Query: "Glyphonycteris daviesi" ; Times: 1
+	Query: "228933" ; Times: 1
+	Query: "Nyctimene major" ; Times: 2
+	Query: "Rhinophylla fischerae" ; Times: 1
+	Query: "Pteropus tonganus" ; Times: 1
+	Query: "&#34;Mandinga&#34;" ; Times: 1
+	Query: "100570" ; Times: 1
+	Query: "USNM 177022" ; Times: 4
+	Query: "country:Ecuador scientificname:Tadarida brasiliensis " ; Times: 3
+	Query: "308482" ; Times: 1
+	Query: "109193" ; Times: 1
+	Query: "USNM 283679" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 2
+	Query: "USNM 200670" ; Times: 1
+	Query: "Pteropus speciosus" ; Times: 1
+	Query: "(221247)" ; Times: 1
+	Query: "USNM 445703" ; Times: 1
+	Query: "catalognumber:393278" ; Times: 2
+	Query: "Sphaerias blanfordi" ; Times: 1
+	Query: "USNM 418705" ; Times: 1
+	Query: "USNM 158001" ; Times: 4
+	Query: "USNM 328314" ; Times: 2
+	Query: "Kerivoula phalaena" ; Times: 2
+	Query: "(221249)" ; Times: 2
+	Query: "Aloe" ; Times: 1
+	Query: "Triaenops persicus" ; Times: 1
+	Query: "Murina puta" ; Times: 2
+	Query: "96091" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "USNM 126337" ; Times: 2
+	Query: "USNM 375920" ; Times: 2
+	Query: "50678" ; Times: 1
+	Query: "Tamias obscurus meridionalis" ; Times: 1
+	Query: "USNM 445677" ; Times: 3
+	Query: "country:Ecuador scientificname:Vicugna vicugna " ; Times: 2
+	Query: "USNM 524282" ; Times: 1
+	Query: "USNM 413622" ; Times: 1
+	Query: "USNM 445678" ; Times: 2
+	Query: "USNM 151169" ; Times: 2
+	Query: "genus:Platanista" ; Times: 1
+	Query: "213213" ; Times: 1
+	Query: "Pipistrellus coromandra" ; Times: 1
+	Query: "USNM 479592" ; Times: 1
+	Query: "241681" ; Times: 1
+	Query: "214080" ; Times: 1
+	Query: "genus:Tamandua hasmedia:1" ; Times: 3
+	Query: "specificepithet:xanthurus genus:Rattus" ; Times: 2
+	Query: "Kerivoula pellucida" ; Times: 2
+	Query: "(222663)" ; Times: 1
+	Query: "USNM 368603" ; Times: 1
+	Query: "USNM 368602" ; Times: 2
+	Query: "USNM 264316" ; Times: 2
+	Query: "USNM 264314" ; Times: 1
+	Query: "USNM 264315" ; Times: 3
+	Query: "Vespadelus douglasorum" ; Times: 1
+	Query: "country:Ecuador scientificname:Noctilio leporinus " ; Times: 1
+	Query: "Phyllops falcatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 1
+	Query: "USNM 283680" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "USNM 452068" ; Times: 2
+	Query: "USNM 215101" ; Times: 1
+	Query: "Lonchorhina fernandezi" ; Times: 2
+	Query: "USNM 111382" ; Times: 1
+	Query: "Peropteryx leucoptera" ; Times: 1
+	Query: "364928" ; Times: 1
+	Query: "364929" ; Times: 1
+	Query: "128468" ; Times: 1
+	Query: "Pteropus caniceps" ; Times: 1
+	Query: "Hipposideros turpis" ; Times: 1
+	Query: "USNM 80266" ; Times: 1
+	Query: "Vampyressa thyone" ; Times: 3
+	Query: "USNM 100208" ; Times: 1
+	Query: "country:Ecuador scientificname:Tayassu pecari " ; Times: 4
+	Query: "USNM Mammals 458933" ; Times: 1
+	Query: "USNM Mammals 458935" ; Times: 1
+	Query: "USNM Mammals 458934" ; Times: 1
+	Query: "USNM Mammals 458937" ; Times: 1
+	Query: "Chaerephon jobensis" ; Times: 1
+	Query: "314020" ; Times: 1
+	Query: "(222665)" ; Times: 1
+	Query: "554366" ; Times: 1
+	Query: "448145" ; Times: 2
+	Query: "554363" ; Times: 1
+	Query: "(219233)" ; Times: 1
+	Query: "Artibeus fimbriatus" ; Times: 1
+	Query: "USNM 264484" ; Times: 2
+	Query: "USNM 397523" ; Times: 2
+	Query: "USNM 414853" ; Times: 1
+	Query: "Cloeotis percivali" ; Times: 1
+	Query: "USNM 210975" ; Times: 2
+	Query: "USNM 12655" ; Times: 1
+	Query: "USNM 240052" ; Times: 2
+	Query: "USNM 264262" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "specificepithet:bidens genus:mesoplodon year &gt;= 1987 year &lt;= 1988" ; Times: 1
+	Query: "Miniopterus tao" ; Times: 2
+	Query: "genus:Pteropus country:&#34;Vietnam&#34;" ; Times: 1
+	Query: "USNM 127689" ; Times: 1
+	Query: "specificepithet:marsupialis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 3
+	Query: "specificepithet:palatina genus:neotoma" ; Times: 1
+	Query: "USNM 213953" ; Times: 2
+	Query: "Hipposideros lamottei" ; Times: 1
+	Query: "Epomophorus angolensis" ; Times: 1
+	Query: "USNM 255415" ; Times: 4
+	Query: "USNM 255411" ; Times: 2
+	Query: "176478" ; Times: 2
+	Query: "USNM 255413" ; Times: 1
+	Query: "USNM 255412" ; Times: 2
+	Query: "USNM 466223" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira erythromos " ; Times: 4
+	Query: "Platyrrhinus recifinus" ; Times: 1
+	Query: "112121" ; Times: 1
+	Query: "USNM 145441" ; Times: 2
+	Query: "Myotis brandtii" ; Times: 2
+	Query: "USNM 460654" ; Times: 1
+	Query: "Penthetor lucasi" ; Times: 1
+	Query: "Molossops mattogrossensis" ; Times: 2
+	Query: "Coelops robinsoni" ; Times: 1
+	Query: "Hipposideros abae" ; Times: 1
+	Query: "USNM 214850" ; Times: 1
+	Query: "Myotis ikonnikovi" ; Times: 2
+	Query: "USNM 181015" ; Times: 2
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus incarum " ; Times: 4
+	Query: "Pteronotus macleayii" ; Times: 1
+	Query: "Molossus aztecus" ; Times: 2
+	Query: "Chaerephon russatus" ; Times: 1
+	Query: "Pteropus aterrimus" ; Times: 1
+	Query: "Hipposideros pratti" ; Times: 1
+	Query: "Miniopterus griffithsi" ; Times: 2
+	Query: "USNM 128752" ; Times: 1
+	Query: "USNM 175157" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "Desmalopex leucopterus" ; Times: 1
+	Query: "USNM 145628" ; Times: 2
+	Query: "Histiotus montanus" ; Times: 1
+	Query: "USNM 145621" ; Times: 2
+	Query: "USNM 216120" ; Times: 2
+	Query: "USNM 12113" ; Times: 1
+	Query: "USNM 350050" ; Times: 2
+	Query: "USNM 216126" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Barbastella" ; Times: 1
+	Query: "USNM 213409" ; Times: 2
+	Query: "USNM 272745" ; Times: 2
+	Query: "catalognumber:434464" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "(224145)" ; Times: 1
+	Query: "Platyrrhinus matapalensis" ; Times: 1
+	Query: "Platalina genovensium" ; Times: 1
+	Query: "mustela frenata inyoensis" ; Times: 1
+	Query: "USNM Mammals 459963" ; Times: 1
+	Query: "Platyrrhinus aquilius" ; Times: 1
+	Query: "Nycteris macrotis" ; Times: 2
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 3
+	Query: "Artibeus fraterculus" ; Times: 1
+	Query: "USNM Mammals 573519" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Saccolaimus peli" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "Hipposideros speoris" ; Times: 1
+	Query: "USNM Mammals 459985" ; Times: 1
+	Query: "USNM 212044" ; Times: 1
+	Query: "Miniopterus africanus" ; Times: 2
+	Query: "Myotis auriculus" ; Times: 2
+	Query: "USNM 234543" ; Times: 2
+	Query: "Chironax melanocephalus" ; Times: 1
+	Query: "Pipistrellus hanaki" ; Times: 1
+	Query: "USNM 252669" ; Times: 1
+	Query: "110804" ; Times: 1
+	Query: "USNM 282119" ; Times: 1
+	Query: "USNM 421493" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 18
+	Query: "USNM 161967" ; Times: 1
+	Query: "USNM 254107" ; Times: 2
+	Query: "country:Ecuador scientificname:Tylomys mirae " ; Times: 2
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "USNM 406287" ; Times: 1
+	Query: "USNM 406284" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 2
+	Query: "Scotoecus hindei" ; Times: 1
+	Query: "USNM 308188" ; Times: 1
+	Query: "544864" ; Times: 1
+	Query: "Scotonycteris zenkeri" ; Times: 1
+	Query: "139485" ; Times: 1
+	Query: "USNM 460349" ; Times: 2
+	Query: "USNM 337028" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "Pteropus personatus" ; Times: 1
+	Query: "Pteropus gilliardorum" ; Times: 1
+	Query: "USNM 363715" ; Times: 2
+	Query: "USNM 311458" ; Times: 2
+	Query: "USNM 98075" ; Times: 2
+	Query: "USNM 275952" ; Times: 1
+	Query: "USNM 91622" ; Times: 1
+	Query: "Acerodon leucotis" ; Times: 1
+	Query: "101701" ; Times: 2
+	Query: "USNM Mammals 190142" ; Times: 1
+	Query: "cynomys county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "USNM 283995" ; Times: 1
+	Query: "Miniopterus natalensis" ; Times: 2
+	Query: "Rousettus celebensis" ; Times: 1
+	Query: "Scotoecus albigula" ; Times: 1
+	Query: "USNM 151158" ; Times: 2
+	Query: "Chiroderma trinitatum" ; Times: 1
+	Query: "Pteropus molossinus" ; Times: 1
+	Query: "USNM 173094" ; Times: 1
+	Query: "Lonchophylla robusta" ; Times: 2
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "USNM 383473" ; Times: 1
+	Query: "V 1132" ; Times: 1
+	Query: "Miniopterus paululus" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "USNM 71683" ; Times: 1
+	Query: "Vespadelus pumilus" ; Times: 1
+	Query: "specificepithet:truncatus genus:Tursiops stateprovince:&#34;Virginia&#34; institutioncode:USNM" ; Times: 1
+	Query: "USNM 550944" ; Times: 1
+	Query: "USNM 275485" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "180204" ; Times: 1
+	Query: "Pipistrellus abramus" ; Times: 1
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "Notopteris neocaledonica" ; Times: 2
+	Query: "Rhinolophus formosae" ; Times: 1
+	Query: "Mops spurrelli" ; Times: 2
+	Query: "Hesperoptenus tickelli" ; Times: 1
+	Query: "Tadarida teniotis" ; Times: 1
+	Query: "334746" ; Times: 1
+	Query: "USNM 479726" ; Times: 1
+	Query: "Histiotus humboldti" ; Times: 1
+	Query: "Vespadelus vulturnus" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "USNM 273478" ; Times: 2
+	Query: "Chilonatalus tumidifrons" ; Times: 1
+	Query: "specificepithet:truncatus genus:Tursiops stateprovince:&#34;Maryland&#34; institutioncode:USNM" ; Times: 1
+	Query: "279526" ; Times: 1
+	Query: "177115" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "country:Ecuador scientificname:Odocoileus peruvianus " ; Times: 6
+	Query: "CEBUS LIBIDINOSUS" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 9
+	Query: "USNM 91401" ; Times: 2
+	Query: "293448" ; Times: 1
+	Query: "128920" ; Times: 1
+	Query: "128925" ; Times: 1
+	Query: "Cynomops greenhalli" ; Times: 13
+	Query: "(217106)" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus fusciventris " ; Times: 2
+	Query: "Glauconycteris poensis" ; Times: 1
+	Query: "Rhinolophus inops" ; Times: 1
+	Query: "USNM 296537" ; Times: 1
+	Query: "USNM 182214" ; Times: 1
+	Query: "USNM 296532" ; Times: 1
+	Query: "Nycteris intermedia" ; Times: 2
+	Query: "Scotophilus nigrita" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 2
+	Query: "USNM 264072" ; Times: 1
+	Query: "USNM 216612" ; Times: 2
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "genus:Oreotragus specificepithet:oreotragus" ; Times: 2
+	Query: "Chaerephon shortridgei" ; Times: 1
+	Query: "USNM 358134" ; Times: 1
+	Query: "Taphozous theobaldi" ; Times: 1
+	Query: "Choeroniscus minor" ; Times: 1
+	Query: "(222662)" ; Times: 1
+	Query: "USNM 103419" ; Times: 1
+	Query: "USNM 359636" ; Times: 1
+	Query: "Molossus barnesi" ; Times: 2
+	Query: "USNM 359634" ; Times: 1
+	Query: "USNM 330110" ; Times: 2
+	Query: "USNM 455153" ; Times: 1
+	Query: "Philetor brachypterus" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "USNM 296286" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 3
+	Query: "Chaerephon leucogaster" ; Times: 1
+	Query: "USNM 240040" ; Times: 2
+	Query: "Hipposideros muscinus" ; Times: 1
+	Query: "USNM 214223" ; Times: 2
+	Query: "USNM 214222" ; Times: 2
+	Query: "thomomys umbrinus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "USNM 264106" ; Times: 2
+	Query: "catalognumber:307941 institutioncode:USNM" ; Times: 4
+	Query: "Myotis goudoti" ; Times: 2
+	Query: "Rhinolophus arcuatus" ; Times: 1
+	Query: "Taphozous kapalgensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 3
+	Query: "USNM 255403" ; Times: 2
+	Query: "Eumops nanus" ; Times: 1
+	Query: "USNM 255401" ; Times: 2
+	Query: "USNM 255406" ; Times: 2
+	Query: "catalognumber:163269" ; Times: 2
+	Query: "112332" ; Times: 1
+	Query: "USNM 108427" ; Times: 1
+	Query: "Glauconycteris alboguttata" ; Times: 1
+	Query: "Sphaeronycteris toxophyllum" ; Times: 1
+	Query: "128705" ; Times: 1
+	Query: "Aselliscus stoliczkanus" ; Times: 1
+	Query: "349249" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 3
+	Query: "USNM 216205" ; Times: 2
+	Query: "USNM 391352" ; Times: 1
+	Query: "USNM 213984" ; Times: 2
+	Query: "USNM 174147" ; Times: 1
+	Query: "USNM 391358" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 2
+	Query: "USNM 76665" ; Times: 2
+	Query: "Ichthyomys tweedii" ; Times: 5
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 10
+	Query: "Pteralopex flanneryi" ; Times: 1
+	Query: "USNM 385558" ; Times: 1
+	Query: "24177" ; Times: 2
+	Query: "USNM 179493" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys teleus " ; Times: 1
+	Query: "USNM 255663" ; Times: 1
+	Query: "USNM 336980" ; Times: 2
+	Query: "USNM 285679" ; Times: 2
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 13
+	Query: "(217271)" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma villosum " ; Times: 2
+	Query: "USNM 128747" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Phoniscus" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 2
+	Query: "(221281)" ; Times: 1
+	Query: "(216328)" ; Times: 1
+	Query: "&#34;Changena Camp&#34;" ; Times: 1
+	Query: "Miniopterus sororculus" ; Times: 2
+	Query: "Myotis montivagus" ; Times: 2
+	Query: "USNM 494395" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "USNM 158513" ; Times: 1
+	Query: "USNM 151627" ; Times: 1
+	Query: "USNM 158514" ; Times: 1
+	Query: "USNM 158515" ; Times: 1
+	Query: "sigmodon hispidus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "(224144)" ; Times: 1
+	Query: "Pipistrellus aero" ; Times: 1
+	Query: "USNM 253456" ; Times: 1
+	Query: "USNM Mammals 459976" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "Mops congicus" ; Times: 2
+	Query: "country:Ecuador scientificname:Saccopteryx leptura " ; Times: 1
+	Query: "Hypsugo bodenheimeri" ; Times: 1
+	Query: "289911" ; Times: 1
+	Query: "USNM 253855" ; Times: 2
+	Query: "USNM 23092" ; Times: 2
+	Query: "USNM 253852" ; Times: 2
+	Query: "USNM 212050" ; Times: 2
+	Query: "Lonchophylla inexpectata" ; Times: 2
+	Query: "USNM 212052" ; Times: 3
+	Query: "Thomomys baileyi (Texas)" ; Times: 2
+	Query: "USNM Mammals 459995" ; Times: 1
+	Query: "Hypsugo macrotis" ; Times: 1
+	Query: "Nyctereutes" ; Times: 5
+	Query: "Eptesicus brasiliensis" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "107116" ; Times: 1
+	Query: "107114" ; Times: 1
+	Query: "country:Ecuador scientificname:Aotus vociferans " ; Times: 4
+	Query: "USNM 180209" ; Times: 1
+	Query: "157834" ; Times: 1
+	Query: "USNM 453828" ; Times: 2
+	Query: "country:Ecuador scientificname:Eptesicus chiriquinus " ; Times: 1
+	Query: "Platyrrhinus ismaeli" ; Times: 1
+	Query: "USNM 180424" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 3
+	Query: "(222673)" ; Times: 2
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 2
+	Query: "Nyctiellus lepidus" ; Times: 2
+	Query: "USNM 155015" ; Times: 1
+	Query: "usnm 264114" ; Times: 1
+	Query: "Pteropus woodfordi" ; Times: 1
+	Query: "USNM 304191" ; Times: 2
+	Query: "Pteropus coxi" ; Times: 1
+	Query: "USNM 405702" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Kerivoula hardwickii" ; Times: 2
+	Query: "USNM 198753" ; Times: 1
+	Query: "USNM 190580" ; Times: 2
+	Query: "USNM 190582" ; Times: 2
+	Query: "USNM 337038" ; Times: 2
+	Query: "242437" ; Times: 1
+	Query: "USNM 458009" ; Times: 2
+	Query: "rattus hoogerwerfi" ; Times: 2
+	Query: "Craseonycteris thonglongyai" ; Times: 1
+	Query: "Dobsonia exoleta" ; Times: 1
+	Query: "USNM 141396" ; Times: 1
+	Query: "127286" ; Times: 1
+	Query: "Macroglossus sobrinus" ; Times: 2
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH (genus:Laephotis)" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis pernigra " ; Times: 4
+	Query: "93597" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus matapalensis " ; Times: 10
+	Query: "USNM 424556" ; Times: 1
+	Query: "CHIROPOTES SATANAS" ; Times: 2
+	Query: "Rhinolophus clivosus" ; Times: 1
+	Query: "Vespertilio cinnamomeus" ; Times: 1
+	Query: "USNM 331192" ; Times: 2
+	Query: "Rhinolophus acuminatus" ; Times: 1
+	Query: "USNM 437684" ; Times: 2
+	Query: "259851" ; Times: 1
+	Query: "catalognumber:316573" ; Times: 1
+	Query: "Hypsugo kitcheneri" ; Times: 1
+	Query: "Peropteryx trinitatis" ; Times: 1
+	Query: "USNM 325831" ; Times: 1
+	Query: "USNM 569672" ; Times: 1
+	Query: "Erophylla sezekorni" ; Times: 1
+	Query: "233995" ; Times: 1
+	Query: "Cynomops paranus" ; Times: 1
+	Query: "(493357)" ; Times: 1
+	Query: "Eumops trumbulli" ; Times: 1
+	Query: "USNM 181644" ; Times: 2
+	Query: "USNM 148670" ; Times: 1
+	Query: "specificepithet:concolor genus:nomascus" ; Times: 1
+	Query: "USNM 201325" ; Times: 2
+	Query: "Mimon bennettii" ; Times: 4
+	Query: "USNM 177760" ; Times: 1
+	Query: "USNM 422929" ; Times: 2
+	Query: "USNM 487317" ; Times: 1
+	Query: "Mops midas" ; Times: 2
+	Query: "420017" ; Times: 1
+	Query: "Eumops underwoodi" ; Times: 1
+	Query: "catalognumber:191872 institutioncode:USNM" ; Times: 1
+	Query: "241952" ; Times: 1
+	Query: "Histiotus magellanicus" ; Times: 1
+	Query: "241959" ; Times: 1
+	Query: "catalognumber:393355" ; Times: 4
+	Query: "USNM 105948" ; Times: 1
+	Query: "country:Ecuador scientificname:Mormoops megalophylla " ; Times: 3
+	Query: "Eumops patagonicus" ; Times: 1
+	Query: "genus:spermophilus institutioncode:USNM" ; Times: 1
+	Query: "Ametrida centurio" ; Times: 1
+	Query: "578948" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 5
+	Query: "USNM 201218" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 2
+	Query: "Cyttarops alecto" ; Times: 1
+	Query: "USNM 588017" ; Times: 1
+	Query: "120152" ; Times: 1
+	Query: "527623" ; Times: 1
+	Query: "527620" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Falsistrellus" ; Times: 2
+	Query: "Epomophorus minor" ; Times: 1
+	Query: "527628" ; Times: 1
+	Query: "recordedby:r johnstone" ; Times: 1
+	Query: "USNM 463984" ; Times: 1
+	Query: "Myotis moluccarum" ; Times: 2
+	Query: "USNM 396964" ; Times: 1
+	Query: "USNM 396963" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "USNM 449837" ; Times: 2
+	Query: "USNM 449838" ; Times: 2
+	Query: "Pteropus pelagicus" ; Times: 1
+	Query: "90583" ; Times: 1
+	Query: "Rhinolophus euryotis" ; Times: 1
+	Query: "USNM 131676" ; Times: 1
+	Query: "(219908)" ; Times: 1
+	Query: "USNM 131675" ; Times: 1
+	Query: "USNM 405707" ; Times: 1
+	Query: "135155" ; Times: 1
+	Query: "Saccolaimus saccolaimus" ; Times: 1
+	Query: "USNM 255271" ; Times: 1
+	Query: "USNM 103409" ; Times: 1
+	Query: "Lasiurus egregius" ; Times: 2
+	Query: "USNM 375999" ; Times: 1
+	Query: "USNM 103406" ; Times: 1
+	Query: "(219915)" ; Times: 1
+	Query: "(219231)" ; Times: 1
+	Query: "USNM 477584" ; Times: 1
+	Query: "254265" ; Times: 1
+	Query: "254264" ; Times: 1
+	Query: "USNM 172891" ; Times: 2
+	Query: "381065" ; Times: 1
+	Query: "Hypsugo crassulus" ; Times: 1
+	Query: "Hipposideros ater" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:USNM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 198457" ; Times: 1
+	Query: "USNM 359805" ; Times: 2
+	Query: "Pteropus insularis" ; Times: 1
+	Query: "USNM 254454" ; Times: 1
+	Query: "USNM 264113" ; Times: 1
+	Query: "USNM 472686" ; Times: 1
+	Query: "USNM 460350" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "country:Ecuador scientificname:Microsciurus mimulus " ; Times: 6
+	Query: "USNM 470421" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "USNM 484060" ; Times: 2
+	Query: "(234423)" ; Times: 1
+	Query: "USNM 484062" ; Times: 2
+	Query: "539127" ; Times: 1
+	Query: "Ariteus flavescens" ; Times: 1
+	Query: "USNM 337033" ; Times: 1
+	Query: "Nyctimene masalai" ; Times: 2
+	Query: "539122" ; Times: 1
+	Query: "USNM 116180" ; Times: 3
+	Query: "USNM 116185" ; Times: 1
+	Query: "Lasiurus ega" ; Times: 2
+	Query: "USNM 190219" ; Times: 1
+	Query: "USNM Mammals 573863" ; Times: 1
+	Query: "Natalus stramineus" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys silvestris " ; Times: 1
+	Query: "Tadarida aegyptiaca" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "&#34;Sibube&#34;" ; Times: 1
+	Query: "USNM 129577" ; Times: 2
+	Query: "USNM 484119" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "&#34;Momotombo&#34;" ; Times: 1
+	Query: "USNM 484117" ; Times: 1
+	Query: "USNM 331256" ; Times: 1
+	Query: "USNM 267025" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Scotophilus livingstonii" ; Times: 1
+	Query: "153573" ; Times: 1
+	Query: "(221280)" ; Times: 1
+	Query: "USNM 388663" ; Times: 1
+	Query: "USNM 15366" ; Times: 2
+	Query: "(216329)" ; Times: 2
+	Query: "genus:Caperea" ; Times: 1
+	Query: "USNM 354027" ; Times: 1
+	Query: "USNM 45505" ; Times: 2
+	Query: "Eonycteris robusta" ; Times: 1
+	Query: "(216310)" ; Times: 1
+	Query: "catalognumber:438700" ; Times: 1
+	Query: "AOTUS INFULATUS" ; Times: 1
+	Query: "Hipposideros maggietaylorae" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 2
+	Query: "Phyllonycteris aphylla" ; Times: 1
+	Query: "(224147)" ; Times: 1
+	Query: "176527" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "414605" ; Times: 1
+	Query: "USNM 253849" ; Times: 2
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 7
+	Query: "USNM 201690" ; Times: 1
+	Query: "USNM 253847" ; Times: 2
+	Query: "Lagenodelphis hosei" ; Times: 1
+	Query: "USNM Mammals 573530" ; Times: 1
+	Query: "(216303)" ; Times: 1
+	Query: "USNM 445442" ; Times: 3
+	Query: "USNM Mammals 573535" ; Times: 1
+	Query: "USNM Mammals 573534" ; Times: 1
+	Query: "USNM 234218" ; Times: 1
+	Query: "catalognumber:273292 institutioncode:USNM" ; Times: 3
+	Query: "Carollia castanea; Chocó" ; Times: 1
+	Query: "208604" ; Times: 1
+	Query: "USNM 175178" ; Times: 1
+	Query: "USNM 351814" ; Times: 2
+	Query: "Molossus pretiosus" ; Times: 2
+	Query: "usnm 243667" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 74
+	Query: "Miniopterus majori" ; Times: 2
+	Query: "Murina cyclotis" ; Times: 2
+	Query: "&#34;10.5 km. N, 9 km. E Matagalpa&#34;" ; Times: 1
+	Query: "&#34;La Avellana&#34;" ; Times: 2
+	Query: "USNM 327650" ; Times: 1
+	Query: "usnm 312015" ; Times: 1
+	Query: "USNM 148451" ; Times: 1
+	Query: "USNM 203515" ; Times: 1
+	Query: "country:Ecuador scientificname:Tonatia saurophila " ; Times: 2
+	Query: "genus:Manis" ; Times: 1
+	Query: "Dobsonia magna" ; Times: 1
+	Query: "Myotis macropus" ; Times: 2
+	Query: "USNM 276918" ; Times: 2
+	Query: "vntype:specimen genus:Bassariscus preparations:fluid" ; Times: 1
+	Query: "Pipistrellus angulatus" ; Times: 1
+	Query: "USNM 170821" ; Times: 1
+	Query: "USNM 479383" ; Times: 1
+	Query: "(222661)" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "USNM 355048" ; Times: 1
+	Query: "110689" ; Times: 2
+	Query: "159573" ; Times: 1
+	Query: "USNM 79141" ; Times: 1
+	Query: "Emballonura raffrayana" ; Times: 1
+	Query: "catalognumber:67001 institutioncode:USNM" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "Pteropus howensis" ; Times: 1
+	Query: "USNM 221902" ; Times: 2
+	Query: "Rhinolophus macrotis" ; Times: 1
+	Query: "377953" ; Times: 1
+	Query: "USNM 360593" ; Times: 2
+	Query: "241030" ; Times: 1
+	Query: "USNM 360597" ; Times: 2
+	Query: "(216329])" ; Times: 1
+	Query: "Myotis frater" ; Times: 2
+	Query: "&#34;Buena Vista Peninsula, 1.75 km. NNW Frijoles&#34;" ; Times: 3
+	Query: "USNM 483874" ; Times: 1
+	Query: "USNM 483875" ; Times: 1
+	Query: "USNM 442857" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 6
+	Query: "usnm 6653" ; Times: 1
+	Query: "Nyctalus noctula" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 1
+	Query: "USNM 71777" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus anderseni " ; Times: 1
+	Query: "USNM 191407" ; Times: 2
+	Query: "Cryptonanus guahybae" ; Times: 1
+	Query: "Pteropus giganteus" ; Times: 1
+	Query: "USNM 367477" ; Times: 1
+	Query: "USNM 211297" ; Times: 1
+	Query: "Harpiocephalus mordax" ; Times: 1
+	Query: "USNM 452181" ; Times: 2
+	Query: "USNM 275590" ; Times: 2
+	Query: "USNM 334750" ; Times: 2
+	Query: "297033" ; Times: 1
+	Query: "Hipposideros pelingensis" ; Times: 1
+	Query: "Hipposideros dyacorum" ; Times: 1
+	Query: "USNM 424549" ; Times: 1
+	Query: "Hipposideros cyclops" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus innoxius " ; Times: 6
+	Query: "genus:mephitis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "586333" ; Times: 1
+	Query: "586335" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "USNM 462660" ; Times: 1
+	Query: "Stenoderma rufum" ; Times: 1
+	Query: "USNM 399922" ; Times: 1
+	Query: "Chilonatalus micropus" ; Times: 1
+	Query: "USNM 222502" ; Times: 1
+	Query: "USNM 457828" ; Times: 1
+	Query: "USNM 110026" ; Times: 4
+	Query: "USNM 468742" ; Times: 2
+	Query: "Ptenochirus minor" ; Times: 1
+	Query: "559202" ; Times: 1
+	Query: "USNM 372481" ; Times: 2
+	Query: "USNM Mammals 458783" ; Times: 1
+	Query: "Eonycteris spelaea" ; Times: 1
+	Query: "Harpyionycteris celebensis" ; Times: 1
+	Query: "Pteropus capistratus" ; Times: 1
+	Query: "Mormopterus kalinowskii" ; Times: 2
+	Query: "Falsistrellus tasmaniensis" ; Times: 1
+	Query: "332308" ; Times: 1
+	Query: "Cynomops planirostris" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus bondae " ; Times: 2
+	Query: "332303" ; Times: 1
+	Query: "332302" ; Times: 1
+	Query: "332305" ; Times: 1
+	Query: "332304" ; Times: 3
+	Query: "332307" ; Times: 1
+	Query: "332306" ; Times: 1
+	Query: "(219230)" ; Times: 1
+	Query: "Vespertilio sinensis" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "128542" ; Times: 1
+	Query: "USNM 353481" ; Times: 1
+	Query: "Rhinophylla pumilio" ; Times: 1
+	Query: "Nyctinomops aurispinosus" ; Times: 2
+	Query: "Neoromicia zuluensis" ; Times: 2
+	Query: "141496" ; Times: 1
+	Query: "ozotoceros bezoarticus" ; Times: 1
+	Query: "Hipposideros larvatus" ; Times: 1
+	Query: "USNM Mammals 458871" ; Times: 1
+	Query: "USNM Mammals 458872" ; Times: 1
+	Query: "USNM 484058" ; Times: 2
+	Query: "572770" ; Times: 1
+	Query: "USNM 131110" ; Times: 1
+	Query: "Hipposideros vittatus" ; Times: 1
+	Query: "Eidolon helvum" ; Times: 1
+	Query: "Emballonura alecto" ; Times: 1
+	Query: "547434" ; Times: 1
+	Query: "USNM 88179" ; Times: 2
+	Query: "USNM 286344" ; Times: 2
+	Query: "S. coeruleoalba" ; Times: 1
+	Query: "Cynopterus sphinx" ; Times: 1
+	Query: "ichthyomys nmnh" ; Times: 3
+	Query: "thomomys baileyi" ; Times: 7
+	Query: "559178" ; Times: 1
+	Query: "Rhinolophus fumigatus" ; Times: 1
+	Query: "USNM 179014" ; Times: 2
+	Query: "USNM 377528" ; Times: 1
+	Query: "USNM 333808" ; Times: 2
+	Query: "Rhinolophus pearsonii" ; Times: 1
+	Query: "349286" ; Times: 1
+	Query: "349287" ; Times: 1
+	Query: "Eumops dabbenei" ; Times: 1
+	Query: "catalognumber:525557" ; Times: 1
+	Query: "Rousettus obliviosus" ; Times: 1
+	Query: "USNM 218397" ; Times: 1
+	Query: "Phyllostomus elongatus" ; Times: 1
+	Query: "USNM 484129" ; Times: 1
+	Query: "221987" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 2
+	Query: "Leptonycteris curasoae" ; Times: 2
+	Query: "USNM 385531" ; Times: 1
+	Query: "USNM 470727" ; Times: 1
+	Query: "USNM 125343" ; Times: 1
+	Query: "USNM 128760" ; Times: 1
+	Query: "USNM 331220" ; Times: 1
+	Query: "USNM 377237" ; Times: 2
+	Query: "124678 usnm" ; Times: 2
+	Query: "Epomops buettikoferi" ; Times: 1
+	Query: "genus:Colomys institutioncode:USNM" ; Times: 1
+	Query: "USNM 216178" ; Times: 2
+	Query: "Murina peninsularis" ; Times: 2
+	Query: "USNM 336232" ; Times: 1
+	Query: "USNM 15375" ; Times: 1
+	Query: "specificepithet:truncatus genus:Tursiops stateprovince:&#34;Maryland&#34; preparations:skull institutioncode:USNM" ; Times: 1
+	Query: "USNM 216170" ; Times: 3
+	Query: "Hipposideros cervinus" ; Times: 1
+	Query: "Phloeomys cumingi" ; Times: 2
+	Query: "(216299)" ; Times: 1
+	Query: "USNM 128783" ; Times: 1
+	Query: "USNM 329487" ; Times: 1
+	Query: "USNM 329484" ; Times: 1
+	Query: "USNM 181112" ; Times: 2
+	Query: "Saccolaimus flaviventris" ; Times: 1
+	Query: "ALOUATTA BELZEBUL" ; Times: 1
+	Query: "USNM 368034" ; Times: 2
+	Query: "USNM 459370" ; Times: 2
+	Query: "USNM 375740" ; Times: 2
+	Query: "USNM 356806" ; Times: 1
+	Query: "(224146)" ; Times: 1
+	Query: "USNM 89025" ; Times: 1
+	Query: "252563" ; Times: 1
+	Query: "USNM 109667" ; Times: 1
+	Query: "USNM 116263" ; Times: 2
+	Query: "USNM 212409" ; Times: 1
+	Query: "USNM 279102" ; Times: 1
+	Query: "USNM Mammals 573526" ; Times: 1
+	Query: "USNM 461572" ; Times: 2
+	Query: "USNM Mammals 573520" ; Times: 2
+	Query: "(216300)" ; Times: 1
+	Query: "Mops sarasinorum" ; Times: 2
+	Query: "Dobsonia praedatrix" ; Times: 1
+	Query: "catalognumber:293184" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "genus:Mesoplodon county:&#34;Monroe&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "571356 usnm" ; Times: 2
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 3
+	Query: "Nyctimene albiventer" ; Times: 2
+	Query: "usnm 243670" ; Times: 1
+	Query: "Mops thersites" ; Times: 2
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 9
+	Query: "USNM 476449" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 2
+	Query: "peromyscus truei county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "USNM 401264" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "Scleronycteris ega" ; Times: 1
+	Query: "USNM 351774" ; Times: 1
+	Query: "USNM 460376" ; Times: 2
+	Query: "USNM 460374" ; Times: 2
+	Query: "USNM 460375" ; Times: 2
+	Query: "Lasiurus varius" ; Times: 2
+	Query: "USNM 190566" ; Times: 2
+	Query: "Harpiocephalus harpia" ; Times: 1
+	Query: "Micronycteris megalotis" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 6
+	Query: "225184" ; Times: 1
+	Query: "USNM 275308" ; Times: 2
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "USNM 327795" ; Times: 2
+	Query: "151344" ; Times: 1
+	Query: "USNM 159448" ; Times: 3
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 1
+	Query: "USNM 95517" ; Times: 2
+	Query: "USNM 461628" ; Times: 2
+	Query: "159506" ; Times: 1
+	Query: "USNM 355056" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 2
+	Query: "genus:Hystrix specificepithet:cristata" ; Times: 2
+	Query: "USNM 445637" ; Times: 1
+	Query: "151528" ; Times: 1
+	Query: "USNM 445633" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 3
+	Query: "USNM 256775" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "Rhinolophus coelophyllus" ; Times: 1
+	Query: "USNM 166678" ; Times: 1
+	Query: "Artibeus amplus" ; Times: 1
+	Query: "(221276)" ; Times: 1
+	Query: "USNM 376060" ; Times: 2
+	Query: "331837" ; Times: 1
+	Query: "Nyctophilus timoriensis" ; Times: 1
+	Query: "413629" ; Times: 1
+	Query: "USNM 256797" ; Times: 1
+	Query: "USNM 201343" ; Times: 2
+	Query: "USNM 182804" ; Times: 2
+	Query: "USNM 125505" ; Times: 1
+	Query: "Nyctimene draconilla" ; Times: 2
+	Query: "67214" ; Times: 1
+	Query: "USNM 399925" ; Times: 1
+	Query: "country:Ecuador scientificname:Coendou prehensilis " ; Times: 6
+	Query: "USNM 308447" ; Times: 2
+	Query: "Scotoecus albofuscus" ; Times: 1
+	Query: "Vespertilio murinus" ; Times: 2
+	Query: "Eptesicus innoxius" ; Times: 1
+	Query: "USNM 385958" ; Times: 1
+	Query: "USNM USNM 148451" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "Rhinolophus landeri" ; Times: 1
+	Query: "297006" ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 1
+	Query: "USNM 424554" ; Times: 1
+	Query: "Myotis elegans" ; Times: 4
+	Query: "USNM 415676" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "172725" ; Times: 1
+	Query: "Murina suilla" ; Times: 2
+	Query: "240990" ; Times: 1
+	Query: "240991" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "family:canidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Emballonura dianae" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "USNM 569657" ; Times: 1
+	Query: "298167" ; Times: 1
+	Query: "578988" ; Times: 1
+	Query: "Myzopoda aurita" ; Times: 2
+	Query: "377053" ; Times: 2
+	Query: "USNM 237586" ; Times: 2
+	Query: "Lasiurus degelidus" ; Times: 2
+	Query: "USNM 275479" ; Times: 1
+	Query: "USNM 275478" ; Times: 1
+	Query: "Platyrrhinus dorsalis" ; Times: 1
+	Query: "USNM 275475" ; Times: 2
+	Query: "USNM 483644" ; Times: 1
+	Query: "USNM 483641" ; Times: 1
+	Query: "Lasiurus minor" ; Times: 2
+	Query: "USNM 275473" ; Times: 2
+	Query: "(217114)" ; Times: 1
+	Query: "catalognumber:444556 institutioncode:USNM" ; Times: 2
+	Query: "257917" ; Times: 1
+	Query: "Rhinopoma cystops" ; Times: 1
+	Query: "USNM 131927" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis family:Didelphidae county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Nyctophilus microtis" ; Times: 1
+	Query: "Eptesicus diminutus" ; Times: 1
+	Query: "Rhinolophus rufus" ; Times: 2
+	Query: "Artibeus inopinatus" ; Times: 1
+	Query: "USNM Mammals 458840" ; Times: 2
+	Query: "USNM Mammals 458842" ; Times: 1
+	Query: "USNM Mammals 458845" ; Times: 2
+	Query: "USNM 296257" ; Times: 1
+	Query: "USNM Mammals 458847" ; Times: 1
+	Query: "USNM Mammals 458846" ; Times: 1
+	Query: "USNM 131108" ; Times: 1
+	Query: "rattus steini" ; Times: 1
+	Query: "country:Ecuador scientificname:Odocoileus virginianus " ; Times: 4
+	Query: "Pteropus hypomelanus" ; Times: 1
+	Query: "Scotophilus dinganii" ; Times: 1
+	Query: "usnm 102824" ; Times: 1
+	Query: "catalognumber:163256" ; Times: 1
+	Query: "Hipposideros curtus" ; Times: 1
+	Query: "301544" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "Myotis muricola" ; Times: 1
+	Query: "192730" ; Times: 1
+	Query: "USNM 381286" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "usnm 74342" ; Times: 1
+	Query: "Myotis bechsteinii" ; Times: 2
+	Query: "Nyctimene cephalotes" ; Times: 2
+	Query: "genus:Gazella specificepithet:dorcas" ; Times: 3
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "USNM 368138" ; Times: 2
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 25
+	Query: "349291" ; Times: 1
+	Query: "Rhinolophus borneensis" ; Times: 1
+	Query: "USNM 484131" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Neoromicia helios" ; Times: 2
+	Query: "Nyctalus aviator" ; Times: 2
+	Query: "USNM 213844" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllotis andium " ; Times: 1
+	Query: "specificepithet:cinerea genus:aonyx institutioncode:USNM" ; Times: 1
+	Query: "USNM 216169" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "USNM 102008" ; Times: 1
+	Query: "USNM 85471" ; Times: 2
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "USNM 250209" ; Times: 2
+	Query: "Myotis atacamensis" ; Times: 2
+	Query: "catalognumber:412765" ; Times: 6
+	Query: "291165" ; Times: 1
+	Query: "Myotis davidii" ; Times: 2
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Scotorepens" ; Times: 1
+	Query: "Nanonycteris veldkampii" ; Times: 2
+	Query: "catalognumber:412617" ; Times: 1
+	Query: "554486" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 3
+	Query: "495024" ; Times: 1
+	Query: "Anoura latidens" ; Times: 1
+	Query: "Hipposideros pomona" ; Times: 1
+	Query: "Molossus coibensis" ; Times: 2
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH (genus:Vespertilio)" ; Times: 1
+	Query: "168780" ; Times: 1
+	Query: "Nycteris grandis" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Nyctophilus arnhemensis" ; Times: 1
+	Query: "USNM 253860" ; Times: 2
+	Query: "USNM 250844" ; Times: 2
+	Query: "252351" ; Times: 1
+	Query: "156080" ; Times: 1
+	Query: "USNM 308788" ; Times: 1
+	Query: "Rhinolophus capensis" ; Times: 1
+	Query: "Hypsugo alaschanicus" ; Times: 1
+	Query: "156088" ; Times: 1
+	Query: "123889" ; Times: 1
+	Query: "Sturnira luisi" ; Times: 1
+	Query: "Megaloglossus woermanni" ; Times: 2
+	Query: "Rousettus madagascariensis" ; Times: 1
+	Query: "USNM 153755" ; Times: 2
+	Query: "USNM 213411" ; Times: 2
+	Query: "Phoniscus jagorii" ; Times: 1
+	Query: "(224152)" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "Pteropus pelewensis" ; Times: 1
+	Query: "USNM 279021" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 2
+	Query: "USNM 330897" ; Times: 1
+	Query: "USNM 330896" ; Times: 2
+	Query: "USNM 240295" ; Times: 1
+	Query: "USNM 300424" ; Times: 1
+	Query: "USNM 243804" ; Times: 2
+	Query: "genus:Madoqua specificepithet:guentheri" ; Times: 2
+	Query: "USNM 460387" ; Times: 1
+	Query: "USNM 460385" ; Times: 5
+	Query: "Natalus lanatus" ; Times: 2
+	Query: "Pipistrellus nanulus" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 5
+	Query: "(221248)" ; Times: 1
+	Query: "234782" ; Times: 1
+	Query: "(KT876835)" ; Times: 1
+	Query: "Rhinopoma microphyllum" ; Times: 1
+	Query: "Myotis daubentonii" ; Times: 4
+	Query: "country:Ecuador scientificname:Mustela frenata " ; Times: 2
+	Query: "country:Ecuador scientificname:Diphylla ecaudata " ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "USNM 275310" ; Times: 2
+	Query: "stateprovince:&#34;california&#34; recordedby:hawes" ; Times: 1
+	Query: "Sturnira aratathomasi" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nyctophilus" ; Times: 3
+	Query: "66066" ; Times: 1
+	Query: "Hipposideros semoni" ; Times: 1
+	Query: "USNM 375957" ; Times: 2
+	Query: "Pteropus pumilus" ; Times: 1
+	Query: "Batomys uragon" ; Times: 4
+	Query: "429109" ; Times: 1
+	Query: "USNM 102825" ; Times: 1
+	Query: "300716" ; Times: 1
+	Query: "Hipposideros fulvus" ; Times: 1
+	Query: "USNM 283718" ; Times: 2
+	Query: "genus:taxidea county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "USNM 256764" ; Times: 1
+	Query: "USNM 256762" ; Times: 1
+	Query: "Rhogeessa gracilis" ; Times: 1
+	Query: "USNM 475446" ; Times: 2
+	Query: "Taphozous mauritianus" ; Times: 1
+	Query: "USNM 376058" ; Times: 2
+	Query: "genus:urocitellus institutioncode:USNM" ; Times: 1
+	Query: "Lichonycteris obscura" ; Times: 2
+	Query: "358140" ; Times: 1
+	Query: "USNM 376050" ; Times: 2
+	Query: "USNM 162561" ; Times: 1
+	Query: "USNM 161141" ; Times: 2
+	Query: "USNM 161143" ; Times: 2
+	Query: "77071" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 3
+	Query: "Scotoecus pallidus" ; Times: 1
+	Query: "Myotis mystacinus" ; Times: 4
+	Query: "(224141)" ; Times: 1
+	Query: "Nyctalus leisleri" ; Times: 2
+	Query: "&#34;Candelaria&#34;" ; Times: 1
+	Query: "Ichthyomys" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 3
+	Query: "154497" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 2
+	Query: "USNM 415668" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:pteronura catalognumber:304663 institutioncode:USNM" ; Times: 1
+	Query: "Vampyressa elisabethae" ; Times: 1
+	Query: "USNM 373019" ; Times: 2
+	Query: "genus:Gazella specificepithet:spekei" ; Times: 2
+	Query: "Micronycteris minuta" ; Times: 2
+	Query: "Epomophorus labiatus" ; Times: 1
+	Query: "Cephalorhynchus heavisidii" ; Times: 1
+	Query: "country:Ecuador scientificname:Feresa attenuata " ; Times: 1
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "545900" ; Times: 1
+	Query: "Pipistrellus rueppellii" ; Times: 1
+	Query: "Myotis nattereri" ; Times: 2
+	Query: "Pteropus pselaphon" ; Times: 1
+	Query: "USNM 237577" ; Times: 1
+	Query: "USNM 237574" ; Times: 1
+	Query: "country:Ecuador scientificname:Lonchophylla chocoana " ; Times: 2
+	Query: "specificepithet:lutris genus:Enhydra institutioncode:USNM" ; Times: 3
+	Query: "236909" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "USNM 452725" ; Times: 2
+	Query: "USNM 60521" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus year &lt;= 1930" ; Times: 2
+	Query: "genus:Mustela county:&#34;Box Elder&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Pipistrellus paterculus" ; Times: 1
+	Query: "USNM 178071" ; Times: 1
+	Query: "robbins genus:gerbillus year &gt;= 1968 year &lt;= 1971" ; Times: 4
+	Query: "F. domesticus" ; Times: 1
+	Query: "Aethalops alecto" ; Times: 1
+	Query: "Anoura luismanueli" ; Times: 1
+	Query: "USNM 389276" ; Times: 2
+	Query: "Cynomops abrasus" ; Times: 1
+	Query: "USNM Mammals 449515" ; Times: 2
+	Query: "USNM Mammals 449517" ; Times: 2
+	Query: "USNM Mammals 449516" ; Times: 1
+	Query: "134928" ; Times: 1
+	Query: "162520" ; Times: 1
+	Query: "USNM Mammals 458857" ; Times: 1
+	Query: "USNM Mammals 458853" ; Times: 2
+	Query: "USNM 111792" ; Times: 3
+	Query: "Rhinophylla alethina" ; Times: 1
+	Query: "Cynomops mexicanus" ; Times: 3
+	Query: "USNM Mammals 458858" ; Times: 1
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "USNM 116688" ; Times: 1
+	Query: "USNM 12759" ; Times: 1
+	Query: "Nycteris javanica" ; Times: 2
+	Query: "377602" ; Times: 1
+	Query: "USNM 77004" ; Times: 2
+	Query: "USNM 243118" ; Times: 2
+	Query: "USNM 249195" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela institutioncode:USNM" ; Times: 2
+	Query: "USNM 212051" ; Times: 2
+	Query: "USNM 243112" ; Times: 2
+	Query: "USNM 449863" ; Times: 1
+	Query: "113516" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "539141" ; Times: 1
+	Query: "PDH 3171" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma magnirostrum " ; Times: 1
+	Query: "(202384)" ; Times: 1
+	Query: "Rhinolophus deckenii" ; Times: 1
+	Query: "Chiroderma villosum" ; Times: 1
+	Query: "USNM 217176" ; Times: 1
+	Query: "USNM 368126" ; Times: 2
+	Query: "USNM 368125" ; Times: 2
+	Query: "USNM 179180" ; Times: 2
+	Query: "USNM 315018" ; Times: 2
+	Query: "Arielulus circumdatus" ; Times: 1
+	Query: "Sturnira hondurensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 3
+	Query: "Scotozous dormeri" ; Times: 1
+	Query: "USNM 172400" ; Times: 1
+	Query: "113603" ; Times: 1
+	Query: "USNM 284728" ; Times: 1
+	Query: "174637" ; Times: 1
+	Query: "USNM 216151" ; Times: 1
+	Query: "Hypsugo savii" ; Times: 1
+	Query: "USNM 178928" ; Times: 2
+	Query: "USNM 145509" ; Times: 1
+	Query: "USNM 306958" ; Times: 2
+	Query: "USNM 216158" ; Times: 1
+	Query: "USNM 178927" ; Times: 2
+	Query: "USNM 354073" ; Times: 1
+	Query: "USNM 404215" ; Times: 4
+	Query: "USNM 404214" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira bidens " ; Times: 3
+	Query: "Myotis macrodactylus" ; Times: 2
+	Query: "Macrophyllum macrophyllum" ; Times: 2
+	Query: "16664" ; Times: 1
+	Query: "554494" ; Times: 1
+	Query: "554499" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "USNM 1137" ; Times: 1
+	Query: "Hipposideros lylei" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "USNM 279166" ; Times: 2
+	Query: "USNM 279165" ; Times: 1
+	Query: "USNM 395923" ; Times: 1
+	Query: "Rhinolophus alcyone" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 1
+	Query: "USNM 354109" ; Times: 1
+	Query: "genus:Ammodorcas specificepithet:clarkei" ; Times: 2
+	Query: "(216306)" ; Times: 1
+	Query: "catalognumber:163272" ; Times: 1
+	Query: "Vespadelus caurinus" ; Times: 1
+	Query: "Cynopterus titthaecheilus" ; Times: 1
+	Query: "USNM 378864" ; Times: 1
+	Query: "Pteropus seychellensis" ; Times: 1
+	Query: "Kerivoula minuta" ; Times: 2
+	Query: "Megaderma lyra" ; Times: 2
+	Query: "Lonchophylla dekeyseri" ; Times: 2
+	Query: "(224153)" ; Times: 1
+	Query: "USNM 293418" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "388548" ; Times: 1
+	Query: "Pipistrellus deserti" ; Times: 1
+	Query: "USNM 167412" ; Times: 1
+	Query: "USNM 460394" ; Times: 1
+	Query: "USNM 304150" ; Times: 1
+	Query: "institutioncode:AMNH OR ANSP OR ASNHC OR AUM OR BLB OR BSNS OR BUMMC OR BYU OR CAS OR CCBER OR CHAS OR CLO OR CM OR COA OR CRCM OR CSUC OR CSULB OR CUMV OR DMNH OR DMNS OR EMU OR FHSM OR FLARCH OR FMNH OR GSU OR HSU OR ISM OR ISU OR KNWR OR KSTC OR KU OR LACM OR LSUMZ OR MCZ OR MLZ OR MMNH OR MMNS OR MPM OR MSB OR MSU OR MSUM OR MVZ OR NCSM OR NMMNH OR OS OR OSUM OR PMNS OR PSM OR SBMNH OR SKNHM OR SLU OR SUI OR TCWC OR TNHC OR TTRS OR TTU OR TU OR UA OR UAFMC OR UAM OR UAZ OR UCLA OR UCM OR UCMP OR UCONN OR UF OR UMMZ OR UMNH UMZC OR UNR OR USNM OR UTA OR UTEP OR UWBM OR UWFC OR UWYMV OR VMNH OR WFVZ OR WNMU OR WPM RHINOLOPHIDAE" ; Times: 1
+	Query: "111297" ; Times: 1
+	Query: "USNM 276926" ; Times: 2
+	Query: "USNM 276924" ; Times: 2
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "USNM 276922" ; Times: 2
+	Query: "catalognumber:589235" ; Times: 1
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "&#34;Jaqué&#34;" ; Times: 1
+	Query: "USNM 134822" ; Times: 1
+	Query: "USNM 309536" ; Times: 2
+	Query: "Miniopterus macrocneme" ; Times: 2
+	Query: "212414" ; Times: 1
+	Query: "shark vntype:observation hasmedia:1" ; Times: 1
+	Query: "Promops nasutus" ; Times: 1
+	Query: "family:Suidae preparations:skeleton" ; Times: 2
+	Query: "Hipposideros galeritus" ; Times: 1
+	Query: "Nycteris major" ; Times: 2
+	Query: "Lampronycteris brachyotis" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 3
+	Query: "Murina fusca" ; Times: 2
+	Query: "Melonycteris melanops" ; Times: 2
+	Query: "USNM 200765" ; Times: 1
+	Query: "USNM 200766" ; Times: 2
+	Query: "USNM 405637" ; Times: 2
+	Query: "Laephotis namibensis" ; Times: 2
+	Query: "368577" ; Times: 1
+	Query: "genus:Litocranius specificepithet:walleri" ; Times: 2
+	Query: "Abrothrix lanosus" ; Times: 4
+	Query: "Pteropus voeltzkowi" ; Times: 1
+	Query: "(208552)" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "88872" ; Times: 1
+	Query: "Eptesicus nasutus" ; Times: 1
+	Query: "USNM 162590" ; Times: 1
+	Query: "358139" ; Times: 1
+	Query: "specificepithet:bidens genus:mesoplodon" ; Times: 20
+	Query: "USNM 349656" ; Times: 1
+	Query: "USNM 215095" ; Times: 1
+	Query: "Rhinolophus rex" ; Times: 1
+	Query: "USNM 159991" ; Times: 2
+	Query: "USNM 215093" ; Times: 1
+	Query: "(221278)" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "527679" ; Times: 1
+	Query: "USNM 465254" ; Times: 1
+	Query: "Taphozous longimanus" ; Times: 2
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Glauconycteris" ; Times: 1
+	Query: "USNM 219241" ; Times: 3
+	Query: "82768" ; Times: 1
+	Query: "USNM 264972" ; Times: 1
+	Query: "USNM 264970" ; Times: 1
+	Query: "USNM 264971" ; Times: 1
+	Query: "Nyctimene cyclotis" ; Times: 2
+	Query: "110524" ; Times: 1
+	Query: "Miniopterus australis" ; Times: 1
+	Query: "160951" ; Times: 1
+	Query: "USNM 133080" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus nitelinea " ; Times: 3
+	Query: "98369" ; Times: 2
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Glossophaga morenoi" ; Times: 1
+	Query: "recordnumber:1422 institutioncode:USNM" ; Times: 1
+	Query: "Scotoecus hirundo" ; Times: 1
+	Query: "Myotis capaccinii" ; Times: 2
+	Query: "Neoromicia tenuipinnis" ; Times: 2
+	Query: "cavia tschudii" ; Times: 3
+	Query: "Miniopterus petersoni" ; Times: 2
+	Query: "USNM 460149" ; Times: 2
+	Query: "Rhinolophus denti" ; Times: 1
+	Query: "USNM 462638" ; Times: 1
+	Query: "Centronycteris centralis" ; Times: 1
+	Query: "Saccopteryx canescens" ; Times: 1
+	Query: "Nycteris gambiensis" ; Times: 2
+	Query: "Balionycteris maculata" ; Times: 1
+	Query: "559153" ; Times: 1
+	Query: "Myotis levis" ; Times: 2
+	Query: "bradypus variegatus" ; Times: 6
+	Query: "559143" ; Times: 1
+	Query: "Pteropus rayneri" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 2
+	Query: "USNM 211394" ; Times: 2
+	Query: "USNM 334898" ; Times: 2
+	Query: "USNM 248743" ; Times: 1
+	Query: "USNM 121192" ; Times: 1
+	Query: "USNM 325614" ; Times: 2
+	Query: "USNM 111093" ; Times: 1
+	Query: "USNM 119050" ; Times: 1
+	Query: "USNM 327988" ; Times: 2
+	Query: "Mops niveiventer" ; Times: 2
+	Query: "USNM 468974" ; Times: 1
+	Query: "Rhinolophus euryale" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus locality:Stilwell stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "259122" ; Times: 1
+	Query: "Pipistrellus rusticus" ; Times: 1
+	Query: "Myotis leibii" ; Times: 1
+	Query: "USNM 170296" ; Times: 2
+	Query: "gbifdatasetid:5df38344-b821-49c2-8174-cf0f29f4df0d-Mammals" ; Times: 1
+	Query: "(219235)" ; Times: 3
+	Query: "Miniopterus newtoni" ; Times: 2
+	Query: "genus:mesoplodon densirostris continent:North America" ; Times: 1
+	Query: "&#34;San Gerónimo Pirris&#34;" ; Times: 1
+	Query: "USNM 286738" ; Times: 2
+	Query: "catalognumber:316601" ; Times: 1
+	Query: "catalognumber:316602" ; Times: 1
+	Query: "INPA 3058" ; Times: 1
+	Query: "128354" ; Times: 1
+	Query: "USNM-519515" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 7
+	Query: "Pipistrellus hesperidus" ; Times: 1
+	Query: "USNM 328531" ; Times: 2
+	Query: "149025" ; Times: 1
+	Query: "Murina ussuriensis" ; Times: 2
+	Query: "Myotis fortidens" ; Times: 2
+	Query: "USNM 255305" ; Times: 2
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "USNM 519228" ; Times: 1
+	Query: "Molossops neglectus" ; Times: 2
+	Query: "Nyctinomops femorosaccus" ; Times: 2
+	Query: "326507" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis family:Didelphidae county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "USNM 264710" ; Times: 1
+	Query: "Chaerephon major" ; Times: 1
+	Query: "KU 155154" ; Times: 2
+	Query: "Scotorepens greyii" ; Times: 1
+	Query: "Emballonura furax" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "USNM 307941" ; Times: 1
+	Query: "USNM 357375" ; Times: 3
+	Query: "Acerodon jubatus" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "catalognumber:412162" ; Times: 4
+	Query: "USNM 213868" ; Times: 1
+	Query: "USNM 213869" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "USNM 213867" ; Times: 1
+	Query: "USNM 452579" ; Times: 2
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "255179" ; Times: 1
+	Query: "251413" ; Times: 1
+	Query: "Chilonatalus macer" ; Times: 1
+	Query: "Pan paniscus" ; Times: 1
+	Query: "USNM 336973" ; Times: 1
+	Query: "USNM 213464" ; Times: 2
+	Query: "(224143)" ; Times: 1
+	Query: "Eptesicus nilssonii" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 1
+	Query: "USNM 480434" ; Times: 1
+	Query: "USNM 354065" ; Times: 1
+	Query: "(208330)" ; Times: 1
+	Query: "USNM 107072" ; Times: 3
+	Query: "USNM 103398" ; Times: 1
+	Query: "Hipposideros gigas" ; Times: 1
+	Query: "USNM 163988" ; Times: 1
+	Query: "USNM 336157" ; Times: 2
+	Query: "USNM 336158" ; Times: 2
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "129118" ; Times: 1
+	Query: "Phoniscus atrox" ; Times: 1
+	Query: "159832" ; Times: 1
+	Query: "USNM 163984" ; Times: 1
+	Query: "USNM 131300" ; Times: 1
+	Query: "495002" ; Times: 2
+	Query: "USNM 239380" ; Times: 1
+	Query: "USNM 89052" ; Times: 2
+	Query: "USNM 199142" ; Times: 2
+	Query: "USNM 422185" ; Times: 1
+	Query: "USNM 461547" ; Times: 4
+	Query: "447321" ; Times: 1
+	Query: "USNM Mammals 449874" ; Times: 2
+	Query: "USNM 107670" ; Times: 1
+	Query: "USNM 128660" ; Times: 1
+	Query: "(216307)" ; Times: 2
+	Query: "174639" ; Times: 1
+	Query: "USNM 462652" ; Times: 2
+	Query: "Hipposideros fuliginosus" ; Times: 1
+	Query: "Taphozous perforatus" ; Times: 1
+	Query: "USNM 476614" ; Times: 1
+	Query: "143678" ; Times: 1
+	Query: "Emballonura beccarii" ; Times: 1
+	Query: "(224150)" ; Times: 1
+	Query: "USNM 357390" ; Times: 1
+	Query: "USNM 304148" ; Times: 1
+	Query: "Hipposideros obscurus" ; Times: 1
+	Query: "Anthops ornatus" ; Times: 1
+	Query: "437261" ; Times: 1
+	Query: "437262" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "USNM 109567" ; Times: 1
+	Query: "Miniopterus minor" ; Times: 2
+	Query: "Platyrrhinus albericoi" ; Times: 1
+	Query: "Kerivoula lenis" ; Times: 2
+	Query: "Plecotus ariel" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Chalinolobus" ; Times: 1
+	Query: "243462" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "Rhogeessa minutilla" ; Times: 1
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "genus:Lepus specificepithet:habessinicus" ; Times: 2
+	Query: "USNM 180383" ; Times: 2
+	Query: "Myotis macrotarsus" ; Times: 2
+	Query: "USNM 472353" ; Times: 1
+	Query: "461558" ; Times: 1
+	Query: "Nyctophilus walkeri" ; Times: 1
+	Query: "213081" ; Times: 1
+	Query: "Saccopteryx gymnura" ; Times: 1
+	Query: "USNM 300355" ; Times: 1
+	Query: "Ardops nichollsi" ; Times: 1
+	Query: "Pipistrellus maderensis" ; Times: 1
+	Query: "USNM 353876" ; Times: 2
+	Query: "159534" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 5
+	Query: "Hipposideros nicobarulae" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:aethiopicus" ; Times: 2
+	Query: "USNM 405648" ; Times: 3
+	Query: "Platymops setiger" ; Times: 1
+	Query: "Sturnira bidens" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Eumops bonariensis" ; Times: 1
+	Query: "Glauconycteris beatrix" ; Times: 1
+	Query: "USNM 215081" ; Times: 2
+	Query: "Pipistrellus inexspectatus" ; Times: 1
+	Query: "Rousettus aegyptiacus" ; Times: 1
+	Query: "genus:Chlorocebus specificepithet:aethiops" ; Times: 2
+	Query: "Nycteris aurita" ; Times: 2
+	Query: "(221279)" ; Times: 2
+	Query: "USNM 264985" ; Times: 1
+	Query: "specificepithet:truncatus genus:Tursiops stateprovince:&#34;Virginia&#34; preparations:skull institutioncode:USNM" ; Times: 1
+	Query: "USNM 79052" ; Times: 1
+	Query: "guadalupe Wilson" ; Times: 1
+	Query: "USNM 249672" ; Times: 2
+	Query: "USNM 352923" ; Times: 1
+	Query: "USNM 258855" ; Times: 1
+	Query: "country:Ecuador scientificname:Choloepus hoffmanni " ; Times: 15
+	Query: "110080" ; Times: 1
+	Query: "USNM Mammals 573858" ; Times: 1
+	Query: "Lonchophylla fornicata" ; Times: 2
+	Query: "Eptesicus hottentotus" ; Times: 1
+	Query: "Scotophilus leucogaster" ; Times: 1
+	Query: "USNM 114746" ; Times: 2
+	Query: "specificepithet:truncatus genus:Tursiops country:&#34;United States&#34; institutioncode:USNM" ; Times: 1
+	Query: "USNM 218909" ; Times: 3
+	Query: "JSHK 58" ; Times: 2
+	Query: "USNM Mammals 458938" ; Times: 1
+	Query: "USNM 119683" ; Times: 1
+	Query: "USNM 88716" ; Times: 1
+	Query: "Sturnira mordax" ; Times: 1
+	Query: "Nycteris tragata" ; Times: 2
+	Query: "Nycteris nana" ; Times: 2
+	Query: "Ia io" ; Times: 2
+	Query: "Pteropus neohibernicus" ; Times: 1
+	Query: "USNM 422517" ; Times: 2
+	Query: "127162" ; Times: 1
+	Query: "USNM 243045" ; Times: 2
+	Query: "527678" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "424435" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander melanurus " ; Times: 3
+	Query: "Dobsonia crenulata" ; Times: 3
+	Query: "Platyrrhinus infuscus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Perognathus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "424432" ; Times: 2
+	Query: "Nyctophilus bifax" ; Times: 1
+	Query: "Tylonycteris robustula" ; Times: 1
+	Query: "genus:Papio specificepithet:anubis" ; Times: 2
+	Query: "56769" ; Times: 1
+	Query: "Rhinolophus luctus" ; Times: 1
+	Query: "244172" ; Times: 1
+	Query: "(395485)" ; Times: 1
+	Query: "Lonchophylla handleyi" ; Times: 2
+	Query: "302824" ; Times: 1
+	Query: "usnm 145650" ; Times: 1
+	Query: "(219907)" ; Times: 1
+	Query: "genus:mesoplodon densirostris" ; Times: 1
+	Query: "Glauconycteris argentata" ; Times: 1
+	Query: "guadalupe mexico wilson" ; Times: 1
+	Query: "specificepithet:truncatus genus:Tursiops institutioncode:USNM" ; Times: 1
+	Query: "USNM 70918" ; Times: 1
+	Query: "(221277)" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus ismaeli " ; Times: 14
+	Query: "USNM 401745" ; Times: 2
+	Query: "(219234)" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis diminutus " ; Times: 3
+	Query: "Eumops auripendulus" ; Times: 1
+	Query: "USNM 313058" ; Times: 2
+	Query: "83012" ; Times: 1
+	Query: "422178" ; Times: 1
+	Query: "USNM 415513" ; Times: 1
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Rhinopoma hardwickii" ; Times: 1
+	Query: "USNM 328522" ; Times: 2
+	Query: "USNM 285727" ; Times: 1
+	Query: "Laephotis botswanae" ; Times: 2
+	Query: "Myotis chinensis" ; Times: 2
+	Query: "172118" ; Times: 2
+	Query: "USNM 449841" ; Times: 2
+	Query: "Hipposideros wollastoni" ; Times: 1
+	Query: "Pteropus dasymallus" ; Times: 1
+	Query: "Tomopeas ravus" ; Times: 1
+	Query: "USNM 239157" ; Times: 1
+	Query: "Harpyionycteris whiteheadi" ; Times: 1
+	Query: "specificepithet:obscurus genus:tamias" ; Times: 2
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 16
+	Query: "USNM 377367" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "Lionycteris spurrelli" ; Times: 2
+	Query: "USNM 271094" ; Times: 1
+	Query: "Choeroniscus periosus" ; Times: 1
+	Query: "usnm 193287" ; Times: 1
+	Query: "genus:spilogale county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "USNM 484164" ; Times: 2
+	Query: "USNM 192580" ; Times: 1
+	Query: "USNM 218114" ; Times: 1
+	Query: "Lophostoma silvicolum" ; Times: 2
+	Query: "Pteropus anetianus" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "112331" ; Times: 1
+	Query: "USNM 307556" ; Times: 1
+	Query: "Miniopterus tristis" ; Times: 2
+	Query: "Epomophorus minimus" ; Times: 1
+	Query: "Miniopterus egeri" ; Times: 2
+	Query: "USNM 15336" ; Times: 1
+	Query: "(224142)" ; Times: 1
+	Query: "Eptesicus andinus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Myzopodidae" ; Times: 3
+	Query: "454315" ; Times: 1
+	Query: "USNM 93779" ; Times: 2
+	Query: "USNM 112231" ; Times: 1
+	Query: "USNM 377963" ; Times: 2
+	Query: "USNM 336167" ; Times: 1
+	Query: "159824" ; Times: 1
+	Query: "USNM 163992" ; Times: 1
+	Query: "159826" ; Times: 1
+	Query: "genus:paramelomys specificepithet:platyops" ; Times: 1
+	Query: "USNM A6618" ; Times: 2
+	Query: "country:Ecuador scientificname:Scolomys melanops " ; Times: 1
+	Query: "USNM 236862" ; Times: 2
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodontomys alfari " ; Times: 1
+	Query: "USNM 254371" ; Times: 2
+	Query: "Barbastella barbastellus" ; Times: 1
+	Query: "USNM 405835" ; Times: 1
+	Query: "USNM 102141" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "Eptesicus serotinus" ; Times: 1
+	Query: "USNM 116315" ; Times: 1
+	Query: "USNM 250524" ; Times: 1
+	Query: "242381" ; Times: 1
+	Query: "569165" ; Times: 1
+	Query: "119357" ; Times: 2
+	Query: "USNM 199130" ; Times: 1
+	Query: "USNM 96424" ; Times: 1
+	Query: "Notopteris macdonaldi" ; Times: 2
+	Query: "USNM 200800" ; Times: 2
+	Query: "specificepithet:agilis genus:hylobates" ; Times: 1
+	Query: "tarsiidae" ; Times: 1
+	Query: "USNM 548452" ; Times: 1
+	Query: "USNM 548453" ; Times: 1
+	Query: "USNM 548450" ; Times: 2
+	Query: "USNM 548451" ; Times: 1
+	Query: "USNM 548456" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Dipodomys spectabilis stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "USNM 487855" ; Times: 1
+	Query: "USNM 487856" ; Times: 1
+	Query: "Hipposideros ridleyi" ; Times: 1
+	Query: "(224151)" ; Times: 1
+	Query: "USNM 176858" ; Times: 1
+	Query: "Platyrrhinus aurarius" ; Times: 1
+	Query: "USNM 340340" ; Times: 3
+	Query: "USNM 389690" ; Times: 2
+	Query: "(222672)" ; Times: 1
+	Query: "Diclidurus scutatus" ; Times: 1
+	Query: "USNM 401023" ; Times: 1
+	Query: "Erophylla bombifrons" ; Times: 1
+	Query: "USNM 111522" ; Times: 2
+	Query: "368432" ; Times: 1
+	Query: "(216304)" ; Times: 1
+	Query: "mustela frenata county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "USNM 72822" ; Times: 1
+	Query: "Paranyctimene raptor" ; Times: 1
+	Query: "213870" ; Times: 1
+	Query: "country:Ecuador scientificname:Transandinomys talamancae " ; Times: 2
+	Query: "USNM 180371" ; Times: 1
+	Query: "(224154)" ; Times: 1
+	Query: "USNM 278949" ; Times: 2
+	Query: "USNM 461842" ; Times: 2
+	Query: "USNM 479843" ; Times: 2
+	Query: "USNM 476316" ; Times: 1
+	Query: "Murina hilgendorfi" ; Times: 2
+	Query: "343567" ; Times: 1
+	Query: "USNM 155163" ; Times: 2
+	Query: "30908" ; Times: 2
+	Query: "Pteropus ornatus" ; Times: 1
+	Query: "214269" ; Times: 1
+	Query: "USNM 113309" ; Times: 2
+	Query: "USNM 213951" ; Times: 2
+	Query: "USNM 363475" ; Times: 1
+	Query: "USNM 212299" ; Times: 2
+	Query: "USNM 152747" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 6
+	Query: "USNM 152749" ; Times: 1
+	Query: "catalognumber:268274" ; Times: 1
+	Query: "Chaerephon bemmeleni" ; Times: 1
+	Query: "Nyctophilus microdon" ; Times: 1
+	Query: "USNM 152523" ; Times: 1
+	Query: "Hypsugo imbricatus" ; Times: 1
+	Query: "Scotorepens balstoni" ; Times: 1
+	Query: "USNM 118400" ; Times: 2
+	Query: "USNM 326559" ; Times: 1
+	Query: "Tadarida fulminans" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 4
+	Query: "catalognumber:436449" ; Times: 2
+	Query: "catalognumber:307779" ; Times: 1
+	Query: "USNM 262257" ; Times: 1
+	Query: "Rhinolophus blasii" ; Times: 1
+	Query: "Miniopterus fuscus" ; Times: 2
+	Query: "USNM 376628" ; Times: 2
+	Query: "241116" ; Times: 1
+	Query: "Rhinolophus nereis" ; Times: 1
+	Query: "USNM 255410" ; Times: 2
+	Query: "(221263)" ; Times: 1
+	Query: "515292" ; Times: 1
+	Query: "515291" ; Times: 1
+	Query: "USNM 148137" ; Times: 1
+	Query: "USNM 311336" ; Times: 1
+	Query: "Scotorepens sanborni" ; Times: 1
+	Query: "USNM 307555" ; Times: 1
+	Query: "Centronycteris maximiliani" ; Times: 1
+	Query: "USNM 356812" ; Times: 1
+	Query: "catalognumber:345848" ; Times: 1
+	Query: "(224485)" ; Times: 1
+	Query: "USNM 92945" ; Times: 1
+	Query: "257318" ; Times: 1
+	Query: "USNM 242690" ; Times: 3
+	Query: "401187" ; Times: 1
+	Query: "Rhinopoma muscatellum" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Laephotis" ; Times: 1
+	Query: "catalognumber:316575" ; Times: 1
+	Query: "Otopteropus cartilagonodus" ; Times: 1
+	Query: "USNM 191582" ; Times: 1
+	Query: "451822" ; Times: 1
+	Query: "specificepithet:gigantea genus:Manis" ; Times: 1
+	Query: "Taphozous nudiventris" ; Times: 1
+	Query: "genus:notiosorex locality:el paso" ; Times: 1
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "Taphozous georgianus" ; Times: 1
+	Query: "catalognumber:316598" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis oxyotus " ; Times: 4
+	Query: "USNM 325637" ; Times: 1
+	Query: "catalognumber:202796" ; Times: 1
+	Query: "USNM Mammals 448769" ; Times: 2
+	Query: "Monophyllus plethodon" ; Times: 2
+	Query: "Micronycteris hirsuta" ; Times: 2
+	Query: "Hypsugo pulveratus" ; Times: 1
+	Query: "USNM 460364" ; Times: 2
+	Query: "Ectophylla alba" ; Times: 1
+	Query: "catalognumber:146 institutioncode:USNM" ; Times: 1
+	Query: "USNM 198766" ; Times: 1
+	Query: "128339" ; Times: 1
+	Query: "Mormopterus loriae" ; Times: 2
+	Query: "USNM 210047" ; Times: 1
+	Query: "USNM 332671" ; Times: 2
+	Query: "USNM 332673" ; Times: 2
+	Query: "Leontopithecus chrysomelas" ; Times: 2
+	Query: "USNM 335106" ; Times: 4
+	Query: "USNM 335107" ; Times: 4
+	Query: "Coelops frithii" ; Times: 1
+	Query: "USNM 342135" ; Times: 2
+	Query: "USNM 342136" ; Times: 2
+	Query: "USNM 415563" ; Times: 1
+	Query: "(208331)" ; Times: 1
+	Query: "USNM Mammals 458885" ; Times: 2
+	Query: "USNM Mammals 458884" ; Times: 1
+	Query: "USNM Mammals 458881" ; Times: 1
+	Query: "USNM 342138" ; Times: 2
+	Query: "USNM 255361" ; Times: 1
+	Query: "113012" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "catalognumber:399988 institutioncode:USNM" ; Times: 1
+	Query: "USNM 331586" ; Times: 1
+	Query: "USNM 121000" ; Times: 2
+	Query: "231211" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "USNM 219185" ; Times: 2
+	Query: "Sturnira bogotensis" ; Times: 1
+	Query: "USNM 211402" ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 1
+	Query: "USNM 214167" ; Times: 2
+	Query: "USNM 448581" ; Times: 1
+	Query: "USNM 163509" ; Times: 1
+	Query: "465875" ; Times: 1
+	Query: "USNM 128069" ; Times: 3
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Rhinopoma macinnesi" ; Times: 1
+	Query: "Anoura peruana" ; Times: 1
+	Query: "Rhinolophus rouxii" ; Times: 1
+	Query: "Hipposideros armiger" ; Times: 1
+	Query: "USNM 153338" ; Times: 1
+	Query: "USNM 381220" ; Times: 1
+	Query: "USNM 89181" ; Times: 2
+	Query: "52618" ; Times: 1
+	Query: "USNM 381224" ; Times: 2
+	Query: "USNM 381225" ; Times: 4
+	Query: "USNM 248947" ; Times: 2
+	Query: "Taphozous melanopogon" ; Times: 1
+	Query: "USNM 98038" ; Times: 1
+	Query: "Micropteropus pusillus" ; Times: 2
+	Query: "Hendee Peru" ; Times: 1
+	Query: "USNM 160080" ; Times: 2
+	Query: "Natalus major" ; Times: 2
+	Query: "Pteropus alecto" ; Times: 1
+	Query: "USNM 40955" ; Times: 1
+	Query: "USNM 153608" ; Times: 1
+	Query: "Mormopterus jugularis" ; Times: 2
+	Query: "USNM 54846" ; Times: 1
+	Query: "(224486)" ; Times: 1
+	Query: "Mops leucostigma" ; Times: 2
+	Query: "USNM 332292" ; Times: 1
+	Query: "Sauromys petrophilus" ; Times: 1
+	Query: "USNM 336170" ; Times: 1
+	Query: "USNM 474253" ; Times: 2
+	Query: "Delphinus capensis" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 1
+	Query: "Platyrrhinus vittatus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Hesperoptenus" ; Times: 1
+	Query: "156339" ; Times: 1
+	Query: "USNM 78202" ; Times: 1
+	Query: "USNM Mammals 573844" ; Times: 1
+	Query: "USNM Mammals 573847" ; Times: 1
+	Query: "Nyctalus plancyi" ; Times: 2
+	Query: "USNM Mammals 573841" ; Times: 3
+	Query: "Lonchorhina inusitata" ; Times: 2
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 1
+	Query: "USNM 306692" ; Times: 1
+	Query: "Chalinolobus nigrogriseus" ; Times: 1
+	Query: "Aselliscus tricuspidatus" ; Times: 1
+	Query: "USNM 128809" ; Times: 1
+	Query: "USNM 354138" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 2
+	Query: "USNM 155371" ; Times: 1
+	Query: "USNM 109168" ; Times: 3
+	Query: "USNM 354131" ; Times: 1
+	Query: "Hipposideros jonesi" ; Times: 1
+	Query: "USNM 354137" ; Times: 1
+	Query: "country:Ecuador scientificname:Eira barbara " ; Times: 10
+	Query: "Murina tubinaris" ; Times: 2
+	Query: "USNM 433511" ; Times: 2
+	Query: "catalognumber:412725" ; Times: 2
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "country:Ecuador scientificname:Nephelomys auriventer " ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 8
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 1
+	Query: "USNM 261588" ; Times: 1
+	Query: "Pteropus rufus" ; Times: 1
+	Query: "USNM 254217" ; Times: 2
+	Query: "USNM 254218" ; Times: 2
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "Mops brachypterus" ; Times: 2
+	Query: "usnm 532303" ; Times: 2
+	Query: "98065 USNM" ; Times: 1
+	Query: "446012" ; Times: 1
+	Query: "catalognumber:399986 institutioncode:USNM" ; Times: 1
+	Query: "446016" ; Times: 1
+	Query: "USNM 233547" ; Times: 2
+	Query: "usnm 459730" ; Times: 1
+	Query: "Myotis gomantongensis" ; Times: 2
+	Query: "Rhinolophus hildebrandtii" ; Times: 1
+	Query: "USNM 213118" ; Times: 3
+	Query: "country:Ecuador scientificname:Lonchophylla concava " ; Times: 1
+	Query: "USNM 460104" ; Times: 2
+	Query: "USNM 533938" ; Times: 1
+	Query: "Lasiurus pfeifferi" ; Times: 2
+	Query: "USNM 216187" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus ravus " ; Times: 2
+	Query: "USNM 444556" ; Times: 1
+	Query: "USNM Mammals 458770" ; Times: 1
+	Query: "tamias obscurus meridionalis" ; Times: 1
+	Query: "USNM 461856" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:imberbis" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 5
+	Query: "USNM 222252" ; Times: 1
+	Query: "Hipposideros bicolor" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "USNM 300375" ; Times: 2
+	Query: "USNM 195015" ; Times: 2
+	Query: "USNM 472372" ; Times: 2
+	Query: "USNM 578138" ; Times: 4
+	Query: "USNM 155404" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 12
+	Query: "USNM 445685" ; Times: 2
+	Query: "USNM 155408" ; Times: 1
+	Query: "303060" ; Times: 1
+	Query: "shark vntype:observation" ; Times: 1
+	Query: "(11044)" ; Times: 2
+	Query: "USNM 109188" ; Times: 1
+	Query: "Myotis emarginatus" ; Times: 2
+	Query: "Coleura afra" ; Times: 1
+	Query: "USNM 328070" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "Rhinolophus celebensis" ; Times: 1
+	Query: "USNM 355046" ; Times: 1
+	Query: "Kerivoula lanosa" ; Times: 2
+	Query: "50807" ; Times: 1
+	Query: "Rhinolophus mehelyi" ; Times: 1
+	Query: "catalognumber:560425" ; Times: 1
+	Query: "Platyrrhinus angustirostris" ; Times: 1
+	Query: "213022" ; Times: 1
+	Query: "Chaerephon bivittatus" ; Times: 1
+	Query: "Lophostoma kalkoae" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "97922" ; Times: 1
+	Query: "Cardioderma cor" ; Times: 1
+	Query: "USNM 375865" ; Times: 1
+	Query: "USNM 375864" ; Times: 2
+	Query: "Mystacina robusta" ; Times: 2
+	Query: "Kerivoula papillosa" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis family:Didelphidae county:&#34;Victoria&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Myotis altarium" ; Times: 2
+	Query: "Mops mops" ; Times: 2
+	Query: "USNM 350413" ; Times: 1
+	Query: "USNM Mammals 573331" ; Times: 1
+	Query: "USNM 464133" ; Times: 1
+	Query: "241128" ; Times: 1
+	Query: "Epomophorus crypturus" ; Times: 1
+	Query: "Rhinolophus monoceros" ; Times: 1
+	Query: "241120" ; Times: 1
+	Query: "Artibeus concolor" ; Times: 1
+	Query: "USNM 131957" ; Times: 2
+	Query: "(KT876837)" ; Times: 1
+	Query: "Peponocephala electra" ; Times: 1
+	Query: "USNM 311326" ; Times: 1
+	Query: "Nasuella olivacea" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "specificepithet:THOUS family:CANIDAE country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "USNM 133052" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "USNM 181017" ; Times: 2
+	Query: "559177" ; Times: 1
+	Query: "527651" ; Times: 1
+	Query: "Histiotus laephotis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "Glischropus tylopus" ; Times: 1
+	Query: "USNM 332849" ; Times: 1
+	Query: "USNM 422845" ; Times: 1
+	Query: "103852" ; Times: 1
+	Query: "Hipposideros pygmaeus" ; Times: 1
+	Query: "USNM 315027" ; Times: 2
+	Query: "USNM 315026" ; Times: 2
+	Query: "(216301)" ; Times: 1
+	Query: "USNM 243935" ; Times: 3
+	Query: "261815" ; Times: 1
+	Query: "Uroderma davisi" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "USNM 115561" ; Times: 1
+	Query: "USNM 180964" ; Times: 2
+	Query: "484182" ; Times: 1
+	Query: "USNM 311928" ; Times: 1
+	Query: "Emballonura semicaudata" ; Times: 1
+	Query: "Lavia frons" ; Times: 2
+	Query: "USNM 162816" ; Times: 1
+	Query: "USNM 57131" ; Times: 1
+	Query: "Chaetodipus intermedius hasmedia:1" ; Times: 1
+	Query: "Micronycteris sanborni" ; Times: 2
+	Query: "USNM 117637" ; Times: 1
+	Query: "(217111)" ; Times: 1
+	Query: "Myonycteris torquata" ; Times: 2
+	Query: "USNM 243809" ; Times: 2
+	Query: "USNM 414806" ; Times: 2
+	Query: "USNM 244305" ; Times: 2
+	Query: "usnm 300369" ; Times: 2
+	Query: "325181" ; Times: 1
+	Query: "USNM 116483" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Quindio&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "USNM 459732" ; Times: 1
+	Query: "Mimetillus moloneyi" ; Times: 2
+	Query: "USNM 330286" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyrodes major " ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "USNM 16434" ; Times: 2
+	Query: "USNM 253507" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "USNM 12 1192" ; Times: 1
+	Query: "230595" ; Times: 1
+	Query: "120275" ; Times: 1
+	Query: "Lonchorhina orinocensis" ; Times: 2
+	Query: "120271" ; Times: 1
+	Query: "(219225)" ; Times: 2
+	Query: "USNM 240227" ; Times: 1
+	Query: "USNM 213089" ; Times: 1
+	Query: "(224487)" ; Times: 1
+	Query: "genus:Holochilus stateprovince:&#34;Buenos Aires&#34; country:&#34;Argentina&#34;" ; Times: 1
+	Query: "macaco de cheiro" ; Times: 1
+	Query: "(222659)" ; Times: 2
+	Query: "USNM 67339" ; Times: 2
+	Query: "USNM 275639" ; Times: 1
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "USNM 160300" ; Times: 1
+	Query: "USNM 484188" ; Times: 1
+	Query: "USNM 213086" ; Times: 1
+	Query: "class:Mammalia county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Chiroderma doriae" ; Times: 1
+	Query: "(568611) institutioncode:USNM" ; Times: 2
+	Query: "USNM 325998" ; Times: 2
+	Query: "Chaerephon ansorgei" ; Times: 1
+	Query: "USNM 452580" ; Times: 2
+	Query: "Mosia nigrescens" ; Times: 2
+	Query: "Artibeus hirsutus" ; Times: 1
+	Query: "USNM 386829" ; Times: 1
+	Query: "specificepithet:cinerea genus:aonyx catalognumber:396645 institutioncode:USNM" ; Times: 1
+	Query: "USNM 255801" ; Times: 2
+	Query: "USNM 174657" ; Times: 2
+	Query: "Scotophilus nux" ; Times: 1
+	Query: "Rousettus lanosus" ; Times: 1
+	Query: "&#34;Jalcocotán&#34;" ; Times: 7
+	Query: "USNM 170895" ; Times: 1
+	Query: "USNM 278752" ; Times: 1
+	Query: "411158" ; Times: 1
+	Query: "129120" ; Times: 1
+	Query: "Eptesicus anatolicus" ; Times: 1
+	Query: "USNM 181379" ; Times: 2
+	Query: "USNM 89089" ; Times: 1
+	Query: "catalognumber:412159" ; Times: 1
+	Query: "USNM 335486" ; Times: 2
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:USNM" ; Times: 1
+	Query: "USNM 128810" ; Times: 1
+	Query: "USNM 276432" ; Times: 2
+	Query: "USNM 109177" ; Times: 1
+	Query: "USNM 306648" ; Times: 2
+	Query: "urocyon baja california sur" ; Times: 1
+	Query: "USNM 350133" ; Times: 3
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "424434" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 2
+	Query: "352724" ; Times: 1
+	Query: "USNM 200824" ; Times: 2
+	Query: "USNM 128659" ; Times: 1
+	Query: "Platyrrhinus umbratus" ; Times: 1
+	Query: "USNM 463003" ; Times: 1
+	Query: "USNM 271458" ; Times: 1
+	Query: "USNM Mammals 573856" ; Times: 1
+	Query: "528194" ; Times: 1
+	Query: "USNM 408055" ; Times: 2
+	Query: "USNM 214807" ; Times: 1
+	Query: "Thyroptera discifera" ; Times: 1
+	Query: "genus:Mustela frenata xanthogenys" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "genus:mustela county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Mystacinidae" ; Times: 1
+	Query: "USNM 304110" ; Times: 3
+	Query: "sigmodon ochrognathus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "242838" ; Times: 1
+	Query: "Hylonycteris underwoodi" ; Times: 1
+	Query: "specificepithet:lutris genus:Enhydra catalognumber:263315 institutioncode:USNM" ; Times: 1
+	Query: "413099" ; Times: 1
+	Query: "109988" ; Times: 1
+	Query: "Natalus tumidirostris" ; Times: 2
+	Query: "USNM 279525" ; Times: 1
+	Query: "USNM 212182" ; Times: 1
+	Query: "Thomomys baileyi" ; Times: 4
+	Query: "genus:Cerdocyon country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "USNM 135517" ; Times: 1
+	Query: "USNM 364556" ; Times: 2
+	Query: "238923" ; Times: 1
+	Query: "106816" ; Times: 1
+	Query: "465739" ; Times: 1
+	Query: "USNM 405404" ; Times: 1
+	Query: "Hipposideros diadema" ; Times: 1
+	Query: "USNM 356843" ; Times: 1
+	Query: "specificepithet:cinerea genus:aonyx catalognumber:314979 institutioncode:USNM" ; Times: 1
+	Query: "Pteropus aldabrensis" ; Times: 1
+	Query: "USNM 117737" ; Times: 1
+	Query: "USNM 188585" ; Times: 1
+	Query: "USNM 88844" ; Times: 1
+	Query: "USNM 454516" ; Times: 1
+	Query: "USNM 113691" ; Times: 2
+	Query: "411207" ; Times: 1
+	Query: "411204" ; Times: 1
+	Query: "411205" ; Times: 1
+	Query: "Nyctimene rabori" ; Times: 2
+	Query: "USNM 255399" ; Times: 2
+	Query: "411208" ; Times: 1
+	Query: "USNM 314037" ; Times: 2
+	Query: "USNM 117887" ; Times: 1
+	Query: "USNM 314033" ; Times: 2
+	Query: "Bauerus dubiaquercus" ; Times: 1
+	Query: "USNM 356492" ; Times: 1
+	Query: "chaseni" ; Times: 2
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "Amorphochilus schnablii" ; Times: 1
+	Query: "USNM 525605" ; Times: 1
+	Query: "usnm 518976" ; Times: 1
+	Query: "Eptesicus gobiensis" ; Times: 1
+	Query: "USNM 305600" ; Times: 1
+	Query: "Trinycteris nicefori" ; Times: 1
+	Query: "USNM 286996" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "USNM 252385" ; Times: 1
+	Query: "Mops demonstrator" ; Times: 2
+	Query: "151107" ; Times: 1
+	Query: "USNM 364955" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 2
+	Query: "Falsistrellus petersi" ; Times: 1
+	Query: "Myotis diminutus" ; Times: 2
+	Query: "(KT876836)" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Rhinolophus sinicus" ; Times: 4
+	Query: "Myotis formosus" ; Times: 2
+	Query: "USNM 413755" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Vespadelus darlingtoni" ; Times: 1
+	Query: "Mormopterus norfolkensis" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus stateprovince:&#34;hawaii&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "USNM 212411" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis family:Didelphidae county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 177638" ; Times: 2
+	Query: "USNM 212415" ; Times: 1
+	Query: "Nycteris parisii" ; Times: 2
+	Query: "Mormopterus planiceps" ; Times: 2
+	Query: "451804" ; Times: 1
+	Query: "USNM 251919" ; Times: 2
+	Query: "Scotophilus viridis" ; Times: 1
+	Query: "USNM 462695" ; Times: 1
+	Query: "USNM 182245" ; Times: 2
+	Query: "USNM 182244" ; Times: 2
+	Query: "USNM 105893" ; Times: 1
+	Query: "USNM 84419" ; Times: 2
+	Query: "catalognumber:294642" ; Times: 1
+	Query: "USNM 483378" ; Times: 1
+	Query: "USNM 303049" ; Times: 1
+	Query: "Ptenochirus jagori" ; Times: 1
+	Query: "(219232)" ; Times: 1
+	Query: "130611" ; Times: 1
+	Query: "227571" ; Times: 1
+	Query: "USNM 115485" ; Times: 1
+	Query: "410314" ; Times: 1
+	Query: "usnm 275372" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "Eptesicus chiriquinus" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "Neoromicia nanus ethiopia" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "USNM 222261" ; Times: 1
+	Query: "Pteropus niger" ; Times: 1
+	Query: "USNM 121246" ; Times: 2
+	Query: "128792" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 9
+	Query: "USNM 121245" ; Times: 2
+	Query: "325374" ; Times: 2
+	Query: "USNM 333790" ; Times: 2
+	Query: "USNM 115489" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 2
+	Query: "Miniopterus fuliginosus" ; Times: 2
+	Query: "240917" ; Times: 1
+	Query: "USNM 172920" ; Times: 1
+	Query: "country:Ecuador scientificname:Pecari tajacu " ; Times: 3
+	Query: "57155" ; Times: 1
+	Query: "(219226)" ; Times: 1
+	Query: "Scotomanes ornatus" ; Times: 1
+	Query: "Pteropus samoensis" ; Times: 1
+	Query: "USNM 470414" ; Times: 2
+	Query: "usnm 393705" ; Times: 2
+	Query: "Sturnira paulsoni" ; Times: 1
+	Query: "128439" ; Times: 1
+	Query: "USNM 462666" ; Times: 1
+	Query: "USNM 174399" ; Times: 1
+	Query: "Myotis blythii" ; Times: 2
+	Query: "family:geomyidae institutioncode:USNM" ; Times: 1
+	Query: "Glauconycteris variegata" ; Times: 1
+	Query: "Nycteris hispida" ; Times: 2
+	Query: "USNM 171034" ; Times: 2
+	Query: "USNM 388502" ; Times: 2
+	Query: "USNM 388501" ; Times: 2
+	Query: "Rhinolophus creaghi" ; Times: 1
+	Query: "Pteropus mahaganus" ; Times: 1
+	Query: "Barbastella leucomelas" ; Times: 1
+	Query: "Pteropus scapulatus" ; Times: 1
+	Query: "141793" ; Times: 1
+	Query: "USNM 284578" ; Times: 1
+	Query: "eumops county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lonchophylla chocoana" ; Times: 2
+	Query: "128314" ; Times: 1
+	Query: "USNM 316844" ; Times: 2
+	Query: "165054" ; Times: 2
+	Query: "USNM 145505" ; Times: 1
+	Query: "USNM 404332" ; Times: 1
+	Query: "USNM 284577" ; Times: 1
+	Query: "&#34;Huehuetán&#34;" ; Times: 1
+	Query: "Cistugo seabrae" ; Times: 1
+	Query: "catalognumber:112554" ; Times: 2
+	Query: "Miniopterus magnater" ; Times: 2
+	Query: "474215" ; Times: 2
+	Query: "country:Ecuador scientificname:Ateles belzebuth " ; Times: 4
+	Query: "USNM 337023" ; Times: 1
+	Query: "USNM 328313" ; Times: 2
+	Query: "USNM 269137" ; Times: 2
+	Query: "Mormopterus beccarii" ; Times: 2
+	Query: "USNM 236853" ; Times: 1
+	Query: "USNM 317098" ; Times: 1
+	Query: "Myotis bocagii" ; Times: 2
+	Query: "Daubentoniidae" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 1
+	Query: "USNM 15490" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 2
+	Query: "USNM 15495" ; Times: 2
+	Query: "USNM 306659" ; Times: 1
+	Query: "USNM 410647" ; Times: 1
+	Query: "country:Ecuador scientificname:Phylloderma stenops " ; Times: 1
+	Query: "Myotis adversus" ; Times: 2
+	Query: "277954" ; Times: 1
+	Query: "USNM 198456" ; Times: 1
+	Query: "USNM 145506" ; Times: 1
+	Query: "USNM 410648" ; Times: 1
+	Query: "Pteropus conspicillatus" ; Times: 1
+	Query: "USNM 306657" ; Times: 2
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 2
+	Query: "USNM 213351" ; Times: 1
+	Query: "USNM 280451" ; Times: 1
+	Query: "USNM 414813" ; Times: 1
+	Query: "Scotophilus heathii" ; Times: 1
+	Query: "USNM 214815" ; Times: 1
+	Query: "USNM 236754" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus stateprovince:&#34;california&#34; institutioncode:USNM" ; Times: 1
+	Query: "specificepithet:albibarbis genus:hylobates" ; Times: 1
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 2
+	Query: "USNM 120893" ; Times: 1
+	Query: "USNM 324563" ; Times: 1
+	Query: "264720" ; Times: 1
+	Query: "USNM 368210" ; Times: 2
+	Query: "USNM 368211" ; Times: 2
+	Query: "582371 usnm" ; Times: 2
+	Query: "USNM 135500" ; Times: 1
+	Query: "USNM 364543" ; Times: 1
+	Query: "USNM 203351" ; Times: 1
+	Query: "USNM 135506" ; Times: 1
+	Query: "USNM Mammals 459926" ; Times: 2
+	Query: "USNM Mammals 459923" ; Times: 2
+	Query: "83646" ; Times: 2
+	Query: "Pteropus faunulus" ; Times: 1
+	Query: "Rhinolophus cornutus" ; Times: 1
+	Query: "recordnumber:69001" ; Times: 1
+	Query: "USNM 444779" ; Times: 1
+	Query: "183797" ; Times: 1
+	Query: "USNM 214977" ; Times: 1
+	Query: "USNM 179025" ; Times: 2
+	Query: "USNM 131765" ; Times: 2
+	Query: "USNM 177021" ; Times: 3
+	Query: "USNM Mammals 573551" ; Times: 1
+	Query: "USNM 326633" ; Times: 2
+	Query: "USNM Mammals 573557" ; Times: 1
+	Query: "USNM 326637" ; Times: 2
+	Query: "USNM 177028" ; Times: 2
+	Query: "USNM 304071" ; Times: 2
+	Query: "USNM 434875" ; Times: 1
+	Query: "USNM 371610" ; Times: 1
+	Query: "USNM 363717" ; Times: 2
+	Query: "USNM 323266" ; Times: 1
+	Query: "Murina aurata" ; Times: 2
+	Query: "Miniopterus fraterculus" ; Times: 2
+	Query: "Rhinolophus affinis" ; Times: 1
+	Query: "USNM 270241" ; Times: 1
+	Query: "USNM 384769" ; Times: 1
+	Query: "usnm 255753" ; Times: 1
+	Query: "USNM 11792" ; Times: 3
+	Query: "USNM 422163" ; Times: 1
+	Query: "USNM 437272" ; Times: 1
+	Query: "USNM 385560" ; Times: 2
+	Query: "115522" ; Times: 1
+	Query: "USNM 308002" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "USNM 448253" ; Times: 2
+	Query: "332309" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "Neoromicia guineensis" ; Times: 2
+	Query: "Rhinolophus pusillus" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "USNM 376983" ; Times: 1
+	Query: "USNM 15511" ; Times: 1
+	Query: "USNM 118605" ; Times: 2
+	Query: "Rhinonicteris aurantia" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 1
+	Query: "(221251)" ; Times: 1
+	Query: "Miniopterus pusillus" ; Times: 2
+	Query: "USNM 152795" ; Times: 1
+	Query: "188646" ; Times: 1
+	Query: "188645" ; Times: 1
+	Query: "usnm 329647" ; Times: 1
+	Query: "USNM 75237" ; Times: 1
+	Query: "USNM 298062" ; Times: 1
+	Query: "71221" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "(208332)" ; Times: 1
+	Query: "USNM 113737" ; Times: 2
+	Query: "332301" ; Times: 1
+	Query: "(224140)" ; Times: 1
+	Query: "USNM 159437" ; Times: 2
+	Query: "USNM 159434" ; Times: 2
+	Query: "USNM 159432" ; Times: 2
+	Query: "USNM 273292" ; Times: 1
+	Query: "256532" ; Times: 1
+	Query: "USNM 569553" ; Times: 1
+	Query: "USNM 181743" ; Times: 5
+	Query: "(222660)" ; Times: 3
+	Query: "(221260)" ; Times: 1
+	Query: "Glauconycteris curryae" ; Times: 1
+	Query: "Taphozous hildegardeae" ; Times: 1
+	Query: "Neotoma picta" ; Times: 2
+	Query: "USNM 333557" ; Times: 1
+	Query: "USNM 264362" ; Times: 2
+	Query: "51716" ; Times: 1
+	Query: "USNM 162780" ; Times: 1
+	Query: "USNM 148752" ; Times: 1
+	Query: "USNM 355022" ; Times: 1
+	Query: "USNM 341124" ; Times: 1
+	Query: "13715" ; Times: 3
+	Query: "USNM 113181" ; Times: 2
+	Query: "Rhogeessa io" ; Times: 1
+	Query: "USNM 146976" ; Times: 1
+	Query: "USNM 146975" ; Times: 1
+	Query: "Taphozous hamiltoni" ; Times: 1
+	Query: "Diclidurus ingens" ; Times: 1
+	Query: "451816" ; Times: 1
+	Query: "USNM 283796" ; Times: 1
+	Query: "451813" ; Times: 1
+	Query: "Chalinolobus tuberculatus" ; Times: 1
+	Query: "USNM 275640" ; Times: 1
+	Query: "Myotis ater" ; Times: 2
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "(217113)" ; Times: 2
+	Query: "276428" ; Times: 1
+	Query: "dactylomys peruanus" ; Times: 2
+	Query: "462051" ; Times: 1
+	Query: "USNM 464976" ; Times: 1
+	Query: "USNM 464977" ; Times: 1
+	Query: "USNM 464978" ; Times: 1
+	Query: "USNM 487316" ; Times: 1
+	Query: "Chaerephon aloysiisabaudiae" ; Times: 1
+	Query: "USNM 121390" ; Times: 1
+	Query: "USNM 181699" ; Times: 2
+	Query: "USNM 422486" ; Times: 1
+	Query: "USNM 172886" ; Times: 1
+	Query: "309328" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "USNM 173093" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "USNM 414822" ; Times: 1
+	Query: "meminna" ; Times: 1
+	Query: "USNM 361495" ; Times: 3
+	Query: "USNM 562780" ; Times: 1
+	Query: "catalognumber:147079 institutioncode:USNM" ; Times: 1
+	Query: "Epomophorus wahlbergi" ; Times: 1
+	Query: "USNM 255351" ; Times: 1
+	Query: "USNM 170177" ; Times: 1
+	Query: "407731" ; Times: 1
+	Query: "(219910)" ; Times: 1
+	Query: "USNM 170378" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 3
+	Query: "USNM 243170" ; Times: 2
+	Query: "USNM 125039" ; Times: 1
+	Query: "USNM 170376" ; Times: 1
+	Query: "USNM 333775" ; Times: 1
+	Query: "Platyrrhinus chocoensis" ; Times: 1
+	Query: "250621" ; Times: 1
+	Query: "USNM 301947" ; Times: 1
+	Query: "USNM 237665" ; Times: 1
+	Query: "191664" ; Times: 1
+	Query: "USNM 200923" ; Times: 2
+	Query: "465844" ; Times: 1
+	Query: "(219229)" ; Times: 1
+	Query: "60753" ; Times: 1
+	Query: "canis lupus beothucus" ; Times: 2
+	Query: "USNM 366453" ; Times: 1
+	Query: "(219228)" ; Times: 1
+	Query: "Plecotus sacrimontis" ; Times: 1
+	Query: "143946" ; Times: 1
+	Query: "USNM 404302" ; Times: 2
+	Query: "Cynopterus minutus" ; Times: 1
+	Query: "152808" ; Times: 1
+	Query: "catalognumber:360059" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 3
+	Query: "country:Ecuador scientificname:Choeroniscus minor " ; Times: 2
+	Query: "Miniopterus ambohitrensis" ; Times: 2
+	Query: "USNM 55277" ; Times: 2
+	Query: "Megaerops niphanae" ; Times: 2
+	Query: "USNM 464423" ; Times: 1
+	Query: "USNM 210922" ; Times: 1
+	Query: "179541" ; Times: 1
+	Query: "USNM 12666" ; Times: 2
+	Query: "Lophostoma carrikeri" ; Times: 2
+	Query: "catalognumber:112545" ; Times: 1
+	Query: "USNM 116289" ; Times: 1
+	Query: "157299" ; Times: 1
+	Query: "catalognumber:112542" ; Times: 1
+	Query: "USNM 518947" ; Times: 1
+	Query: "USNM 206452" ; Times: 2
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Arielulus" ; Times: 1
+	Query: "Lissonycteris angolensis" ; Times: 2
+	Query: "234073" ; Times: 1
+	Query: "USNM 467589" ; Times: 1
+	Query: "USNM 128836" ; Times: 2
+	Query: "USNM 213965" ; Times: 1
+	Query: "Myotis handleyi" ; Times: 2
+	Query: "USNM 128830" ; Times: 2
+	Query: "Micronycteris schmidtorum" ; Times: 2
+	Query: "Rhinolophus shameli" ; Times: 1
+	Query: "Myotis hasseltii" ; Times: 2
+	Query: "USNM 424741" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "USNM 234758" ; Times: 1
+	Query: "country:Ecuador scientificname:Aegialomys xanthaeolus " ; Times: 1
+	Query: "&#34;Armila, Quebrada Venado&#34;" ; Times: 1
+	Query: "154687" ; Times: 1
+	Query: "437188" ; Times: 1
+	Query: "Laephotis wintoni" ; Times: 2
+	Query: "USNM 433547" ; Times: 2
+	Query: "Felis margarita" ; Times: 1
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "USNM 253541" ; Times: 2
+	Query: "USNM 189038" ; Times: 1
+	Query: "178304" ; Times: 1
+	Query: "USNM 479339" ; Times: 2
+	Query: "332730" ; Times: 1
+	Query: "USNM 189037" ; Times: 1
+	Query: "USNM 385753" ; Times: 1
+	Query: "USNM 285430" ; Times: 1
+	Query: "(453044)" ; Times: 1
+	Query: "USNM 279329" ; Times: 2
+	Query: "catalognumber:240344" ; Times: 1
+	Query: "USNM 385592" ; Times: 2
+	Query: "UAM 6943" ; Times: 2
+	Query: "(55759)" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 2
+	Query: "Pteropus poliocephalus" ; Times: 1
+	Query: "USNM 309150" ; Times: 2
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "USNM 216425" ; Times: 2
+	Query: "recordnumber:878 institutioncode:USNM" ; Times: 2
+	Query: "Cheiromeles parvidens" ; Times: 1
+	Query: "USNM 145616" ; Times: 2
+	Query: "USNM 460461" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "catalognumber:427632" ; Times: 1
+	Query: "chaetodipus chiricahua county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "catalognumber:299844 institutioncode:USNM" ; Times: 1
+	Query: "USNM 404877" ; Times: 1
+	Query: "USNM 217426" ; Times: 2
+	Query: "(473225)" ; Times: 1
+	Query: "USNM 284579" ; Times: 2
+	Query: "Mops condylurus" ; Times: 1
+	Query: "(216308)" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "Rhinolophus malayanus" ; Times: 1
+	Query: "USNM 341145" ; Times: 2
+	Query: "USNM 341144" ; Times: 1
+	Query: "Hipposideros megalotis" ; Times: 1
+	Query: "Miniopterus inflatus" ; Times: 2
+	Query: "USNM 394250" ; Times: 1
+	Query: "USNM Mammals 573541" ; Times: 1
+	Query: "USNM 217421" ; Times: 2
+	Query: "Rhinolophus hipposideros" ; Times: 1
+	Query: "country:Ecuador scientificname:Sigmodon peruanus " ; Times: 1
+	Query: "USNM 405694" ; Times: 1
+	Query: "USNM 405695" ; Times: 1
+	Query: "USNM 405696" ; Times: 1
+	Query: "Grampus griseus" ; Times: 2
+	Query: "Zapus hudsonius alascensis" ; Times: 4
+	Query: "476836" ; Times: 1
+	Query: "Emballonura monticola" ; Times: 1
+	Query: "USNM 120999" ; Times: 2
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "USNM 113340" ; Times: 1
+	Query: "Myopterus whitleyi" ; Times: 2
+	Query: "USNM 404331" ; Times: 1
+	Query: "USNM 437260" ; Times: 1
+	Query: "Styloctenium wallacei" ; Times: 1
+	Query: "USNM 437268" ; Times: 2
+	Query: "(208553)" ; Times: 1
+	Query: "Chaerephon plicatus" ; Times: 1
+	Query: "Nyctalus azoreum" ; Times: 2
+	Query: "trinycteris" ; Times: 1
+	Query: "USNM 170418" ; Times: 3
+	Query: "Vulpes vulpes stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "145302" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis family:Didelphidae county:&#34;Matagorda&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "326034" ; Times: 1
+	Query: "USNM 377527" ; Times: 2
+	Query: "Nycticeius cubanus" ; Times: 2
+	Query: "USNM 212781" ; Times: 1
+	Query: "USNM 212782" ; Times: 1
+	Query: "USNM 64075" ; Times: 2
+	Query: "375860" ; Times: 1
+	Query: "(216302)" ; Times: 1
+	Query: "Mormopterus minutus" ; Times: 2
+	Query: "USNM 133267" ; Times: 1
+	Query: "USNM 304396" ; Times: 1
+	Query: "USNM 167545" ; Times: 1
+	Query: "MACACO DE CHEIRO" ; Times: 1
+	Query: "130291" ; Times: 1
+	Query: "USNM 9611" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "USNM 91615" ; Times: 1
+	Query: "specificepithet:centurio genus:Ametrida country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "361490" ; Times: 1
+	Query: "USNM 406347" ; Times: 2
+	Query: "Eonycteris major" ; Times: 1
+	Query: "Neoromicia rendalli" ; Times: 2
+	Query: "Histiotus alienus" ; Times: 1
+	Query: "527682" ; Times: 1
+	Query: "USNM 79135" ; Times: 1
+	Query: "USNM 406348" ; Times: 2
+	Query: "USNM 117578" ; Times: 3
+	Query: "Promops centralis" ; Times: 1
+	Query: "catalognumber:525555" ; Times: 1
+	Query: "catalognumber:525556" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34; institutioncode:USNM" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 3
+	Query: "USNM 363617" ; Times: 1
+	Query: "USNM 333788" ; Times: 1
+	Query: "(221270)" ; Times: 1
+	Query: "Lophostoma schulzi" ; Times: 2
+	Query: "Tursiops aduncus" ; Times: 1
+	Query: "140357" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "Acerodon celebensis" ; Times: 1
+	Query: "Myotis chiloensis" ; Times: 2
+	Query: "167705" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "specificepithet:cinerea genus:aonyx catalognumber:198054 institutioncode:USNM" ; Times: 1
+	Query: "Rhinolophus darlingi" ; Times: 1
+	Query: "catalognumber:412237" ; Times: 1
+	Query: "486583" ; Times: 1
+	Query: "Mops nanulus" ; Times: 2
+	Query: "USNM 153636" ; Times: 1
+	Query: "Choloepus didactylus mappable:1" ; Times: 2
+	Query: "USNM 276923" ; Times: 2
+	Query: "545889" ; Times: 1
+	Query: "Myotis dominicensis" ; Times: 2
+	Query: "USNM 462781" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "USNM 125028" ; Times: 2
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "(222667)" ; Times: 1
+	Query: "423235" ; Times: 1
+	Query: "USNM Mammals 458776" ; Times: 1
+	Query: "USNM Mammals 458774" ; Times: 1
+	Query: "USNM 372478" ; Times: 2
+	Query: "USNM 172903" ; Times: 1
+	Query: "USNM 435648" ; Times: 1
+	Query: "USNM 214126" ; Times: 3
+	Query: "Scotophilus nucella" ; Times: 1
+	Query: "USNM 214128" ; Times: 3
+	Query: "Choloepus hoffmanni mappable:1" ; Times: 2
+	Query: "USNM Mammals 458919" ; Times: 1
+	Query: "USNM 249454" ; Times: 1
+	Query: "USNM Mammals 458916" ; Times: 1
+	Query: "484185" ; Times: 1
+	Query: "USNM 249451" ; Times: 1
+	Query: "country:Ecuador scientificname:Grampus griseus " ; Times: 3
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nyctalus" ; Times: 1
+	Query: "USNM 313135" ; Times: 2
+	Query: "Myopterus daubentonii" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus nigellus " ; Times: 2
+	Query: "120849" ; Times: 1
+	Query: "Hipposideros beatus" ; Times: 1
+	Query: "KM397170" ; Times: 1
+	Query: "(219911)" ; Times: 1
+	Query: "USNM 377001" ; Times: 2
+	Query: "Diclidurus isabellus" ; Times: 1
+	Query: "USNM 307720" ; Times: 2
+	Query: "USNM 310816" ; Times: 2
+	Query: "Pipistrellus stenopterus" ; Times: 1
+	Query: "USNM 377238" ; Times: 2
+	Query: "USNM 210958" ; Times: 1
+	Query: "USNM Mammals 458829" ; Times: 1
+	Query: "(224149)" ; Times: 1
+	Query: "Hipposideros alongensis" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "Neoromicia capensis" ; Times: 2
+	Query: "USNM 331835" ; Times: 1
+	Query: "USNM 254415" ; Times: 1
+	Query: "Dobsonia anderseni" ; Times: 1
+	Query: "catalognumber:316589" ; Times: 1
+	Query: "USNM 391947" ; Times: 1
+	Query: "Myotis martiniquensis" ; Times: 2
+	Query: "USNM 213972" ; Times: 2
+	Query: "USNM 255432" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "specificepithet:pennanti stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "USNM 250172" ; Times: 2
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "41248" ; Times: 1
+	Query: "Kerivoula picta" ; Times: 2
+	Query: "USNM 455164" ; Times: 2
+	Query: "Haplonycteris fischeri" ; Times: 1
+	Query: "USNM 252412" ; Times: 2
+	Query: "USNM 461505" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 2
+	Query: "USNM 460675" ; Times: 2
+	Query: "USNM 263945" ; Times: 1
+	Query: "USNM 58802" ; Times: 1
+	Query: "USNM 293465" ; Times: 1
+	Query: "Molossus currentium" ; Times: 2
+	Query: "223527" ; Times: 1
+	Query: "USNM 477251" ; Times: 1
+	Query: "Eptesicus bottae" ; Times: 1
+	Query: "USNM 477252" ; Times: 1
+	Query: "USNM 285442" ; Times: 1
+	Query: "USNM 279330" ; Times: 1
+	Query: "USNM 178998" ; Times: 3
+	Query: "catalognumber:240332" ; Times: 1
+	Query: "Kerivoula whiteheadi" ; Times: 2
+	Query: "Myotis dasycneme" ; Times: 2
+	Query: "USNM 279048" ; Times: 2
+	Query: "Mormopterus phrudus" ; Times: 2
+	Query: "USNM 221434" ; Times: 2
+	Query: "Glaucomys oregonensis" ; Times: 2
+	Query: "USNM 212151" ; Times: 1
+	Query: "Pipistrellus ceylonicus" ; Times: 1
+	Query: "(217107)" ; Times: 1
+	Query: "USNM 213350" ; Times: 1
+	Query: "country:Ecuador scientificname:Ichthyomys hydrobates " ; Times: 7
+	Query: "Abrothrix sanborni" ; Times: 1
+	Query: "USNM 172496" ; Times: 2
+	Query: "USNM 467025" ; Times: 1
+	Query: "(216309)" ; Times: 1
+	Query: "USNM 216186" ; Times: 2
+	Query: "USNM 341154" ; Times: 1
+	Query: "Lasiurus castaneus" ; Times: 2
+	Query: "27757" ; Times: 1
+	Query: "USNM 213119" ; Times: 2
+	Query: "USNM 394242" ; Times: 1
+	Query: "Rhinolophus lepidus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis family:Didelphidae county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "USNM 405639" ; Times: 2
+	Query: "USNM Mammals 573571" ; Times: 1
+	Query: "344812" ; Times: 1
+	Query: "USNM 173052" ; Times: 2
+	Query: "&#34;Paya Village&#34;" ; Times: 1
+	Query: "USNM 197940" ; Times: 1
+	Query: "USNM 253806" ; Times: 1
+	Query: "USNM 190665" ; Times: 3
+	Query: "USNM 190666" ; Times: 2
+	Query: "Otonycteris hemprichii" ; Times: 1
+	Query: "genus:Oryx specificepithet:beisa" ; Times: 2
+	Query: "262964" ; Times: 1
+	Query: "378336" ; Times: 1
+	Query: "USNM 234563" ; Times: 1
+	Query: "SAGUINUS NIGER" ; Times: 2
+	Query: "USNM 422108" ; Times: 2
+	Query: "USNM 252605" ; Times: 2
+	Query: "USNM 340330" ; Times: 1
+	Query: "USNM 437251" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "USNM 356811" ; Times: 1
+	Query: "USNM 461785" ; Times: 2
+	Query: "USNM 385945" ; Times: 1
+	Query: "Myotis albescens" ; Times: 2
+	Query: "Rousettus leachii" ; Times: 1
+	Query: "(208554)" ; Times: 1
+	Query: "Cheiromeles torquatus" ; Times: 1
+	Query: "KM397171" ; Times: 1
+	Query: "302880" ; Times: 1
+	Query: "USNM 180471" ; Times: 1
+	Query: "USNM 159349" ; Times: 2
+	Query: "(219909)" ; Times: 1
+	Query: "225702" ; Times: 1
+	Query: "USNM 300449" ; Times: 1
+	Query: "USNM 193866" ; Times: 1
+	Query: "326029" ; Times: 1
+	Query: "USNM 263966" ; Times: 3
+	Query: "USNM 337044" ; Times: 2
+	Query: "527431" ; Times: 1
+	Query: "country:Ecuador scientificname:Diclidurus albus " ; Times: 1
+	Query: "Cormura brevirostris" ; Times: 1
+	Query: "Sturnira magna" ; Times: 1
+	Query: "USNM 326611" ; Times: 1
+	Query: "USNM 326614" ; Times: 2
+	Query: "USNM 342130" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 853 download events in this period)
+Total number of records downloaded: 32977
+Number of different countries: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 21
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 14
+	Country: Indonesia ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 72
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Taiwan ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 15
+	Date: 2020-03-18 ; Times: 35
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-09 ; Times: 7
+	Date: 2020-03-14 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 6
+	Date: 2020-03-10 ; Times: 4
+	Date: 2020-03-11 ; Times: 3
+	Date: 2020-03-17 ; Times: 6
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 14
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-22 ; Times: 4
+	Date: 2020-03-21 ; Times: 5
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 5
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "ozotoceros bezoarticus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "mazama temama" ; Times: 1
+	Query: "(scandentia)" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Indiana&#34;" ; Times: 3
+	Query: "ALOUATTA BELZEBUL" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:USNM" ; Times: 1
+	Query: "genus:Tachyoryctes" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "griffithsi" ; Times: 1
+	Query: "specificepithet:vagrans genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hartii genus:Enchisthenes" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Neoromicia" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "AOTUS INFULATUS" ; Times: 1
+	Query: "genus:Cavia country:&#34;Peru&#34;" ; Times: 1
+	Query: "elephantulus rufescens" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "bradypus variegatus" ; Times: 3
+	Query: "class:mammalia county:&#34;Avery&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Mystacinidae" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Ceará&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "101701" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nyctalus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Arielulus" ; Times: 1
+	Query: "class:mammalia county:&#34;Macon&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "the great lakes" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Glauconycteris" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Turkey&#34;" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Perognathus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Vespadelus" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sousa chinensis" ; Times: 6
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nycteridae" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Scotorepens" ; Times: 1
+	Query: "CHIROPOTES SATANAS" ; Times: 1
+	Query: "neovison vison vntype:specimen continent:America basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "class:mammalia county:&#34;Watauga&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "specificepithet:pennanti stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ALOUATTA CARAYA" ; Times: 1
+	Query: "(institutioncode:MVZ OR institutioncode:MSB OR institutioncode:LSUMZ OR institutioncode:AMNH OR institutioncode:USNM OR institutioncode:FMNH OR institutioncode:TTU) (family:Emballonuridae)" ; Times: 1
+	Query: "specificepithet:marsupialis genus:didelphis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Rhinopomatidae" ; Times: 2
+	Query: "Nasuella olivacea" ; Times: 1
+	Query: "CEBUS LIBIDINOSUS" ; Times: 1
+	Query: "&#34;*Urocitellus columbianus&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH (genus:Laephotis)" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:mexicana genus:tamandua" ; Times: 1
+	Query: "class:mammalia county:&#34;Henderson&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dipodomys gravipes" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Megadermatidae" ; Times: 1
+	Query: "genus:Pteropus country:&#34;Vietnam&#34;" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "specificepithet:flavescens genus:Perognathus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Chaetodipus intermedius hasmedia:1" ; Times: 1
+	Query: "genus:mesoplodon densirostris continent:North America" ; Times: 1
+	Query: "county:&#34;Amador&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Falsistrellus" ; Times: 1
+	Query: "specificepithet:curasoae genus:Leptonycteris" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Nyctophilus" ; Times: 3
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH (genus:Vespertilio)" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Myzopodidae" ; Times: 2
+	Query: "Hog deer" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Chalinolobus" ; Times: 2
+	Query: "SAGUINUS NIGER" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "genus:Holochilus stateprovince:&#34;Buenos Aires&#34; country:&#34;Argentina&#34;" ; Times: 1
+	Query: "macaco de cheiro" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Hesperoptenus" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Barbastella" ; Times: 1
+	Query: "Canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH hypsugo" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "class:Mammalia county:&#34;guilford&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH Phoniscus" ; Times: 1
+	Query: "institutioncode: MVZ OR MSB OR LSU OR TTU OR AMNH OR USNM OR FMNH PTEROPODIDAE" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
